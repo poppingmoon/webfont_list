@@ -226,7 +226,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/abeezee/v23/esDR31xSG-6AGleN2tOklQ.ttf',
-    popularityRank: 149,
+    popularityRank: 144,
   ),
   WebFont(
     family: 'ADLaM Display',
@@ -239,7 +239,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/adlamdisplay/v1/KFOhCnGXkPOLlhx6jD8_b1ZEOsDSlQ.ttf',
-    popularityRank: 597,
+    popularityRank: 564,
   ),
   WebFont(
     family: 'AR One Sans',
@@ -259,7 +259,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9PWw9mg.ttf',
-    popularityRank: 552,
+    popularityRank: 553,
   ),
   WebFont(
     family: 'Abel',
@@ -273,7 +273,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/abel/v18/MwQ5bhbm2POE2VlBOA.ttf',
-    popularityRank: 122,
+    popularityRank: 124,
   ),
   WebFont(
     family: 'Abhaya Libre',
@@ -294,7 +294,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/abhayalibre/v18/e3tmeuGtX-Co5MNzeAOqinEQeknS.ttf',
-    popularityRank: 364,
+    popularityRank: 355,
   ),
   WebFont(
     family: 'Aboreto',
@@ -307,7 +307,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/aboreto/v2/5DCXAKLhwDDQ4N8bpKXUBw.ttf',
-    popularityRank: 491,
+    popularityRank: 461,
   ),
   WebFont(
     family: 'Abril Fatface',
@@ -320,7 +320,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/abrilfatface/v25/zOL64pLDlL1D99S8g8PtiKchq-FmiA.ttf',
-    popularityRank: 146,
+    popularityRank: 141,
   ),
   WebFont(
     family: 'Abyssinica SIL',
@@ -337,7 +337,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/abyssinicasil/v9/oY1H8ezOqK7iI3rK_45WKoc8J5UYDlc.ttf',
-    popularityRank: 1004,
+    popularityRank: 1032,
   ),
   WebFont(
     family: 'Aclonica',
@@ -351,7 +351,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/aclonica/v25/K2FyfZJVlfNNSEBXGY7SAoo.ttf',
-    popularityRank: 534,
+    popularityRank: 533,
   ),
   WebFont(
     family: 'Acme',
@@ -365,7 +365,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/acme/v29/RrQfboBx-C5_XxzBaw.ttf',
-    popularityRank: 247,
+    popularityRank: 233,
   ),
   WebFont(
     family: 'Actor',
@@ -379,7 +379,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/actor/v18/wEOzEBbCkc5cO0elVSw.ttf',
-    popularityRank: 267,
+    popularityRank: 280,
   ),
   WebFont(
     family: 'Adamina',
@@ -392,7 +392,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/adamina/v22/j8_r6-DH1bjoc-dwi-vUFQ.ttf',
-    popularityRank: 468,
+    popularityRank: 450,
   ),
   WebFont(
     family: 'Advent Pro',
@@ -447,7 +447,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/adventpro/v33/V8mqoQfxVT4Dvddr_yOwrzaFxV7JtdQgFqXdUAQrGp_zgX5sWCpLQyN_TZAs.ttf',
-    popularityRank: 228,
+    popularityRank: 237,
   ),
   WebFont(
     family: 'Afacad',
@@ -483,7 +483,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/afacad/v3/6NUK8FKMIQOGaw6wjYT7ZHG_zsBBfhXtamE-9g.ttf',
-    popularityRank: 398,
+    popularityRank: 387,
   ),
   WebFont(
     family: 'Afacad Flux',
@@ -518,7 +518,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/afacadflux/v4/9oRgNYYQryMlneUPykRmTuH4ET0fri4I5rJVT_CWHKDZnskVK5edsUwXVaVgRg.ttf',
-    popularityRank: 701,
+    popularityRank: 674,
   ),
   WebFont(
     family: 'Agbalumo',
@@ -537,7 +537,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/agbalumo/v6/55xvey5uMdT2N37KZfMEgL0.ttf',
-    popularityRank: 723,
+    popularityRank: 695,
   ),
   WebFont(
     family: 'Agdasima',
@@ -551,7 +551,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/agdasima/v5/PN_zRfyxp2f1fUCgAPg7pTw.ttf',
-    popularityRank: 770,
+    popularityRank: 890,
   ),
   WebFont(
     family: 'Agu Display',
@@ -568,7 +568,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/agudisplay/v3/iJWXBXKbbi6BeMC1_RX7qF_V5E7aciGRRWUwX4fdkKVP.ttf',
-    popularityRank: 1619,
+    popularityRank: 1606,
   ),
   WebFont(
     family: 'Aguafina Script',
@@ -581,7 +581,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/aguafinascript/v24/If2QXTv_ZzSxGIO30LemWEOmt1b3q8Qt.ttf',
-    popularityRank: 835,
+    popularityRank: 796,
   ),
   WebFont(
     family: 'Akatab',
@@ -603,7 +603,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/akatab/v9/VuJwdNrK3Z7gqJE_WYb9.ttf',
-    popularityRank: 765,
+    popularityRank: 780,
   ),
   WebFont(
     family: 'Akaya Kanadaka',
@@ -620,7 +620,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/akayakanadaka/v18/N0bM2S5CPO5oOQqvazoRRb-8-MfQQZE.ttf',
-    popularityRank: 1100,
+    popularityRank: 1160,
   ),
   WebFont(
     family: 'Akaya Telivigala',
@@ -637,7 +637,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/akayatelivigala/v28/lJwc-oo_iG9wXqU3rCTD395tp0uiTdPXtA.ttf',
-    popularityRank: 1214,
+    popularityRank: 1240,
   ),
   WebFont(
     family: 'Akronim',
@@ -650,7 +650,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRpygF7lA.ttf',
-    popularityRank: 1134,
+    popularityRank: 1126,
   ),
   WebFont(
     family: 'Akshar',
@@ -671,7 +671,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYF-9GS8w.ttf',
-    popularityRank: 446,
+    popularityRank: 435,
   ),
   WebFont(
     family: 'Akt',
@@ -710,7 +710,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/akt/v2/d6lTkaygQdnog0zePb60zivs1xAnlmRROQ.ttf',
-    popularityRank: 1453,
+    popularityRank: 1367,
   ),
   WebFont(
     family: 'Aladin',
@@ -723,7 +723,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/aladin/v26/ZgNSjPJFPrvJV5fF6C38.ttf',
-    popularityRank: 946,
+    popularityRank: 952,
   ),
   WebFont(
     family: 'Alan Sans',
@@ -742,7 +742,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alansans/v5/zOLt4pbDmq5Eu6ebjMSx4sywa339j__gfN_o9yF_iA.ttf',
-    popularityRank: 1055,
+    popularityRank: 915,
   ),
   WebFont(
     family: 'Alata',
@@ -760,7 +760,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alata/v12/PbytFmztEwbIoce7zqM.ttf',
-    popularityRank: 231,
+    popularityRank: 243,
   ),
   WebFont(
     family: 'Alatsi',
@@ -778,7 +778,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alatsi/v14/TK3iWkUJAxQ2nLN2Hz8D.ttf',
-    popularityRank: 608,
+    popularityRank: 633,
   ),
   WebFont(
     family: 'Albert Sans',
@@ -827,7 +827,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5PPrYfy.ttf',
-    popularityRank: 163,
+    popularityRank: 159,
   ),
   WebFont(
     family: 'Aldrich',
@@ -840,7 +840,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/aldrich/v22/MCoTzAn-1s3IGyJMVaEY2g.ttf',
-    popularityRank: 500,
+    popularityRank: 493,
   ),
   WebFont(
     family: 'Alef',
@@ -855,7 +855,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alef/v24/FeVfS0NQpLYgnjNRDw.ttf',
-    popularityRank: 625,
+    popularityRank: 591,
   ),
   WebFont(
     family: 'Alegreya',
@@ -900,7 +900,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/alegreya/v41/4UacrEBBsBhlBjvfkQjt71kZfyBzPgNG9hU4_aqm.ttf',
-    popularityRank: 221,
+    popularityRank: 253,
   ),
   WebFont(
     family: 'Alegreya SC',
@@ -941,7 +941,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/alegreyasc/v28/taiOGmRtCJ62-O0HhNEa-Z6p2ZU.ttf',
-    popularityRank: 676,
+    popularityRank: 618,
   ),
   WebFont(
     family: 'Alegreya Sans',
@@ -990,7 +990,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alegreyasans/v28/5aUz9_-1phKLFgshYDvh6Vwt7VxtuA.ttf',
-    popularityRank: 203,
+    popularityRank: 191,
   ),
   WebFont(
     family: 'Alegreya Sans SC',
@@ -1039,7 +1039,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alegreyasanssc/v26/mtGh4-RGJqfMvt7P8FUr0Q1j-Hf1Bk9l8g.ttf',
-    popularityRank: 508,
+    popularityRank: 509,
   ),
   WebFont(
     family: 'Aleo',
@@ -1092,7 +1092,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/aleo/v16/c4m61nF8G8_s6gHhIOX0IYBo_KJ3GlP8Foo.ttf',
-    popularityRank: 235,
+    popularityRank: 223,
   ),
   WebFont(
     family: 'Alex Brush',
@@ -1109,7 +1109,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/alexbrush/v23/SZc83FzrJKuqFbwMKk6EhUPz6A.ttf',
-    popularityRank: 366,
+    popularityRank: 368,
   ),
   WebFont(
     family: 'Alexandria',
@@ -1145,7 +1145,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alexandria/v6/UMBCrPdDqW66y0Y2usFeQCH18mulUxBvI9r7TpbGFps.ttf',
-    popularityRank: 301,
+    popularityRank: 297,
   ),
   WebFont(
     family: 'Alfa Slab One',
@@ -1162,7 +1162,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/alfaslabone/v21/6NUQ8FmMKwSEKjnm5-4v-4Jh2dRhfg.ttf',
-    popularityRank: 71,
+    popularityRank: 73,
   ),
   WebFont(
     family: 'Alice',
@@ -1181,7 +1181,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/alice/v21/OpNCnoEEmtHa6GcIrgs.ttf',
-    popularityRank: 397,
+    popularityRank: 379,
   ),
   WebFont(
     family: 'Alien Block',
@@ -1194,7 +1194,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/alienblock/v2/JIA3UVFjdXpFsgA7S8BAOyOjNTE.ttf',
-    popularityRank: 1814,
+    popularityRank: 1876,
   ),
   WebFont(
     family: 'Alike',
@@ -1213,7 +1213,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/alike/v22/HI_EiYEYI6BIoHjAQ5E.ttf',
-    popularityRank: 813,
+    popularityRank: 830,
   ),
   WebFont(
     family: 'Alike Angular',
@@ -1231,7 +1231,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/alikeangular/v27/3qTrojWunjGQtEBlIcwMbSoI7kIwaA.ttf',
-    popularityRank: 977,
+    popularityRank: 1008,
   ),
   WebFont(
     family: 'Alkalami',
@@ -1248,7 +1248,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/alkalami/v8/zOL_4pfDmqRL95WXi6eKycQ.ttf',
-    popularityRank: 1171,
+    popularityRank: 1193,
   ),
   WebFont(
     family: 'Alkatra',
@@ -1270,7 +1270,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/alkatra/v5/r05EGLZA5qhCYsyJbuChFuK48Medzngmu4cOptQ.ttf',
-    popularityRank: 1159,
+    popularityRank: 1090,
   ),
   WebFont(
     family: 'Allan',
@@ -1285,7 +1285,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/allan/v26/ea8XadU7WuTxEub3NdA.ttf',
-    popularityRank: 898,
+    popularityRank: 902,
   ),
   WebFont(
     family: 'Allerta',
@@ -1298,7 +1298,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/allerta/v19/TwMO-IAHRlkbx940YnAXTQ.ttf',
-    popularityRank: 712,
+    popularityRank: 706,
   ),
   WebFont(
     family: 'Allerta Stencil',
@@ -1311,7 +1311,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/allertastencil/v24/HTx0L209KT-LmIE9N7OR6eiycOe1-jbz.ttf',
-    popularityRank: 607,
+    popularityRank: 608,
   ),
   WebFont(
     family: 'Allison',
@@ -1328,7 +1328,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/allison/v13/X7nl4b88AP2nkbvZCCea5A.ttf',
-    popularityRank: 444,
+    popularityRank: 593,
   ),
   WebFont(
     family: 'Allkin',
@@ -1341,7 +1341,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/allkin/v10/ieV_2Y5KIGmGKpnDLH5q.ttf',
-    popularityRank: 1787,
+    popularityRank: 1774,
   ),
   WebFont(
     family: 'Allura',
@@ -1358,7 +1358,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/allura/v23/9oRPNYsQpS4zjuA_jQgT.ttf',
-    popularityRank: 281,
+    popularityRank: 283,
   ),
   WebFont(
     family: 'Almarai',
@@ -1374,7 +1374,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/almarai/v19/tsstApxBaigK_hnnQ1uFpg.ttf',
-    popularityRank: 135,
+    popularityRank: 138,
   ),
   WebFont(
     family: 'Almendra',
@@ -1391,7 +1391,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/almendra/v28/H4ckBXKAlMnTn0CskxY7yLs.ttf',
-    popularityRank: 677,
+    popularityRank: 678,
   ),
   WebFont(
     family: 'Almendra Display',
@@ -1404,7 +1404,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/almendradisplay/v33/0FlPVOGWl1Sb4O3tETtADHRRlZhzbS7USw.ttf',
-    popularityRank: 1483,
+    popularityRank: 1426,
   ),
   WebFont(
     family: 'Almendra SC',
@@ -1472,7 +1472,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alumnisans/v20/nwpHtKqkOwdO2aOIwhWudEWpx_zq_Xna-Xd9OO9gqVEN.ttf',
-    popularityRank: 139,
+    popularityRank: 140,
   ),
   WebFont(
     family: 'Alumni Sans Collegiate One',
@@ -1491,7 +1491,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdbwjw.ttf',
-    popularityRank: 1545,
+    popularityRank: 1508,
   ),
   WebFont(
     family: 'Alumni Sans Inline One',
@@ -1509,7 +1509,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ETdg.ttf',
-    popularityRank: 1524,
+    popularityRank: 1480,
   ),
   WebFont(
     family: 'Alumni Sans Pinstripe',
@@ -1529,7 +1529,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObheDY79M.ttf',
-    popularityRank: 1355,
+    popularityRank: 1361,
   ),
   WebFont(
     family: 'Alumni Sans SC',
@@ -1584,7 +1584,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/alumnisanssc/v3/Y4GfYaxzVjArrOeNFYbCvkZ8C28IyGwp26UHdIteaL1mgcib.ttf',
-    popularityRank: 1569,
+    popularityRank: 1494,
   ),
   WebFont(
     family: 'Alyamama',
@@ -1608,7 +1608,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/alyamama/v2/snf0s0a6-txy62q5QqIBNi2sXSGcdTeZg9RHqdvV.ttf',
-    popularityRank: 1715,
+    popularityRank: 1445,
   ),
   WebFont(
     family: 'Amarante',
@@ -1622,7 +1622,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/amarante/v30/xMQXuF1KTa6EvGx9bp-2AX4.ttf',
-    popularityRank: 882,
+    popularityRank: 879,
   ),
   WebFont(
     family: 'Amaranth',
@@ -1639,7 +1639,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/amaranth/v19/KtkuALODe433f0j1zMnDHdU.ttf',
-    popularityRank: 306,
+    popularityRank: 302,
   ),
   WebFont(
     family: 'Amarna',
@@ -1680,7 +1680,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/amarna/v2/MCoPzAj-18jIHCAeTqjMCgZDAOUBwaalsR93Bg.ttf',
-    popularityRank: 1608,
+    popularityRank: 1579,
   ),
   WebFont(
     family: 'Amatic SC',
@@ -1701,7 +1701,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/amaticsc/v28/TUZyzwprpvBS1izr_vOEDOSa.ttf',
-    popularityRank: 240,
+    popularityRank: 231,
   ),
   WebFont(
     family: 'Amethysta',
@@ -1714,7 +1714,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/amethysta/v17/rP2Fp2K15kgb_F3ibfW4GT-G.ttf',
-    popularityRank: 1057,
+    popularityRank: 1062,
   ),
   WebFont(
     family: 'Amiko',
@@ -1734,7 +1734,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/amiko/v15/WwkQxPq1DFK04uqkeVo.ttf',
-    popularityRank: 732,
+    popularityRank: 736,
   ),
   WebFont(
     family: 'Amiri',
@@ -1755,7 +1755,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHpUotLY.ttf',
-    popularityRank: 187,
+    popularityRank: 189,
   ),
   WebFont(
     family: 'Amiri Quran',
@@ -1768,7 +1768,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/amiriquran/v19/_Xmo-Hk0rD6DbUL4_vH8Zp5s5ig.ttf',
-    popularityRank: 1268,
+    popularityRank: 1189,
   ),
   WebFont(
     family: 'Amita',
@@ -1787,7 +1787,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/amita/v20/HhyaU5si9Om7PTluC_A.ttf',
-    popularityRank: 426,
+    popularityRank: 418,
   ),
   WebFont(
     family: 'Anaheim',
@@ -1808,7 +1808,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anaheim/v17/8vIX7w042Wp87g4Gy0_24JbCiPrl-h5sLprEKEY.ttf',
-    popularityRank: 1027,
+    popularityRank: 1026,
   ),
   WebFont(
     family: 'Ancizar Sans',
@@ -1857,7 +1857,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ancizarsans/v8/fC1zPYtHY2vX3wj8IbE7PxeWXCAxfsUebXFMyzioNpMk2w.ttf',
-    popularityRank: 1482,
+    popularityRank: 1486,
   ),
   WebFont(
     family: 'Ancizar Serif',
@@ -1898,7 +1898,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ancizarserif/v8/PN_lRfmxrmD9dEi_Qbtf91W1xPPTOqu-ZIAJUN3Z_cARv4M.ttf',
-    popularityRank: 1397,
+    popularityRank: 1424,
   ),
   WebFont(
     family: 'Andada Pro',
@@ -1935,7 +1935,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/andadapro/v26/HhyEU5Qi9-SuOEhPe4LtKoVCuWGURPcg3DPJBb8dHrg.ttf',
-    popularityRank: 570,
+    popularityRank: 508,
   ),
   WebFont(
     family: 'Andika',
@@ -1957,7 +1957,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/andika/v27/mem_Ya6iyW-LwqgwbLYV.ttf',
-    popularityRank: 542,
+    popularityRank: 521,
   ),
   WebFont(
     family: 'Anek Bangla',
@@ -1981,7 +1981,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anekbangla/v16/_gPW1R38qTExHg-17BhM6n66QhabMYB0fBKONtHhRSIUIre5mq3Ofm9ZEoYq4w.ttf',
-    popularityRank: 427,
+    popularityRank: 409,
   ),
   WebFont(
     family: 'Anek Devanagari',
@@ -2005,7 +2005,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anekdevanagari/v17/jVyo7nP0CGrUsxB-QiRgw0NlLaVt_QUAkYxLRoCL23mlh20ZVHOMAWbgHLDtkt9mHEk.ttf',
-    popularityRank: 811,
+    popularityRank: 670,
   ),
   WebFont(
     family: 'Anek Gujarati',
@@ -2029,7 +2029,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anekgujarati/v17/l7g_bj5oysqknvkCo2T_8FuiIRBA7lncQUmbIBEtPKiYYQhRwyBxCD-0F5CLwkik.ttf',
-    popularityRank: 1164,
+    popularityRank: 1197,
   ),
   WebFont(
     family: 'Anek Gurmukhi',
@@ -2053,7 +2053,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anekgurmukhi/v13/0QIAMXRO_YSkA0quVLY79JnHybfeEOrXCa9Dmd9Ql6a6R_vEMc5TaLkbd5tZXaQx.ttf',
-    popularityRank: 1400,
+    popularityRank: 1407,
   ),
   WebFont(
     family: 'Anek Kannada',
@@ -2077,7 +2077,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anekkannada/v15/raxcHiCNvNMKe1CKFsINYFlgkEIwGa8nL6ruWJg1j--h8pvBKSiw4dFDETulXxM.ttf',
-    popularityRank: 1198,
+    popularityRank: 1228,
   ),
   WebFont(
     family: 'Anek Latin',
@@ -2101,7 +2101,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/aneklatin/v11/co3pmWZulTRoU4a8dqrWiajBS5ByUkvdrluH-xWG5uJTY4x-L3PuR7ApKNqh.ttf',
-    popularityRank: 390,
+    popularityRank: 487,
   ),
   WebFont(
     family: 'Anek Malayalam',
@@ -2125,7 +2125,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anekmalayalam/v18/6qLjKZActRTs_mZAJUZWWkhke0nYa_vC8_Azq3-gP1SReZeOtqQuDVUTUZu-LMvzOA.ttf',
-    popularityRank: 980,
+    popularityRank: 983,
   ),
   WebFont(
     family: 'Anek Odia',
@@ -2145,7 +2145,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anekodia/v17/TK3PWkoJARApz5UCd345tuevwwQX0CwsoYkAWgWYevAauivBUnmZfp3nV5Q.ttf',
-    popularityRank: 1376,
+    popularityRank: 1401,
   ),
   WebFont(
     family: 'Anek Tamil',
@@ -2189,7 +2189,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anektelugu/v13/LhWLMVrUNvsddMtYGCx4FcVWOjlwE1WgXdoJ-5XHMl2DkooGK7i13y--kEyM3Q.ttf',
-    popularityRank: 80,
+    popularityRank: 90,
   ),
   WebFont(
     family: 'Angkor',
@@ -2202,7 +2202,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/angkor/v35/H4cmBXyAlsPdnlbO8yY6.ttf',
-    popularityRank: 285,
+    popularityRank: 193,
   ),
   WebFont(
     family: 'Annapurna SIL',
@@ -2222,7 +2222,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/annapurnasil/v2/yYLv0hDY0f2iu9tPmRWtllidwNJ3cQ.ttf',
-    popularityRank: 1627,
+    popularityRank: 1345,
   ),
   WebFont(
     family: 'Annie Use Your Telescope',
@@ -2235,7 +2235,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/annieuseyourtelescope/v20/daaLSS4tI2qYYl3Jq9s_Hu74xwktnlKxH6osGVGTlT3F.ttf',
-    popularityRank: 652,
+    popularityRank: 655,
   ),
   WebFont(
     family: 'Anonymous Pro',
@@ -2256,7 +2256,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/anonymouspro/v22/rP2Bp2a15UIB7Un-bOeISG3pHl028A.ttf',
-    popularityRank: 416,
+    popularityRank: 411,
   ),
   WebFont(
     family: 'Anta',
@@ -2275,7 +2275,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anta/v1/gyBzhwQ3KsIyVF07OA.ttf',
-    popularityRank: 926,
+    popularityRank: 969,
   ),
   WebFont(
     family: 'Antic',
@@ -2289,7 +2289,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/antic/v20/TuGfUVB8XY5DRZZKq9w.ttf',
-    popularityRank: 472,
+    popularityRank: 958,
   ),
   WebFont(
     family: 'Antic Didone',
@@ -2302,7 +2302,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/anticdidone/v17/RWmPoKKX6u8sp8fIWdnDKqDSqIEC.ttf',
-    popularityRank: 631,
+    popularityRank: 620,
   ),
   WebFont(
     family: 'Antic Slab',
@@ -2315,7 +2315,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/anticslab/v17/bWt97fPFfRzkCa9Jlp6IacNcWQ.ttf',
-    popularityRank: 219,
+    popularityRank: 206,
   ),
   WebFont(
     family: 'Anton',
@@ -2333,7 +2333,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm3K1-Co.ttf',
-    popularityRank: 70,
+    popularityRank: 71,
   ),
   WebFont(
     family: 'Anton SC',
@@ -2350,7 +2350,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/antonsc/v1/4UaBrEBBsgltGn71syLnx60.ttf',
-    popularityRank: 687,
+    popularityRank: 658,
   ),
   WebFont(
     family: 'Antonio',
@@ -2369,7 +2369,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/antonio/v22/gNMbW3NwSYq_9WD34ngK5F8vR8T0PVxx8StJaWQ.ttf',
-    popularityRank: 309,
+    popularityRank: 300,
   ),
   WebFont(
     family: 'Anuphan',
@@ -2393,7 +2393,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/anuphan/v6/2sDBZGxYgY7LkLT0s2Yrm5UhuLoIZCkY9T4lEGE.ttf',
-    popularityRank: 527,
+    popularityRank: 535,
   ),
   WebFont(
     family: 'Anybody',
@@ -2446,7 +2446,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/anybody/v13/VuJbdNvK2Ib2ppdWYq311GH32hxIv0sd5grncSUi2F_Wim4J12D_r8_H.ttf',
-    popularityRank: 749,
+    popularityRank: 739,
   ),
   WebFont(
     family: 'Aoboshi One',
@@ -2463,7 +2463,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/aoboshione/v13/Gg8xN5kXaAXtHQrFxwl10xsKDGI.ttf',
-    popularityRank: 953,
+    popularityRank: 930,
   ),
   WebFont(
     family: 'Arapey',
@@ -2477,7 +2477,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/arapey/v17/-W__XJn-UDDA2RCKZtoY.ttf',
-    popularityRank: 440,
+    popularityRank: 436,
   ),
   WebFont(
     family: 'Arbutus',
@@ -2490,7 +2490,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/arbutus/v30/NaPYcZ7dG_5J3pooX9Nnqw.ttf',
-    popularityRank: 1419,
+    popularityRank: 1364,
   ),
   WebFont(
     family: 'Arbutus Slab',
@@ -2503,7 +2503,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/arbutusslab/v17/oY1Z8e7OuLXkJGbXtr5ba7ZlaqUZ.ttf',
-    popularityRank: 673,
+    popularityRank: 646,
   ),
   WebFont(
     family: 'Architects Daughter',
@@ -2516,7 +2516,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/architectsdaughter/v20/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTY9g5g.ttf',
-    popularityRank: 365,
+    popularityRank: 327,
   ),
   WebFont(
     family: 'Archivo',
@@ -2569,7 +2569,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/archivo/v25/k3k6o8UDI-1M0wlSV9XAw6lQkqWY8Q82sJaRE-NWIDdgffTTNDNZ8Rds.ttf',
-    popularityRank: 52,
+    popularityRank: 49,
   ),
   WebFont(
     family: 'Archivo Black',
@@ -2615,7 +2615,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/archivonarrow/v35/tss5ApVBdCYD5Q7hcxTE1ArZ0Zz8oY2KRmwvKhhvLFG6pXmp.ttf',
-    popularityRank: 166,
+    popularityRank: 163,
   ),
   WebFont(
     family: 'Are You Serious',
@@ -2632,7 +2632,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/areyouserious/v14/ll8kK2GVSSr-PtjQ5nONVcNn430KhDVj.ttf',
-    popularityRank: 1531,
+    popularityRank: 1590,
   ),
   WebFont(
     family: 'Aref Ruqaa',
@@ -2650,7 +2650,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/arefruqaa/v26/WwkbxPW1E165rajQKDulIIEoUA.ttf',
-    popularityRank: 795,
+    popularityRank: 797,
   ),
   WebFont(
     family: 'Aref Ruqaa Ink',
@@ -2668,7 +2668,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx71TgXoU.ttf',
-    popularityRank: 1445,
+    popularityRank: 1358,
   ),
   WebFont(
     family: 'Arima',
@@ -2695,7 +2695,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/arima/v7/neIWzCqmt4Aup_qE1nFWqxI1RZX1YTAOpAuK.ttf',
-    popularityRank: 843,
+    popularityRank: 892,
   ),
   WebFont(
     family: 'Arimo',
@@ -2751,7 +2751,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/arizonia/v23/neIIzCemt4A5qa7mv5WHFqk.ttf',
-    popularityRank: 657,
+    popularityRank: 685,
   ),
   WebFont(
     family: 'Armata',
@@ -2764,7 +2764,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/armata/v21/gokvH63_HV5jQ-ENlTRz.ttf',
-    popularityRank: 663,
+    popularityRank: 637,
   ),
   WebFont(
     family: 'Arsenal',
@@ -2786,7 +2786,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/arsenal/v13/wXKrE3kQtZQ4pF3D517cBQ.ttf',
-    popularityRank: 374,
+    popularityRank: 372,
   ),
   WebFont(
     family: 'Arsenal SC',
@@ -2808,7 +2808,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/arsenalsc/v1/x3dlckLHea6e5BEtsfxibNsmtw.ttf',
-    popularityRank: 1503,
+    popularityRank: 1511,
   ),
   WebFont(
     family: 'Artifika',
@@ -2822,7 +2822,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/artifika/v22/VEMyRoxzronptCuxu5Ws7DQ.ttf',
-    popularityRank: 912,
+    popularityRank: 907,
   ),
   WebFont(
     family: 'Arvo',
@@ -2859,7 +2859,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/arya/v21/ga6CawNG-HJdxUf__Q.ttf',
-    popularityRank: 959,
+    popularityRank: 1007,
   ),
   WebFont(
     family: 'Asap',
@@ -2912,7 +2912,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/asap/v34/KFOOCniXp96a4Tc2DaTeuDAoKsE617JFc49knOIYdjTYkqUcL2mT.ttf',
-    popularityRank: 133,
+    popularityRank: 136,
   ),
   WebFont(
     family: 'Asap Condensed',
@@ -2961,7 +2961,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/asapcondensed/v18/pxidypY1o9NHyXh3WvSbGSggdOeKaEk.ttf',
-    popularityRank: 212,
+    popularityRank: 215,
   ),
   WebFont(
     family: 'Asar',
@@ -2979,7 +2979,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/asar/v24/sZlLdRyI6TBIbkcaCA.ttf',
-    popularityRank: 794,
+    popularityRank: 812,
   ),
   WebFont(
     family: 'Asimovian',
@@ -3017,7 +3017,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/asset/v30/SLXGc1na-mM4cVInTp4.ttf',
-    popularityRank: 989,
+    popularityRank: 1005,
   ),
   WebFont(
     family: 'Assistant',
@@ -3040,7 +3040,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/assistant/v24/2sDPZGJYnIjSi6H75xkZZE1I0yCmYzzQtuZnIGCV2g.ttf',
-    popularityRank: 78,
+    popularityRank: 77,
   ),
   WebFont(
     family: 'Asta Sans',
@@ -3058,7 +3058,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo_T_qVjlrQ.ttf',
-    popularityRank: 1068,
+    popularityRank: 931,
   ),
   WebFont(
     family: 'Astloch',
@@ -3087,7 +3087,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/asul/v22/VuJ-dNjKxYr42fIPWA.ttf',
-    popularityRank: 796,
+    popularityRank: 784,
   ),
   WebFont(
     family: 'Athiti',
@@ -3110,7 +3110,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/athiti/v14/pe0vMISdLIZIv1wIDRJS.ttf',
-    popularityRank: 532,
+    popularityRank: 565,
   ),
   WebFont(
     family: 'Atkinson Hyperlegible',
@@ -3126,7 +3126,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/atkinsonhyperlegible/v12/9Bt23C1KxNDXMspQ1lPyU89-1h6ONRlW45G05JIt.ttf',
-    popularityRank: 207,
+    popularityRank: 224,
   ),
   WebFont(
     family: 'Atkinson Hyperlegible Mono',
@@ -3167,7 +3167,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/atkinsonhyperlegiblemono/v8/tssNAoFBci4C4gvhPXrt3wjT1MqSzhA4t7IIcncBiyihrK15gZ4k_SaZHNeSDCMf.ttf',
-    popularityRank: 1472,
+    popularityRank: 1474,
   ),
   WebFont(
     family: 'Atkinson Hyperlegible Next',
@@ -3208,7 +3208,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/atkinsonhyperlegiblenext/v7/NaP4cYPdHfdVxJw0IfIP0lvYFqijb-UxCtm5_wdGscKFt4tOOfV4ZmW37LQRtdN5.ttf',
-    popularityRank: 599,
+    popularityRank: 548,
   ),
   WebFont(
     family: 'Atma',
@@ -3230,7 +3230,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/atma/v19/uK_84rqWc-Eoq29RCg.ttf',
-    popularityRank: 969,
+    popularityRank: 979,
   ),
   WebFont(
     family: 'Atomic Age',
@@ -3243,7 +3243,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/atomicage/v29/f0Xz0eug6sdmRFkYZZGL18Dn8Q.ttf',
-    popularityRank: 1066,
+    popularityRank: 1085,
   ),
   WebFont(
     family: 'Aubrey',
@@ -3256,7 +3256,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/aubrey/v29/q5uGsou7NPBw-p7fuwlo.ttf',
-    popularityRank: 1646,
+    popularityRank: 1631,
   ),
   WebFont(
     family: 'Audiowide',
@@ -3269,7 +3269,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/audiowide/v22/l7gdbjpo0cum0ckerWCdkA_L.ttf',
-    popularityRank: 340,
+    popularityRank: 345,
   ),
   WebFont(
     family: 'Autour One',
@@ -3282,7 +3282,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/autourone/v25/UqyVK80cP25l3fJgbdfbo5hcUg.ttf',
-    popularityRank: 1343,
+    popularityRank: 1333,
   ),
   WebFont(
     family: 'Average',
@@ -3295,7 +3295,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/average/v19/fC1hPYBHe23MxA7rEeN6UQ.ttf',
-    popularityRank: 790,
+    popularityRank: 803,
   ),
   WebFont(
     family: 'Average Sans',
@@ -3308,7 +3308,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/averagesans/v17/1Ptpg8fLXP2dlAXR-HlJJNJ_BNCe.ttf',
-    popularityRank: 733,
+    popularityRank: 721,
   ),
   WebFont(
     family: 'Averia Gruesa Libre',
@@ -3321,7 +3321,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZYmiDxw.ttf',
-    popularityRank: 1251,
+    popularityRank: 1220,
   ),
   WebFont(
     family: 'Averia Libre',
@@ -3339,7 +3339,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/averialibre/v16/2V0aKIcMGZEnV6xygz7eNjESA6nN.ttf',
-    popularityRank: 581,
+    popularityRank: 575,
   ),
   WebFont(
     family: 'Averia Sans Libre',
@@ -3357,7 +3357,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/averiasanslibre/v20/ga6XaxZG_G5OvCf_rt7FH3B6BHLMEdVIEoc.ttf',
-    popularityRank: 967,
+    popularityRank: 831,
   ),
   WebFont(
     family: 'Averia Serif Libre',
@@ -3375,7 +3375,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/averiaseriflibre/v19/neIWzD2ms4wxr6GvjeD0X88SHPyX2xYOpAuK.ttf',
-    popularityRank: 420,
+    popularityRank: 415,
   ),
   WebFont(
     family: 'Azeret Mono',
@@ -3424,7 +3424,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/azeretmono/v21/3XF5ErsiyJsY9O_Gepph-FvtTQgMQUdNekSfnPVR07ye.ttf',
-    popularityRank: 651,
+    popularityRank: 661,
   ),
   WebFont(
     family: 'B612',
@@ -3442,7 +3442,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/b612/v13/3JnySDDxiSz36jiyHA.ttf',
-    popularityRank: 901,
+    popularityRank: 820,
   ),
   WebFont(
     family: 'B612 Mono',
@@ -3459,7 +3459,7 @@ const webfontList = [
     category: WebFontCategory.monospace,
     menu:
         'https://fonts.gstatic.com/s/b612mono/v16/kmK_Zq85QVWbN1eW6lJV1g7Y.ttf',
-    popularityRank: 855,
+    popularityRank: 847,
   ),
   WebFont(
     family: 'BBH Bartle',
@@ -3472,7 +3472,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bbhbartle/v1/zYXjKVYuMYMaN-IMqP3Rem-ZlQ.ttf',
-    popularityRank: 1395,
+    popularityRank: 1381,
   ),
   WebFont(
     family: 'BBH Bogle',
@@ -3486,7 +3486,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/bbhbogle/v1/GFDoWA58rVDJf-fOV9A7qpJY.ttf',
-    popularityRank: 1678,
+    popularityRank: 1650,
   ),
   WebFont(
     family: 'BBH Hegarty',
@@ -3499,7 +3499,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bbhhegarty/v1/yYLt0hbb_dvjg8talgb5vAHQ8NM.ttf',
-    popularityRank: 1633,
+    popularityRank: 1685,
   ),
   WebFont(
     family: 'BIZ UDGothic',
@@ -3519,7 +3519,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bizudgothic/v12/daafSTouBF7RUjnbt8p3LuKdtAl5.ttf',
-    popularityRank: 516,
+    popularityRank: 522,
   ),
   WebFont(
     family: 'BIZ UDMincho',
@@ -3539,7 +3539,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bizudmincho/v11/EJRRQgI6eOxFjBdKs38yhtWFdg7_.ttf',
-    popularityRank: 1142,
+    popularityRank: 1097,
   ),
   WebFont(
     family: 'BIZ UDPGothic',
@@ -3559,7 +3559,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bizudpgothic/v16/hES36X5pHAIBjmS84VL0Bue87nQGRQ.ttf',
-    popularityRank: 279,
+    popularityRank: 290,
   ),
   WebFont(
     family: 'BIZ UDPMincho',
@@ -3579,7 +3579,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bizudpmincho/v11/ypvfbXOBrmYppy7oWWTg1_58rhlSsQ.ttf',
-    popularityRank: 593,
+    popularityRank: 642,
   ),
   WebFont(
     family: 'BJCree',
@@ -3595,7 +3595,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bjcree/v3/QldPNTVAjTwa8_QKPTmR.ttf',
-    popularityRank: 1782,
+    popularityRank: 1524,
   ),
   WebFont(
     family: 'Babylonica',
@@ -3612,7 +3612,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/babylonica/v7/5aUw9_i2qxWVCAE2aHjTmDN-_Q.ttf',
-    popularityRank: 1475,
+    popularityRank: 1458,
   ),
   WebFont(
     family: 'Bacasime Antique',
@@ -3625,7 +3625,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZCwWnTQ.ttf',
-    popularityRank: 1451,
+    popularityRank: 1444,
   ),
   WebFont(
     family: 'Bad Script',
@@ -3644,7 +3644,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/badscript/v18/6NUT8F6PJgbFWQn47_x7pO0kyQ.ttf',
-    popularityRank: 433,
+    popularityRank: 424,
   ),
   WebFont(
     family: 'Badeen Display',
@@ -3661,7 +3661,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/badeendisplay/v1/pxidypY2sdZSjFU4cPmNBzckaeeKaEk.ttf',
-    popularityRank: 1002,
+    popularityRank: 1075,
   ),
   WebFont(
     family: 'Bagel Fat One',
@@ -3678,7 +3678,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd4B9sug.ttf',
-    popularityRank: 957,
+    popularityRank: 1041,
   ),
   WebFont(
     family: 'Bahiana',
@@ -3691,7 +3691,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bahiana/v25/uU9PCBUV4YenPWJU3xLR2g.ttf',
-    popularityRank: 1499,
+    popularityRank: 1514,
   ),
   WebFont(
     family: 'Bahianita',
@@ -3708,7 +3708,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bahianita/v23/yYLr0hTb3vuqqsBUgxWdxDHR.ttf',
-    popularityRank: 1665,
+    popularityRank: 1636,
   ),
   WebFont(
     family: 'Bai Jamjuree',
@@ -3750,7 +3750,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/baijamjuree/v13/LDI1apSCOBt_aeQQ7ftydoa8WMLO.ttf',
-    popularityRank: 328,
+    popularityRank: 289,
   ),
   WebFont(
     family: 'Bakbak One',
@@ -3767,7 +3767,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bakbakone/v11/zOL54pXAl6RI-p_ardnu-cVkuw.ttf',
-    popularityRank: 941,
+    popularityRank: 962,
   ),
   WebFont(
     family: 'Ballet',
@@ -3784,7 +3784,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/ballet/v30/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3O4C0Fg.ttf',
-    popularityRank: 1223,
+    popularityRank: 1207,
   ),
   WebFont(
     family: 'Baloo 2',
@@ -3806,7 +3806,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/baloo2/v23/wXK0E3kTposypRydzVT08TS3JnAmtdgazZpu_lI.ttf',
-    popularityRank: 230,
+    popularityRank: 219,
   ),
   WebFont(
     family: 'Baloo Bhai 2',
@@ -3828,7 +3828,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/baloobhai2/v30/sZlWdRSL-z1VEWZ4YNA7Y5ItevYWUOHDE8FvNighAXaIpw.ttf',
-    popularityRank: 798,
+    popularityRank: 939,
   ),
   WebFont(
     family: 'Baloo Bhaijaan 2',
@@ -3850,7 +3850,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/baloobhaijaan2/v21/zYXwKUwuEqdVGqM8tPDdAA_Y-_bMKo1EhQd2tWxo8TyRSpP5JY4.ttf',
-    popularityRank: 745,
+    popularityRank: 777,
   ),
   WebFont(
     family: 'Baloo Bhaina 2',
@@ -3872,7 +3872,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/baloobhaina2/v29/qWc-B6yyq4P9Adr3RtoX1q6ySgbwusXwJjkOS-XEssPfRP5P.ttf',
-    popularityRank: 1121,
+    popularityRank: 1138,
   ),
   WebFont(
     family: 'Baloo Chettan 2',
@@ -3894,7 +3894,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/baloochettan2/v23/vm8hdRbmXEva26PK-NtuX4ynWEzF69-L4gqgkIL5CeKTC1sUGw.ttf',
-    popularityRank: 785,
+    popularityRank: 775,
   ),
   WebFont(
     family: 'Baloo Da 2',
@@ -3916,7 +3916,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/balooda2/v26/2-c39J9j0IaUMQZwAJyJaOX1UUnf3GLnYjALsQNf7ZI.ttf',
-    popularityRank: 497,
+    popularityRank: 516,
   ),
   WebFont(
     family: 'Baloo Paaji 2',
@@ -3938,7 +3938,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/baloopaaji2/v29/i7dfIFFzbz-QHZUdV9_UGWZuelmy79QJ1HOSY9AX77fzZxE.ttf',
-    popularityRank: 1018,
+    popularityRank: 1021,
   ),
   WebFont(
     family: 'Baloo Tamma 2',
@@ -3960,7 +3960,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/balootamma2/v20/vEFE2_hCAgcR46PaajtrYlBbVUMUJgIC5LHTrMscPq-1Klo.ttf',
-    popularityRank: 769,
+    popularityRank: 795,
   ),
   WebFont(
     family: 'Baloo Tammudu 2',
@@ -3982,7 +3982,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/balootammudu2/v27/1Pt5g8TIS_SAmkLguUdFP8UaJcKkzlPmMT00GaE_Jf8e0c-FYQ.ttf',
-    popularityRank: 1143,
+    popularityRank: 1127,
   ),
   WebFont(
     family: 'Baloo Thambi 2',
@@ -4004,7 +4004,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/baloothambi2/v22/cY9RfjeOW0NHpmOQXranrbDyu5JMJmNp-aDvUBbKzcIDaA5C.ttf',
-    popularityRank: 656,
+    popularityRank: 694,
   ),
   WebFont(
     family: 'Balsamiq Sans',
@@ -4025,7 +4025,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/balsamiqsans/v15/P5sEzZiAbNrN8SB3lQQX7PncwdgXJQ.ttf',
-    popularityRank: 600,
+    popularityRank: 604,
   ),
   WebFont(
     family: 'Balthazar',
@@ -4038,7 +4038,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/balthazar/v18/d6lKkaajS8Gm4CVQjFEfyB7s.ttf',
-    popularityRank: 931,
+    popularityRank: 949,
   ),
   WebFont(
     family: 'Bangers',
@@ -4055,7 +4055,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bangers/v25/FeVQS0BTqb0h60ACH5hQ3Q.ttf',
-    popularityRank: 243,
+    popularityRank: 232,
   ),
   WebFont(
     family: 'Barlow',
@@ -4108,7 +4108,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/barlow/v13/7cHpv4kjgoGqM7E_Css8.ttf',
-    popularityRank: 42,
+    popularityRank: 43,
   ),
   WebFont(
     family: 'Barlow Condensed',
@@ -4214,7 +4214,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/barlowsemicondensed/v16/wlpvgxjLBV1hqnzfr-F8sEYMB0Yybp0mudRXfoqv.ttf',
-    popularityRank: 117,
+    popularityRank: 119,
   ),
   WebFont(
     family: 'Barriecito',
@@ -4231,7 +4231,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/barriecito/v18/WWXXlj-CbBOSLY2QTuY_GdQoZw.ttf',
-    popularityRank: 540,
+    popularityRank: 557,
   ),
   WebFont(
     family: 'Barrio',
@@ -4244,7 +4244,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/barrio/v20/wEO8EBXBk8hBIDi0dAwl.ttf',
-    popularityRank: 1170,
+    popularityRank: 1156,
   ),
   WebFont(
     family: 'Basic',
@@ -4258,7 +4258,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/basic/v18/xfu_0WLxV2_XKTN26FQ.ttf',
-    popularityRank: 515,
+    popularityRank: 482,
   ),
   WebFont(
     family: 'Baskervville',
@@ -4287,7 +4287,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/baskervville/v20/YA9Br0yU4l_XOrogbkun3kQ6vLFYXmpq8sRsYuDrigK4cQ.ttf',
-    popularityRank: 227,
+    popularityRank: 217,
   ),
   WebFont(
     family: 'Baskervville SC',
@@ -4303,7 +4303,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHjzibMzuOQ.ttf',
-    popularityRank: 1224,
+    popularityRank: 1256,
   ),
   WebFont(
     family: 'Battambang',
@@ -4320,7 +4320,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/battambang/v26/uk-mEGe7raEw-HjkzZabPnSp5w.ttf',
-    popularityRank: 748,
+    popularityRank: 768,
   ),
   WebFont(
     family: 'Baumans',
@@ -4333,7 +4333,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/baumans/v18/-W_-XJj9QyTd3Qfpd_s4bg.ttf',
-    popularityRank: 1096,
+    popularityRank: 1107,
   ),
   WebFont(
     family: 'Bayon',
@@ -4347,7 +4347,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bayon/v36/9XUrlJNmn0LPFm-oMBI.ttf',
-    popularityRank: 703,
+    popularityRank: 720,
   ),
   WebFont(
     family: 'Be Vietnam Pro',
@@ -4400,7 +4400,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_HwxBX8.ttf',
-    popularityRank: 154,
+    popularityRank: 156,
   ),
   WebFont(
     family: 'Beau Rivage',
@@ -4417,7 +4417,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/beaurivage/v2/UcCi3FIgIG2bH4mMNWJUllg2P54.ttf',
-    popularityRank: 1179,
+    popularityRank: 1194,
   ),
   WebFont(
     family: 'Bebas Neue',
@@ -4430,7 +4430,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bebasneue/v16/JTUSjIg69CK48gW7PXoo9W9hzg.ttf',
-    popularityRank: 34,
+    popularityRank: 32,
   ),
   WebFont(
     family: 'Beiruti',
@@ -4455,7 +4455,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/beiruti/v5/JTUIjIU69Cmr9FGcYgRFEb7cdQn2-9a95zuii2w.ttf',
-    popularityRank: 1330,
+    popularityRank: 1232,
   ),
   WebFont(
     family: 'Belanosima',
@@ -4470,7 +4470,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/belanosima/v4/3y9k6bI8ejDo_3MfCDSL9AFREw.ttf',
-    popularityRank: 406,
+    popularityRank: 402,
   ),
   WebFont(
     family: 'Belgrano',
@@ -4484,7 +4484,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/belgrano/v19/55xvey5tM9rwKWrJZfMEgL0.ttf',
-    popularityRank: 1182,
+    popularityRank: 1181,
   ),
   WebFont(
     family: 'Bellefair',
@@ -4501,7 +4501,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bellefair/v15/kJExBuYY6AAuhiXUxG1N_voy.ttf',
-    popularityRank: 576,
+    popularityRank: 580,
   ),
   WebFont(
     family: 'Belleza',
@@ -4514,7 +4514,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/belleza/v18/0nkoC9_pNeMfhX4Bhcf4bw.ttf',
-    popularityRank: 386,
+    popularityRank: 385,
   ),
   WebFont(
     family: 'Bellota',
@@ -4537,7 +4537,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bellota/v17/MwQ2bhXl3_qEpiwAKJNbsA.ttf',
-    popularityRank: 1076,
+    popularityRank: 1057,
   ),
   WebFont(
     family: 'Bellota Text',
@@ -4560,7 +4560,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bellotatext/v20/0FlTVP2VnlWS4f3-UE9hHXMx-NkK.ttf',
-    popularityRank: 672,
+    popularityRank: 626,
   ),
   WebFont(
     family: 'BenchNine',
@@ -4575,7 +4575,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/benchnine/v17/ahcbv8612zF4jxrwMosbVslx.ttf',
-    popularityRank: 522,
+    popularityRank: 520,
   ),
   WebFont(
     family: 'Benne',
@@ -4593,7 +4593,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/benne/v24/L0xzDFAhn18E6WjwnNo.ttf',
-    popularityRank: 1296,
+    popularityRank: 1289,
   ),
   WebFont(
     family: 'Bentham',
@@ -4606,7 +4606,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bentham/v20/VdGeAZQPEpYfmHglGW0xDA.ttf',
-    popularityRank: 474,
+    popularityRank: 606,
   ),
   WebFont(
     family: 'Berkshire Swash',
@@ -4619,7 +4619,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/berkshireswash/v22/ptRRTi-cavZOGqCvnNJDl5m5XmN_rM42.ttf',
-    popularityRank: 296,
+    popularityRank: 313,
   ),
   WebFont(
     family: 'Besley',
@@ -4656,7 +4656,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/besley/v22/PlIhFlO1MaNwaNGWUC92IOH_mtG4fbbBedViEA.ttf',
-    popularityRank: 438,
+    popularityRank: 390,
   ),
   WebFont(
     family: 'Betania Patmos',
@@ -4669,7 +4669,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/betaniapatmos/v2/9oRXNYMTrDYnkuhOrHhyQracatnCP7U.ttf',
-    popularityRank: 1855,
+    popularityRank: 1851,
   ),
   WebFont(
     family: 'Betania Patmos GDL',
@@ -4682,7 +4682,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/betaniapatmosgdl/v2/-nFhOHE6_uoR4VYoynWSh_bKTCFIT7tB1vDz.ttf',
-    popularityRank: 1871,
+    popularityRank: 1890,
   ),
   WebFont(
     family: 'Betania Patmos In',
@@ -4695,7 +4695,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/betaniapatmosin/v2/t5t6IQYdPp6dFAyhcz3W2MuHvhmmxIuHWh8.ttf',
-    popularityRank: 1854,
+    popularityRank: 1846,
   ),
   WebFont(
     family: 'Betania Patmos In GDL',
@@ -4708,7 +4708,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/betaniapatmosingdl/v2/va9Y4lzJyMBdF8kOQbYe5MWhMhe2GnyJ0wbGHFnI.ttf',
-    popularityRank: 1863,
+    popularityRank: 1906,
   ),
   WebFont(
     family: 'Beth Ellen',
@@ -4721,7 +4721,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/bethellen/v22/WwkbxPW2BE-3rb_JNT-qIIEoUA.ttf',
-    popularityRank: 886,
+    popularityRank: 821,
   ),
   WebFont(
     family: 'Bevan',
@@ -4757,7 +4757,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bhutukaexpandedone/v9/SLXXc0jZ4WUJcClHTtv0t7IaDRsBsWRiJByW-Jw.ttf',
-    popularityRank: 1136,
+    popularityRank: 1095,
   ),
   WebFont(
     family: 'Big Shoulders',
@@ -4792,7 +4792,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bigshoulders/v4/qFdk35CPh40oITJ69S3GFqy5-BQAcbz7z7beObrv_PytqyTi33thrko9SOPNAdkx.ttf',
-    popularityRank: 642,
+    popularityRank: 586,
   ),
   WebFont(
     family: 'Big Shoulders Inline',
@@ -4827,7 +4827,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bigshouldersinline/v4/bx68NwSCkev-8u0YNXAF6gArLyznvspgMZDcnsTZieUyOqQzOiBfauOMaRhGeKwO1nHayoQZBw.ttf',
-    popularityRank: 1591,
+    popularityRank: 1589,
   ),
   WebFont(
     family: 'Big Shoulders Stencil',
@@ -4862,7 +4862,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bigshouldersstencil/v4/TwM2-JIEQ1Je5sI6Bx1TKHD83rT3u3NSCfbFxqa9oQbR_CiZMgOzPB7iSLKdsgE9Sp2x5dZIlK8.ttf',
-    popularityRank: 1392,
+    popularityRank: 1421,
   ),
   WebFont(
     family: 'Bigelow Rules',
@@ -4875,7 +4875,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bigelowrules/v31/RrQWboly8iR_I3KWSzeRuN0zf4YIGw.ttf',
-    popularityRank: 1438,
+    popularityRank: 1454,
   ),
   WebFont(
     family: 'Bigshot One',
@@ -4888,7 +4888,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bigshotone/v31/u-470qukhRkkO6BD_7cM_jxvWwY.ttf',
-    popularityRank: 891,
+    popularityRank: 938,
   ),
   WebFont(
     family: 'Bilbo',
@@ -4906,7 +4906,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/bilbo/v21/o-0EIpgpwWwZ220groA.ttf',
-    popularityRank: 1246,
+    popularityRank: 1349,
   ),
   WebFont(
     family: 'Bilbo Swash Caps',
@@ -4919,7 +4919,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/bilboswashcaps/v23/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdmALiog.ttf',
-    popularityRank: 919,
+    popularityRank: 888,
   ),
   WebFont(
     family: 'BioRhyme',
@@ -4938,7 +4938,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OjIiqieujw.ttf',
-    popularityRank: 731,
+    popularityRank: 740,
   ),
   WebFont(
     family: 'BioRhyme Expanded',
@@ -4955,7 +4955,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dQIE1zZzytGswgU577CDY9LjbffxSVT3Q.ttf',
-    popularityRank: 1508,
+    popularityRank: 1509,
   ),
   WebFont(
     family: 'Birthstone',
@@ -4972,7 +4972,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/birthstone/v16/8AtsGs2xO4yLRhy87sv_LLjziQ.ttf',
-    popularityRank: 825,
+    popularityRank: 826,
   ),
   WebFont(
     family: 'Birthstone Bounce',
@@ -4990,7 +4990,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/birthstonebounce/v13/ga6XaxZF43lIvTWrktHOTBJZGH7dEdVIEoc.ttf',
-    popularityRank: 1046,
+    popularityRank: 1101,
   ),
   WebFont(
     family: 'Biryani',
@@ -5013,7 +5013,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/biryani/v15/hv-WlzNxIFoO84YdfU0TOQ.ttf',
-    popularityRank: 343,
+    popularityRank: 325,
   ),
   WebFont(
     family: 'Bitcount',
@@ -5044,7 +5044,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcount/v3/ijxXs53kQsE1Y5J-lI1wubXnlQH-1-E1LhaU1dJRZZaHU0slfybi9GQwiTv06bjtugLjdPqK3d9XKDqRc2jrJlC4ZRsgxqxP-aVoJVvq46N4YA.ttf',
-    popularityRank: 1738,
+    popularityRank: 1693,
   ),
   WebFont(
     family: 'Bitcount Grid Double',
@@ -5075,7 +5075,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountgriddouble/v3/WBK7rFjbakJVFOargiWSKQysDITG_S0VtG0x3HD2FYHVdlZI-rLlahmEAPp8wjYMvkPq48MVQo5RQf2svjnxa5Anx8-Y-pHdkVb0ByRHaxzbXaLbA9wfZDxkSZAdjw.ttf',
-    popularityRank: 1622,
+    popularityRank: 955,
   ),
   WebFont(
     family: 'Bitcount Grid Double Ink',
@@ -5106,7 +5106,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountgriddoubleink/v2/55zMcCw3FN_jOGTSZJcl588VlZiMRBEu8MNfAa1hTmcIC-EgZzYwMlaO_awRPudtyc3Y6uQYyaHkeKGSq8TU4RVR7xpYN_MnWZejEGOGrT-NcapoFhvUOhVjLNJ2XCLrbMxtAR6SYY1mL-OvDnjOVsnRj34-p6VMvv549Lg7J4HRX7TqUxwskRMxVR7_3L-QRhDtbv8kM-EDNmBQr1-hsC1tMPJC0vkO2JhzR0_rFxpV.ttf',
-    popularityRank: 1809,
+    popularityRank: 1831,
   ),
   WebFont(
     family: 'Bitcount Grid Single',
@@ -5137,7 +5137,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountgridsingle/v3/cY8bfi2OU1tLpjaqQveNvbC2qfsuQPDVASHjTcBszBsXfC5C9kAKu8QoqnfqMiS4gVij5yxO41San7UnNMBH-Y9u33JUGFdHpUYahAAdbgvnnHmmgUGanohrVUMHqg.ttf',
-    popularityRank: 1565,
+    popularityRank: 1538,
   ),
   WebFont(
     family: 'Bitcount Grid Single Ink',
@@ -5168,7 +5168,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountgridsingleink/v2/NaN4epOEK_VIyYAuIaZn7FnUAOSVYeI0Ctm5-AxV__OGadlXPkpqc2W3G80KvDvfZJcTBZtOWSEifRuVdQ9MPZtUsYBBEK6cMpFmAx9Xgbn8m7Ha_CUon9Fm0PP1zM05Dnsuyw04ZGzhvlKxYNMYWI3t91IQXOwJRiUJVTErJ5YUW4O8LJCoXjD9tXQjarshNDUf3e0O5j3ZjrZCu23Qd4G0EACUTNK-QKavMlx2IIUZ.ttf',
-    popularityRank: 1795,
+    popularityRank: 1814,
   ),
   WebFont(
     family: 'Bitcount Ink',
@@ -5199,7 +5199,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountink/v2/CHw3XOqbPlXqZygxqACCMDRlDHEsWMeZ-ply2TQhrGdTTV70MvuSq-hd_83nDPWRtOLnAR0RGYwUI6_l53HbUsPlZt2f_nGD_DNHtMCB7B9hQwZ0b5o6F6iN-beb4rZZL0lJiDukrkTdyFcJaMYOfDmhx95p-j2BlGfR752-BOzpyNMOV-otpEi0LP8lkm2L_v1iV4b0vZlRFNojp-LpjyYyLnpa.ttf',
-    popularityRank: 1815,
+    popularityRank: 1794,
   ),
   WebFont(
     family: 'Bitcount Prop Double',
@@ -5230,7 +5230,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountpropdouble/v3/K2EvfY5Wn-tBSVxaDL6DUOXQJ26dEAnh698zMFjGZaPCtbJHl1TFmDKfGe4_bKUh3sC1Q7DxZ5-3PQRHsSZEX9ctiFN1ZosZvKyl3LzeFmQvK5hIm0nBWck4Gx5_nw.ttf',
-    popularityRank: 1788,
+    popularityRank: 1772,
   ),
   WebFont(
     family: 'Bitcount Prop Double Ink',
@@ -5261,7 +5261,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountpropdoubleink/v2/Y4EraqgqeCwyoeHYKJOMnRRAOHVHr-2bKnsgKOU1mvV-Vk5S_hxGNApRqvOsLjMS7TL7U6J7vsT0x86f1E_MhJ7Fc8CNp0DtWIOPIdLKGVtyw2WU1OmnzDEO5QVqngZewgsX32-qkruHpLpXeSB4hOOrFaY6I-9oLQWBuD4CtdBkkmqV6mdr8M41Shcr_DYnIqojkFlhekgcGiaIMOm7DY3-ibiJFY5uuJUAz56OCoBX.ttf',
-    popularityRank: 1693,
+    popularityRank: 1717,
   ),
   WebFont(
     family: 'Bitcount Prop Single',
@@ -5292,7 +5292,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountpropsingle/v3/-W-gXIv9SyXT0xz0E9pIHCxbW8ZMGEVdhz4VoumsGFhzYseFqK9f_KOwYjYsHSocfu1DlxztzQH877SgJ2SUzQ4SJdODLz0JoLU3vXFrqXQooCdbs921GXZlHGQShw.ttf',
-    popularityRank: 1544,
+    popularityRank: 1560,
   ),
   WebFont(
     family: 'Bitcount Prop Single Ink',
@@ -5323,7 +5323,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountpropsingleink/v4/wXILGHRJhY4pqVPamSvcVZZF7Vdg3La14u9PlzzO1nQEbZPzF-4gWjUKyDXV8KJN2EmG9tnR1UwPVIktRU7KfRvK49YKhcKoqpd0qENrktXGo3hmFUX9oJiQ_cI3D53uhksE9rntl1PkS1IjdhAg77zMwnnLO7zJ5bZKR5MO8LRFFwWr-XrNplyw2CuD3tEnNissrzK7ZCnsz5HReNrx9v6MX009gC5TFm4u37DzRWmN.ttf',
-    popularityRank: 1803,
+    popularityRank: 1800,
   ),
   WebFont(
     family: 'Bitcount Single',
@@ -5354,7 +5354,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKCrtZx3w.ttf',
-    popularityRank: 1088,
+    popularityRank: 1080,
   ),
   WebFont(
     family: 'Bitcount Single Ink',
@@ -5385,7 +5385,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bitcountsingleink/v4/Fwb25OZl6FQz81GlJoqgm6XFwi_b1Oat-linM3eIpWvrZ9yhd874qjc72qi5T1IMgiBoydD3bDjJgnXIJ9Cr_oGr36FB5R5iKLRfpSXGN3dP9opQwU38v-r6dJk-vDaziAhRxAxKG59HJAjcNGNBlalyPEmoi939mIWU-GaeCu-JxR9Tn0k2TuKy0CJqQ-Jyh2beggR6Zmt0ewICe5TepUFVly3QN0T9ig3-qQ.ttf',
-    popularityRank: 1760,
+    popularityRank: 1759,
   ),
   WebFont(
     family: 'Bitter',
@@ -5440,7 +5440,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bitter/v42/raxhHiqOu8IVPmnRc6SY1KXhnF_Y8fbfOL7OWA.ttf',
-    popularityRank: 97,
+    popularityRank: 98,
   ),
   WebFont(
     family: 'Black And White Picture',
@@ -5453,7 +5453,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/blackandwhitepicture/v30/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqL5GZ8c.ttf',
-    popularityRank: 1605,
+    popularityRank: 1595,
   ),
   WebFont(
     family: 'Black Han Sans',
@@ -5466,7 +5466,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/blackhansans/v24/ea8Aad44WunzF9a-dL6toA8r8kqUK3A.ttf',
-    popularityRank: 357,
+    popularityRank: 369,
   ),
   WebFont(
     family: 'Black Ops One',
@@ -5484,7 +5484,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/blackopsone/v21/qWcsB6-ypo7xBdr6Xshe96H3aD3bsg.ttf',
-    popularityRank: 29,
+    popularityRank: 28,
   ),
   WebFont(
     family: 'Blaka',
@@ -5502,7 +5502,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/blaka/v8/8vIG7w8722p_6ndq0UQ.ttf',
-    popularityRank: 1487,
+    popularityRank: 1546,
   ),
   WebFont(
     family: 'Blaka Hollow',
@@ -5519,7 +5519,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/blakahollow/v8/MCoUzAL91sjRE2FsKsxUtezoBtAB.ttf',
-    popularityRank: 1756,
+    popularityRank: 1663,
   ),
   WebFont(
     family: 'Blaka Ink',
@@ -5537,7 +5537,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/blakaink/v10/AlZy_zVVtpj22Znag2cRdH38.ttf',
-    popularityRank: 1777,
+    popularityRank: 1790,
   ),
   WebFont(
     family: 'Blinker',
@@ -5557,7 +5557,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/blinker/v14/cIf9MaFatEE-VTaP9CihZA.ttf',
-    popularityRank: 204,
+    popularityRank: 398,
   ),
   WebFont(
     family: 'Bodoni Moda',
@@ -5599,7 +5599,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bodonimoda/v28/aFT67PxzY382XsXX63LUYL6GYFcan6NJrKp-VPjfJMShrpsGFUt8oU7a8IF4sQ.ttf',
-    popularityRank: 127,
+    popularityRank: 128,
   ),
   WebFont(
     family: 'Bodoni Moda SC',
@@ -5641,7 +5641,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bodonimodasc/v3/LYjhdGTykkIgA8197UwkzHp8F-XUUG5UNs2KqliEb-g_DaUdIA6SfiYHbA7ubJ2R8A.ttf',
-    popularityRank: 1333,
+    popularityRank: 1224,
   ),
   WebFont(
     family: 'Bokor',
@@ -5655,7 +5655,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bokor/v32/m8JcjfpeeaqTiS2Xfo0.ttf',
-    popularityRank: 710,
+    popularityRank: 712,
   ),
   WebFont(
     family: 'Boldonse',
@@ -5668,7 +5668,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/boldonse/v1/ZgNQjPxGPbbJUZemjB39jGU.ttf',
-    popularityRank: 773,
+    popularityRank: 771,
   ),
   WebFont(
     family: 'Bona Nova',
@@ -5692,7 +5692,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/bonanova/v12/B50NF7ZCpX7fcHfvIUB5iqJu.ttf',
-    popularityRank: 978,
+    popularityRank: 953,
   ),
   WebFont(
     family: 'Bona Nova SC',
@@ -5715,7 +5715,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/bonanovasc/v1/mem5YaShyGWDiYdPG_c1Af4OVOhs.ttf',
-    popularityRank: 514,
+    popularityRank: 503,
   ),
   WebFont(
     family: 'Bonbon',
@@ -5728,7 +5728,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/bonbon/v32/0FlVVPeVlFec4eePcTsE.ttf',
-    popularityRank: 1550,
+    popularityRank: 1541,
   ),
   WebFont(
     family: 'Bonheur Royale',
@@ -5745,7 +5745,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/bonheurroyale/v15/c4m51nt_GMTrtX-b9GcG4-YRmbK-eUM.ttf',
-    popularityRank: 985,
+    popularityRank: 990,
   ),
   WebFont(
     family: 'Boogaloo',
@@ -5759,7 +5759,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/boogaloo/v25/kmK-Zq45GAvOdnaW6y1E9y4.ttf',
-    popularityRank: 505,
+    popularityRank: 488,
   ),
   WebFont(
     family: 'Borel',
@@ -5779,7 +5779,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/borel/v10/6qLOKZsftAPisjsgaSc.ttf',
-    popularityRank: 1150,
+    popularityRank: 1307,
   ),
   WebFont(
     family: 'Bowlby One',
@@ -5792,7 +5792,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bowlbyone/v25/taiPGmVuC4y96PFeqp8sqo-I-Q.ttf',
-    popularityRank: 462,
+    popularityRank: 458,
   ),
   WebFont(
     family: 'Bowlby One SC',
@@ -5805,7 +5805,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bowlbyonesc/v27/DtVlJxerQqQm37tzN3wMug9P_gn2pw.ttf',
-    popularityRank: 377,
+    popularityRank: 365,
   ),
   WebFont(
     family: 'Bpmf Huninn',
@@ -5822,7 +5822,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bpmfhuninn/v6/taiOGmRuFJa3qsALi5gn1J6p2ZU.ttf',
-    popularityRank: 1705,
+    popularityRank: 1738,
   ),
   WebFont(
     family: 'Bpmf Iansui',
@@ -5839,7 +5839,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/bpmfiansui/v6/yMJWMIp-dJTO0T8F_WnJPjhwqtU.ttf',
-    popularityRank: 1637,
+    popularityRank: 1795,
   ),
   WebFont(
     family: 'Bpmf Zihi Kai Std',
@@ -5856,7 +5856,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bpmfzihikaistd/v6/9XU_lIdmjlbGWCXAeHssPRoh5OLaAjzH7yc.ttf',
-    popularityRank: 1574,
+    popularityRank: 1713,
   ),
   WebFont(
     family: 'Braah One',
@@ -5875,7 +5875,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/braahone/v8/KFOlCnWUpt6LsxxxiylfAhc9.ttf',
-    popularityRank: 1190,
+    popularityRank: 1214,
   ),
   WebFont(
     family: 'Brawler',
@@ -5889,7 +5889,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/brawler/v20/xn7gYHE3xXewAscGggGxTw.ttf',
-    popularityRank: 905,
+    popularityRank: 917,
   ),
   WebFont(
     family: 'Bree Serif',
@@ -5902,7 +5902,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/breeserif/v18/4UaHrEJCrhhnVA3DgluA96zp4g.ttf',
-    popularityRank: 246,
+    popularityRank: 239,
   ),
   WebFont(
     family: 'Bricolage Grotesque',
@@ -5925,7 +5925,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bricolagegrotesque/v9/3y9U6as8bTXq_nANBjzKo3IeZx8z6up5BeSl5jBNz_19PpbpMXuECpwUxJBOm_OJWiaaD30YfKfjZZoLvRvi-Mwltw.ttf',
-    popularityRank: 35,
+    popularityRank: 37,
   ),
   WebFont(
     family: 'Bruno Ace',
@@ -5939,7 +5939,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/brunoace/v7/WwkcxPa2E06x4trkOj_UMaAI.ttf',
-    popularityRank: 1244,
+    popularityRank: 1272,
   ),
   WebFont(
     family: 'Bruno Ace SC',
@@ -5952,7 +5952,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/brunoacesc/v7/ptROTiycffFLBuiHjdJDl63ILCtv.ttf',
-    popularityRank: 1325,
+    popularityRank: 1318,
   ),
   WebFont(
     family: 'Brygada 1918',
@@ -5988,7 +5988,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/brygada1918/v27/pe08MI6eKpdGqlF5LANrM--ACNaeo8mTUIR_y2-fyV4cvw.ttf',
-    popularityRank: 622,
+    popularityRank: 598,
   ),
   WebFont(
     family: 'Bubblegum Sans',
@@ -6001,7 +6001,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bubblegumsans/v22/AYCSpXb_Z9EORv1M5QTjEzMEteaGxIc.ttf',
-    popularityRank: 729,
+    popularityRank: 745,
   ),
   WebFont(
     family: 'Bubbler One',
@@ -6014,7 +6014,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/bubblerone/v22/f0Xy0eqj68ppQV9KBLmAotHG0ac.ttf',
-    popularityRank: 1489,
+    popularityRank: 1456,
   ),
   WebFont(
     family: 'Buda',
@@ -6027,7 +6027,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrK7QLqw.ttf',
-    popularityRank: 1379,
+    popularityRank: 1380,
   ),
   WebFont(
     family: 'Buenard',
@@ -6043,7 +6043,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/buenard/v22/OD5cuM6Cyma8FnnsJTzfWLAhv7i92sqpK3_2ghI.ttf',
-    popularityRank: 862,
+    popularityRank: 861,
   ),
   WebFont(
     family: 'Bungee',
@@ -6060,7 +6060,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bungee/v17/N0bU2SZBIuF2PU_0C3Rw.ttf',
-    popularityRank: 106,
+    popularityRank: 111,
   ),
   WebFont(
     family: 'Bungee Hairline',
@@ -6077,7 +6077,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bungeehairline/v26/snfys0G548t04270a_ljTLUVrv-LYReZ.ttf',
-    popularityRank: 1450,
+    popularityRank: 1432,
   ),
   WebFont(
     family: 'Bungee Inline',
@@ -6094,7 +6094,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bungeeinline/v19/Gg8zN58UcgnlCweMrih332VuPGN__A.ttf',
-    popularityRank: 758,
+    popularityRank: 763,
   ),
   WebFont(
     family: 'Bungee Outline',
@@ -6111,7 +6111,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bungeeoutline/v24/_6_mEDvmVP24UvU2MyiGDslL3Tg2aBY.ttf',
-    popularityRank: 1407,
+    popularityRank: 1443,
   ),
   WebFont(
     family: 'Bungee Shade',
@@ -6128,7 +6128,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bungeeshade/v17/DtVkJxarWL0t2KdzK3oI_jkc7yjW.ttf',
-    popularityRank: 726,
+    popularityRank: 815,
   ),
   WebFont(
     family: 'Bungee Spice',
@@ -6145,7 +6145,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bungeespice/v15/nwpTtK2nIhxE0q-IwgSpZBqyzig6.ttf',
-    popularityRank: 820,
+    popularityRank: 834,
   ),
   WebFont(
     family: 'Bungee Tint',
@@ -6162,7 +6162,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/bungeetint/v3/J7abnpl_EGtUEuAJwN9WmotLOjg.ttf',
-    popularityRank: 1443,
+    popularityRank: 1562,
   ),
   WebFont(
     family: 'Butcherman',
@@ -6175,7 +6175,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/butcherman/v25/2EbiL-thF0loflXUBOdb5zS5rw.ttf',
-    popularityRank: 1464,
+    popularityRank: 1423,
   ),
   WebFont(
     family: 'Butterfly Kids',
@@ -6188,7 +6188,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/butterflykids/v27/ll8lK2CWTjuqAsXDqlnIbMNs5R4bpRU.ttf',
-    popularityRank: 1617,
+    popularityRank: 1591,
   ),
   WebFont(
     family: 'Bytesized',
@@ -6202,7 +6202,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/bytesized/v1/goksH6L8FkdnROln8XBjSkqn.ttf',
-    popularityRank: 1763,
+    popularityRank: 1739,
   ),
   WebFont(
     family: 'Cabin',
@@ -6235,7 +6235,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cabin/v35/u-4X0qWljRw-PfU81xCKCpdpbgZJl6XFpfEd7eA9BIxxkV2EH7Clwg.ttf',
-    popularityRank: 88,
+    popularityRank: 94,
   ),
   WebFont(
     family: 'Cabin Condensed',
@@ -6255,7 +6255,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cabincondensed/v21/nwpMtK6mNhBK2err_hqkYhHRqmwqYeLd.ttf',
-    popularityRank: 461,
+    popularityRank: 447,
   ),
   WebFont(
     family: 'Cabin Sketch',
@@ -6269,7 +6269,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/cabinsketch/v23/QGYpz_kZZAGCONcK2A4bGOj8nthI.ttf',
-    popularityRank: 591,
+    popularityRank: 592,
   ),
   WebFont(
     family: 'Cactus Classical Serif',
@@ -6288,7 +6288,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cactusclassicalserif/v15/sZlVdQ6K-zJOCzUaS90zMNN-Ep-OoC8dZr0JJuFCEQ.ttf',
-    popularityRank: 1129,
+    popularityRank: 1288,
   ),
   WebFont(
     family: 'Caesar Dressing',
@@ -6301,7 +6301,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/caesardressing/v22/yYLx0hLa3vawqtwdswbotmK4vrRHcLz-.ttf',
-    popularityRank: 1095,
+    popularityRank: 1136,
   ),
   WebFont(
     family: 'Cagliostro',
@@ -6314,7 +6314,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cagliostro/v22/ZgNWjP5HM73BV5amnX-TvGTONw.ttf',
-    popularityRank: 1284,
+    popularityRank: 1264,
   ),
   WebFont(
     family: 'Cairo',
@@ -6338,7 +6338,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cairo/v31/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-a1XiKQ.ttf',
-    popularityRank: 77,
+    popularityRank: 75,
   ),
   WebFont(
     family: 'Cairo Play',
@@ -6362,7 +6362,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cairoplay/v13/wXKEE3QSpo4vpRz_mz6FP-8iaauCLt_Hjopv3miu5IvcJo49mOo1knYa9i_e.ttf',
-    popularityRank: 852,
+    popularityRank: 1071,
   ),
   WebFont(
     family: 'Cal Sans',
@@ -6379,7 +6379,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/calsans/v2/fdN99sWUv3gWqXxqqRBatF4.ttf',
-    popularityRank: 689,
+    popularityRank: 713,
   ),
   WebFont(
     family: 'Caladea',
@@ -6395,7 +6395,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/caladea/v10/kJEzBugZ7AAjhybUvR59_w.ttf',
-    popularityRank: 664,
+    popularityRank: 651,
   ),
   WebFont(
     family: 'Calistoga',
@@ -6412,7 +6412,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/calistoga/v18/6NUU8F2OJg6MeR7l4e0ftcwE.ttf',
-    popularityRank: 424,
+    popularityRank: 414,
   ),
   WebFont(
     family: 'Calligraffitti',
@@ -6425,7 +6425,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/calligraffitti/v20/46k2lbT3XjDVqJw3DCmCFjE0vkFYOZI.ttf',
-    popularityRank: 697,
+    popularityRank: 711,
   ),
   WebFont(
     family: 'Cambay',
@@ -6445,7 +6445,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cambay/v14/SLXJc1rY6H0_ZDs2b76M.ttf',
-    popularityRank: 840,
+    popularityRank: 856,
   ),
   WebFont(
     family: 'Cambo',
@@ -6459,7 +6459,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cambo/v21/IFSqHeNEk8FJk717qEo.ttf',
-    popularityRank: 914,
+    popularityRank: 893,
   ),
   WebFont(
     family: 'Candal',
@@ -6472,7 +6472,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/candal/v16/XoHn2YH6T7-t_8c9ABQN.ttf',
-    popularityRank: 574,
+    popularityRank: 581,
   ),
   WebFont(
     family: 'Cantarell',
@@ -6488,7 +6488,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cantarell/v18/B50NF7ZDq37KMUvlO015iqJu.ttf',
-    popularityRank: 261,
+    popularityRank: 260,
   ),
   WebFont(
     family: 'Cantata One',
@@ -6501,7 +6501,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cantataone/v16/PlI5Fl60Nb5obNzNe2jslWxFvcQ.ttf',
-    popularityRank: 661,
+    popularityRank: 662,
   ),
   WebFont(
     family: 'Cantora One',
@@ -6514,7 +6514,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cantoraone/v20/gyB4hws1JdgnKy56GB_JX5zcbY8.ttf',
-    popularityRank: 1114,
+    popularityRank: 1149,
   ),
   WebFont(
     family: 'Caprasimo',
@@ -6528,7 +6528,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/caprasimo/v6/esDT31JQOPuXIUGBp72UlJ8G.ttf',
-    popularityRank: 441,
+    popularityRank: 457,
   ),
   WebFont(
     family: 'Capriola',
@@ -6542,7 +6542,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/capriola/v15/wXKoE3YSppcvo1PDlk_9JeQ.ttf',
-    popularityRank: 879,
+    popularityRank: 920,
   ),
   WebFont(
     family: 'Caramel',
@@ -6559,7 +6559,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/caramel/v8/P5sCzZKBbMTf_Shy9CVkjQ.ttf',
-    popularityRank: 1282,
+    popularityRank: 1294,
   ),
   WebFont(
     family: 'Carattere',
@@ -6577,7 +6577,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/carattere/v8/4iCv6Kp1b9dXlgt_CkvjtmyI.ttf',
-    popularityRank: 913,
+    popularityRank: 942,
   ),
   WebFont(
     family: 'Cardo',
@@ -6602,7 +6602,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cardo/v21/wlp_gwjKBV1pqhv-3IQ.ttf',
-    popularityRank: 226,
+    popularityRank: 205,
   ),
   WebFont(
     family: 'Carlito',
@@ -6626,7 +6626,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/carlito/v4/3Jn9SDPw3m-pk039DDGBSQ.ttf',
-    popularityRank: 645,
+    popularityRank: 434,
   ),
   WebFont(
     family: 'Carme',
@@ -6640,7 +6640,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDNjHzrc.ttf',
-    popularityRank: 1148,
+    popularityRank: 1076,
   ),
   WebFont(
     family: 'Carrois Gothic',
@@ -6653,7 +6653,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/carroisgothic/v17/Z9XPDmFATg-N1PLtLOOxvIHl9amC1Co.ttf',
-    popularityRank: 853,
+    popularityRank: 827,
   ),
   WebFont(
     family: 'Carrois Gothic SC',
@@ -6666,7 +6666,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/carroisgothicsc/v16/ZgNJjOVHM6jfUZCmyUqT2A2HVKjc-18mPnI.ttf',
-    popularityRank: 1326,
+    popularityRank: 1286,
   ),
   WebFont(
     family: 'Carter One',
@@ -6679,7 +6679,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/carterone/v18/q5uCsoe5IOB2-pXv9UcNExV8gQ.ttf',
-    popularityRank: 454,
+    popularityRank: 460,
   ),
   WebFont(
     family: 'Cascadia Code',
@@ -6727,7 +6727,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cascadiacode/v5/qWc_B6-zq5zxD57cT5s916v3QjfzRuG9AIUcXuUMOZDOZd4.ttf',
-    popularityRank: 1431,
+    popularityRank: 1429,
   ),
   WebFont(
     family: 'Cascadia Mono',
@@ -6775,7 +6775,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cascadiamono/v5/TUZlzw5pquJF3iuizJDZYqr1Q54PIbV3QmZsSTYdsVVlPI8.ttf',
-    popularityRank: 1525,
+    popularityRank: 1553,
   ),
   WebFont(
     family: 'Castoro',
@@ -6789,7 +6789,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/castoro/v20/1q2GY5yMCld3-O4cLYlOyA.ttf',
-    popularityRank: 575,
+    popularityRank: 577,
   ),
   WebFont(
     family: 'Castoro Titling',
@@ -6802,7 +6802,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/castorotitling/v10/buEupouwccj03leTfjUAhEZWlrNaYw0g.ttf',
-    popularityRank: 1314,
+    popularityRank: 1293,
   ),
   WebFont(
     family: 'Catamaran',
@@ -6833,7 +6833,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/catamaran/v28/o-0bIpQoyXQa2RxT7-5B6Ryxs2E_6n1iPHjd5ajdvg.ttf',
-    popularityRank: 218,
+    popularityRank: 216,
   ),
   WebFont(
     family: 'Caudex',
@@ -6856,7 +6856,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/caudex/v19/esDQ311QOP6BJUr4y_KE.ttf',
-    popularityRank: 587,
+    popularityRank: 601,
   ),
   WebFont(
     family: 'Cause',
@@ -6887,7 +6887,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/cause/v2/or3_Q6760-mf01lfRGAnmws6ijvmTgkFbMH1.ttf',
-    popularityRank: 1570,
+    popularityRank: 1567,
   ),
   WebFont(
     family: 'Caveat',
@@ -6908,7 +6908,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9eIOpZA.ttf',
-    popularityRank: 114,
+    popularityRank: 107,
   ),
   WebFont(
     family: 'Caveat Brush',
@@ -6921,7 +6921,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/caveatbrush/v12/EYq0maZfwr9S9-ETZc3fKXt8WrOX.ttf',
-    popularityRank: 381,
+    popularityRank: 393,
   ),
   WebFont(
     family: 'Cedarville Cursive',
@@ -6934,7 +6934,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/cedarvillecursive/v18/yYL00g_a2veiudhUmxjo5VKkoqA-B_nuJLp1.ttf',
-    popularityRank: 492,
+    popularityRank: 541,
   ),
   WebFont(
     family: 'Ceviche One',
@@ -6947,7 +6947,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/cevicheone/v17/gyB4hws1IcA6JzR-GB_JX5zcbY8.ttf',
-    popularityRank: 1188,
+    popularityRank: 1180,
   ),
   WebFont(
     family: 'Chakra Petch',
@@ -6985,7 +6985,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/chakrapetch/v13/cIf6MapbsEk7TDLdtEz1BwkWmapl.ttf',
-    popularityRank: 136,
+    popularityRank: 134,
   ),
   WebFont(
     family: 'Changa',
@@ -7008,7 +7008,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/changa/v29/2-c79JNi2YuVOUcOarRPgnNGooxCZ62xcjHj8g.ttf',
-    popularityRank: 258,
+    popularityRank: 257,
   ),
   WebFont(
     family: 'Changa One',
@@ -7035,7 +7035,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/chango/v29/2V0cKI0OB5U7WaJCzne8.ttf',
-    popularityRank: 300,
+    popularityRank: 322,
   ),
   WebFont(
     family: 'Charis SIL',
@@ -7057,7 +7057,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/charissil/v2/oPWK_kV3l-s-Q8govXvKnPvsZg.ttf',
-    popularityRank: 624,
+    popularityRank: 523,
   ),
   WebFont(
     family: 'Charm',
@@ -7077,7 +7077,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/charm/v14/7cHmv4oii5K0MdYuK-s.ttf',
-    popularityRank: 493,
+    popularityRank: 501,
   ),
   WebFont(
     family: 'Charmonman',
@@ -7096,7 +7096,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/charmonman/v20/MjQDmiR3vP_nuxDv47jiaJCiuA.ttf',
-    popularityRank: 951,
+    popularityRank: 1003,
   ),
   WebFont(
     family: 'Chathura',
@@ -7114,7 +7114,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/chathura/v22/_gP71R7-rzUuVjim428hq0Q.ttf',
-    popularityRank: 1351,
+    popularityRank: 1389,
   ),
   WebFont(
     family: 'Chau Philomene One',
@@ -7128,7 +7128,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/chauphilomeneone/v16/55xxezRsPtfie1vPY49qzdgSlJiHRQFcnYZ_.ttf',
-    popularityRank: 1042,
+    popularityRank: 1081,
   ),
   WebFont(
     family: 'Chela One',
@@ -7142,7 +7142,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/chelaone/v22/6ae-4KC7Uqgdz_JZdPIC3lHS.ttf',
-    popularityRank: 1411,
+    popularityRank: 1482,
   ),
   WebFont(
     family: 'Chelsea Market',
@@ -7155,7 +7155,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/chelseamarket/v14/BCawqZsHqfr89WNP_IApC8tzKChkJgo.ttf',
-    popularityRank: 303,
+    popularityRank: 275,
   ),
   WebFont(
     family: 'Chenla',
@@ -7168,7 +7168,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/chenla/v25/SZc43FDpIKu8WZ9uXh3s.ttf',
-    popularityRank: 1557,
+    popularityRank: 1545,
   ),
   WebFont(
     family: 'Cherish',
@@ -7185,7 +7185,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN1iHIJw.ttf',
-    popularityRank: 1490,
+    popularityRank: 1507,
   ),
   WebFont(
     family: 'Cherry Bomb One',
@@ -7203,7 +7203,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/cherrybombone/v11/y83DW4od1h6KlV3c6JJhRhGOdhr6DdBB.ttf',
-    popularityRank: 908,
+    popularityRank: 852,
   ),
   WebFont(
     family: 'Cherry Cream Soda',
@@ -7216,7 +7216,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciQd7A9o.ttf',
-    popularityRank: 963,
+    popularityRank: 954,
   ),
   WebFont(
     family: 'Cherry Swash',
@@ -7230,7 +7230,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/cherryswash/v22/i7dNIFByZjaNAMxtZcnfAy5MQXK6.ttf',
-    popularityRank: 1033,
+    popularityRank: 1036,
   ),
   WebFont(
     family: 'Chewy',
@@ -7244,7 +7244,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wn5wKjc.ttf',
-    popularityRank: 489,
+    popularityRank: 490,
   ),
   WebFont(
     family: 'Chicle',
@@ -7257,7 +7257,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/chicle/v27/lJwG-pw9i2dqU-BzyGiq.ttf',
-    popularityRank: 1099,
+    popularityRank: 1105,
   ),
   WebFont(
     family: 'Chilanka',
@@ -7275,7 +7275,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/chilanka/v23/WWXRlj2DZQiMJYaYRoJRKdU.ttf',
-    popularityRank: 1432,
+    popularityRank: 1439,
   ),
   WebFont(
     family: 'Chiron GoRound TC',
@@ -7302,7 +7302,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/chirongoroundtc/v4/tssEAopDbiwZ4xauFDX3yQ3Ywoaj6kNR0yP4oqNo8RKqbBq5HQUj.ttf',
-    popularityRank: 561,
+    popularityRank: 536,
   ),
   WebFont(
     family: 'Chiron Hei HK',
@@ -7357,7 +7357,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/chironheihk/v5/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJtr28NmzU.ttf',
-    popularityRank: 1495,
+    popularityRank: 1491,
   ),
   WebFont(
     family: 'Chiron Sung HK',
@@ -7411,7 +7411,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/chironsunghk/v2/nuFtD_XLTZPpXIpS3-3dhGzHTSilFc8oGNI59hRj9OSd_0DQ.ttf',
-    popularityRank: 1661,
+    popularityRank: 1536,
   ),
   WebFont(
     family: 'Chivo',
@@ -7464,7 +7464,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_vB_elmrW.ttf',
-    popularityRank: 277,
+    popularityRank: 274,
   ),
   WebFont(
     family: 'Chivo Mono',
@@ -7517,7 +7517,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/chivomono/v11/mFThWbgRxKvF_Z5eQMO9qRMrJJrnKNtC3D7hr5fUIJw.ttf',
-    popularityRank: 654,
+    popularityRank: 691,
   ),
   WebFont(
     family: 'Chocolate Classical Sans',
@@ -7536,7 +7536,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/chocolateclassicalsans/v16/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdzPYeN.ttf',
-    popularityRank: 1241,
+    popularityRank: 1263,
   ),
   WebFont(
     family: 'Chokokutai',
@@ -7554,7 +7554,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/chokokutai/v12/kmK4Zqw4HwvCeHGM8Fwsxy_4og.ttf',
-    popularityRank: 1662,
+    popularityRank: 1656,
   ),
   WebFont(
     family: 'Chonburi',
@@ -7573,7 +7573,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/chonburi/v14/8AtqGs-wOpGRTBq66LWbHLk.ttf',
-    popularityRank: 640,
+    popularityRank: 690,
   ),
   WebFont(
     family: 'Cinzel',
@@ -7591,7 +7591,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfYvlCA.ttf',
-    popularityRank: 126,
+    popularityRank: 114,
   ),
   WebFont(
     family: 'Cinzel Decorative',
@@ -7606,7 +7606,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/cinzeldecorative/v19/daaCSScvJGqLYhG8nNt8KPPswUAPni7VTMk.ttf',
-    popularityRank: 361,
+    popularityRank: 348,
   ),
   WebFont(
     family: 'Clicker Script',
@@ -7619,7 +7619,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/clickerscript/v14/raxkHiKPvt8CMH6ZWP8PdlEq71rZ0T4.ttf',
-    popularityRank: 997,
+    popularityRank: 1045,
   ),
   WebFont(
     family: 'Climate Crisis',
@@ -7637,7 +7637,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/climatecrisis/v15/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFpKjK8v.ttf',
-    popularityRank: 1306,
+    popularityRank: 1335,
   ),
   WebFont(
     family: 'Coda',
@@ -7652,7 +7652,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/coda/v22/SLXHc1jY5nQ8FUMGbg.ttf',
-    popularityRank: 547,
+    popularityRank: 542,
   ),
   WebFont(
     family: 'Codystar',
@@ -7667,7 +7667,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/codystar/v19/FwZY7-Q1xVk-40qxOu6B6Mw.ttf',
-    popularityRank: 911,
+    popularityRank: 927,
   ),
   WebFont(
     family: 'Coiny',
@@ -7686,7 +7686,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/coiny/v17/gyByhwU1K989PUwaGFA.ttf',
-    popularityRank: 869,
+    popularityRank: 909,
   ),
   WebFont(
     family: 'Combo',
@@ -7700,7 +7700,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/combo/v22/BXRlvF3Jh_fIhj0jDOs.ttf',
-    popularityRank: 1602,
+    popularityRank: 1624,
   ),
   WebFont(
     family: 'Comfortaa',
@@ -7724,7 +7724,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/comfortaa/v47/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrUfJQ.ttf',
-    popularityRank: 138,
+    popularityRank: 130,
   ),
   WebFont(
     family: 'Comforter',
@@ -7743,7 +7743,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/comforter/v9/H4clBXOCl8nQnlaql3Qq6Zu4.ttf',
-    popularityRank: 1113,
+    popularityRank: 1177,
   ),
   WebFont(
     family: 'Comforter Brush',
@@ -7761,7 +7761,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/comforterbrush/v9/Y4GTYa1xVSggrfzZI5WMjxRaOz0Twbj5.ttf',
-    popularityRank: 1382,
+    popularityRank: 1395,
   ),
   WebFont(
     family: 'Comic Neue',
@@ -7779,7 +7779,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/comicneue/v9/4UaHrEJDsxBrF37olUeD96zp4g.ttf',
-    popularityRank: 270,
+    popularityRank: 269,
   ),
   WebFont(
     family: 'Comic Relief',
@@ -7798,7 +7798,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/comicrelief/v2/BCauqZkHrvL55SZ8uaEhHMYGXRhl.ttf',
-    popularityRank: 850,
+    popularityRank: 808,
   ),
   WebFont(
     family: 'Coming Soon',
@@ -7811,7 +7811,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/comingsoon/v20/qWcuB6mzpYL7AJ2VfdQR1t-TWDw.ttf',
-    popularityRank: 718,
+    popularityRank: 715,
   ),
   WebFont(
     family: 'Comme',
@@ -7842,7 +7842,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/comme/v4/8QIUdirKhMbn-uG1kHz0MgviDe1z5cFb6oQb.ttf',
-    popularityRank: 1146,
+    popularityRank: 1110,
   ),
   WebFont(
     family: 'Commissioner',
@@ -7880,7 +7880,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/commissioner/v24/tDaH2o2WnlgI0FNDgduEk4jAhwgumbU1SVfU5BD8OuRL8OstC6KOhgvBYWSFJ-Mgdrgiju6fF8meZm0rk4eF-ZugTMNdKPaxEg.ttf',
-    popularityRank: 313,
+    popularityRank: 309,
   ),
   WebFont(
     family: 'Concert One',
@@ -7893,7 +7893,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/concertone/v24/VEM1Ro9xs5PjtzCu-srDqSTkjPs.ttf',
-    popularityRank: 325,
+    popularityRank: 334,
   ),
   WebFont(
     family: 'Condiment',
@@ -7906,7 +7906,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/condiment/v26/pONk1hggFNmwvXALyH6iqoP8.ttf',
-    popularityRank: 1356,
+    popularityRank: 1355,
   ),
   WebFont(
     family: 'Content',
@@ -7920,7 +7920,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/content/v27/zrfl0HLayePhU_AwYaH4Jg.ttf',
-    popularityRank: 1294,
+    popularityRank: 1282,
   ),
   WebFont(
     family: 'Contrail One',
@@ -7933,7 +7933,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/contrailone/v21/eLGbP-j_JA-kG0_Zo51noaftZEHp.ttf',
-    popularityRank: 816,
+    popularityRank: 805,
   ),
   WebFont(
     family: 'Convergence',
@@ -7946,7 +7946,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/convergence/v16/rax5HiePvdgXPmmMHcIPYShbu0o.ttf',
-    popularityRank: 1124,
+    popularityRank: 1190,
   ),
   WebFont(
     family: 'Cookie',
@@ -7959,7 +7959,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/cookie/v23/syky-y18lb0tSbf9lAqX.ttf',
-    popularityRank: 304,
+    popularityRank: 293,
   ),
   WebFont(
     family: 'Copse',
@@ -7973,7 +7973,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/copse/v16/11hPGpDKz1rGb3diFEw.ttf',
-    popularityRank: 792,
+    popularityRank: 789,
   ),
   WebFont(
     family: 'Coral Pixels',
@@ -7986,7 +7986,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyCeRz7.ttf',
-    popularityRank: 1707,
+    popularityRank: 1715,
   ),
   WebFont(
     family: 'Corben',
@@ -8000,7 +8000,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/corben/v23/LYjDdGzzklQtCMpNoQNA.ttf',
-    popularityRank: 615,
+    popularityRank: 596,
   ),
   WebFont(
     family: 'Corinthia',
@@ -8018,7 +8018,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/corinthia/v13/wEO_EBrAnchaJyPMHE01UPoP.ttf',
-    popularityRank: 774,
+    popularityRank: 783,
   ),
   WebFont(
     family: 'Cormorant',
@@ -8057,7 +8057,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cormorant/v24/H4c2BXOCl9bbnla_nHIA47NMUjsNbCVrFhFTc7Vq6A.ttf',
-    popularityRank: 168,
+    popularityRank: 166,
   ),
   WebFont(
     family: 'Cormorant Garamond',
@@ -8135,7 +8135,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cormorantinfant/v22/HhyCU44g9vKiM1sORYSiWeAsLN99xfs9KOOc_agJPrgvYNWSjj0.ttf',
-    popularityRank: 384,
+    popularityRank: 389,
   ),
   WebFont(
     family: 'Cormorant SC',
@@ -8158,7 +8158,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cormorantsc/v19/0yb5GD4kxqXBmOVLG30OGwsurTA0.ttf',
-    popularityRank: 614,
+    popularityRank: 630,
   ),
   WebFont(
     family: 'Cormorant Unicase',
@@ -8202,7 +8202,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cormorantupright/v19/VuJrdM3I2Y35poFONtLdafkUCHw1y1vUhDA.ttf',
-    popularityRank: 555,
+    popularityRank: 599,
   ),
   WebFont(
     family: 'Cossette Texte',
@@ -8216,7 +8216,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cossettetexte/v3/S6ukw4pDXzTb-m1kPi_7eV-ciM00zvQ.ttf',
-    popularityRank: 1580,
+    popularityRank: 1578,
   ),
   WebFont(
     family: 'Cossette Titre',
@@ -8230,7 +8230,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cossettetitre/v3/11hYGpvKz1nGbxMXUWz9OdPzuhEYpvM.ttf',
-    popularityRank: 1577,
+    popularityRank: 1561,
   ),
   WebFont(
     family: 'Courgette',
@@ -8243,7 +8243,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/courgette/v19/wEO_EBrAnc9BLjLQAUk1UPoP.ttf',
-    popularityRank: 268,
+    popularityRank: 272,
   ),
   WebFont(
     family: 'Courier Prime',
@@ -8259,7 +8259,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/courierprime/v11/u-450q2lgwslOqpF_6gQ8kELawdpXw.ttf',
-    popularityRank: 225,
+    popularityRank: 235,
   ),
   WebFont(
     family: 'Cousine',
@@ -8284,7 +8284,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/cousine/v31/d6lIkaiiRdih4SpP_SIvyQ.ttf',
-    popularityRank: 400,
+    popularityRank: 430,
   ),
   WebFont(
     family: 'Coustard',
@@ -8299,7 +8299,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/coustard/v19/3XFpErgg3YsZ5fqUU-UOt2E.ttf',
-    popularityRank: 786,
+    popularityRank: 829,
   ),
   WebFont(
     family: 'Covered By Your Grace',
@@ -8312,7 +8312,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/coveredbyyourgrace/v17/QGYwz-AZahWOJJI9kykWW9mD6opopoqXSOSEFwgp.ttf',
-    popularityRank: 531,
+    popularityRank: 504,
   ),
   WebFont(
     family: 'Crafty Girls',
@@ -8325,7 +8325,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NveQBf_.ttf',
-    popularityRank: 958,
+    popularityRank: 966,
   ),
   WebFont(
     family: 'Creepster',
@@ -8338,7 +8338,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4RdH38.ttf',
-    popularityRank: 263,
+    popularityRank: 268,
   ),
   WebFont(
     family: 'Crete Round',
@@ -8352,7 +8352,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/creteround/v16/55xoey1sJNPjPiv1ZZZrxK190bg.ttf',
-    popularityRank: 266,
+    popularityRank: 258,
   ),
   WebFont(
     family: 'Crimson Pro',
@@ -8401,7 +8401,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/crimsonpro/v28/q5uUsoa5M_tv7IihmnkabC5XiXCAlXGks1WZzm1MOZs7.ttf',
-    popularityRank: 172,
+    popularityRank: 190,
   ),
   WebFont(
     family: 'Crimson Text',
@@ -8423,7 +8423,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJfaQhW.ttf',
-    popularityRank: 104,
+    popularityRank: 108,
   ),
   WebFont(
     family: 'Croissant One',
@@ -8436,7 +8436,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/croissantone/v28/3y9n6bU9bTPg4m8NDy3Kq24UA3tgmw.ttf',
-    popularityRank: 738,
+    popularityRank: 741,
   ),
   WebFont(
     family: 'Crushed',
@@ -8449,7 +8449,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/crushed/v32/U9Mc6dym6WXImTlFf1gVvA.ttf',
-    popularityRank: 1061,
+    popularityRank: 1052,
   ),
   WebFont(
     family: 'Cuprum',
@@ -8484,7 +8484,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/cuprum/v29/dg45_pLmvrkcOkBnKsOzXyGWTBcmg-X6Vj3YIg.ttf',
-    popularityRank: 432,
+    popularityRank: 426,
   ),
   WebFont(
     family: 'Cute Font',
@@ -8498,7 +8498,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/cutefont/v28/Noaw6Uny2oWPbSHMrY6fmZlR.ttf',
-    popularityRank: 1303,
+    popularityRank: 1261,
   ),
   WebFont(
     family: 'Cutive',
@@ -8511,7 +8511,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/cutive/v24/NaPZcZ_fHOhV3IpLTvJH.ttf',
-    popularityRank: 895,
+    popularityRank: 887,
   ),
   WebFont(
     family: 'Cutive Mono',
@@ -8524,7 +8524,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/cutivemono/v23/m8JWjfRfY7WVjVi2E-K9H6RETms.ttf',
-    popularityRank: 499,
+    popularityRank: 531,
   ),
   WebFont(
     family: 'DM Mono',
@@ -8542,7 +8542,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYthyQAQ.ttf',
-    popularityRank: 152,
+    popularityRank: 161,
   ),
   WebFont(
     family: 'DM Sans',
@@ -8591,7 +8591,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/dmsans/v17/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxRT23z.ttf',
-    popularityRank: 14,
+    popularityRank: 15,
   ),
   WebFont(
     family: 'DM Serif Display',
@@ -8605,7 +8605,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/dmserifdisplay/v17/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Zx1w.ttf',
-    popularityRank: 110,
+    popularityRank: 113,
   ),
   WebFont(
     family: 'DM Serif Text',
@@ -8619,7 +8619,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/dmseriftext/v13/rnCu-xZa_krGokauCeNq1wWyWfKFWA.ttf',
-    popularityRank: 209,
+    popularityRank: 210,
   ),
   WebFont(
     family: 'Dai Banna SIL',
@@ -8656,7 +8656,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/daibannasil/v2/lW-4wj0AJWmpwGyJ2uEoA4I7vS-KLg.ttf',
-    popularityRank: 1477,
+    popularityRank: 1598,
   ),
   WebFont(
     family: 'Damion',
@@ -8669,7 +8669,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/damion/v15/hv-XlzJ3KEUe_YZkbGwz.ttf',
-    popularityRank: 477,
+    popularityRank: 473,
   ),
   WebFont(
     family: 'Dancing Script',
@@ -8706,7 +8706,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/danfo/v5/snf3s0u_98t16THfK1Csj3N41ZqbYDeJSrdX.ttf',
-    popularityRank: 1671,
+    popularityRank: 1669,
   ),
   WebFont(
     family: 'Dangrek',
@@ -8719,7 +8719,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/dangrek/v33/LYjCdG30nEgoH8E2sCJgrQ.ttf',
-    popularityRank: 1139,
+    popularityRank: 1198,
   ),
   WebFont(
     family: 'Darker Grotesque',
@@ -8742,7 +8742,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/darkergrotesque/v10/U9MK6cuh-mLQlC4BKCtayOfARkSVgb381b-W8-QDqXw3qk7z83U.ttf',
-    popularityRank: 503,
+    popularityRank: 454,
   ),
   WebFont(
     family: 'Darumadrop One',
@@ -8759,7 +8759,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/darumadropone/v14/cY9cfjeIW11dpCKgRLi675a87LhGDpc.ttf',
-    popularityRank: 1318,
+    popularityRank: 1330,
   ),
   WebFont(
     family: 'Datatype',
@@ -8790,7 +8790,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/datatype/v3/K2FcfZJQl-tDUlBEHaTYKmJIlpH1cGuNRqcCM4aUfKR9p6dHl6O8gzt3vw.ttf',
-    popularityRank: 1682,
+    popularityRank: 1618,
   ),
   WebFont(
     family: 'David Libre',
@@ -8812,7 +8812,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/davidlibre/v17/snfus0W_99N64iuYSvp4W8l94Jo.ttf',
-    popularityRank: 833,
+    popularityRank: 750,
   ),
   WebFont(
     family: 'Dawning of a New Day',
@@ -8825,7 +8825,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/dawningofanewday/v22/t5t_IQMbOp2SEwuncwLRjMfIg1yYit_nAw8aj2Y.ttf',
-    popularityRank: 727,
+    popularityRank: 643,
   ),
   WebFont(
     family: 'Days One',
@@ -8838,7 +8838,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/daysone/v19/mem9YaCnxnKRiYZOCIYUcr0.ttf',
-    popularityRank: 550,
+    popularityRank: 537,
   ),
   WebFont(
     family: 'Dekko',
@@ -8856,7 +8856,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/dekko/v23/46khlb_wWjfSrutETU8.ttf',
-    popularityRank: 1357,
+    popularityRank: 1362,
   ),
   WebFont(
     family: 'Dela Gothic One',
@@ -8876,7 +8876,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/delagothicone/v19/hESp6XxvMDRA-2eD0lXpDa6QkBA2REEN.ttf',
-    popularityRank: 369,
+    popularityRank: 359,
   ),
   WebFont(
     family: 'Delicious Handrawn',
@@ -8889,7 +8889,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/delicioushandrawn/v10/wlpsgx_NAUNkpmKQifcxkQchDFo3fJ1F3ZBH.ttf',
-    popularityRank: 1038,
+    popularityRank: 981,
   ),
   WebFont(
     family: 'Delius',
@@ -8902,7 +8902,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/delius/v21/PN_xRfK0pW_9e1rdYMg6.ttf',
-    popularityRank: 513,
+    popularityRank: 463,
   ),
   WebFont(
     family: 'Delius Swash Caps',
@@ -8915,7 +8915,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/deliusswashcaps/v25/oY1E8fPLr7v4JWCExZpWebxVKORpXUecIGM.ttf',
-    popularityRank: 1144,
+    popularityRank: 1170,
   ),
   WebFont(
     family: 'Delius Unicase',
@@ -8929,7 +8929,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/deliusunicase/v30/845BNMEwEIOVT8BmgfSzIr_6mlLGfeo.ttf',
-    popularityRank: 681,
+    popularityRank: 650,
   ),
   WebFont(
     family: 'Della Respira',
@@ -8942,7 +8942,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/dellarespira/v24/RLp5K5v44KaueWI6iEJQBiGPdfgYvw.ttf',
-    popularityRank: 884,
+    popularityRank: 779,
   ),
   WebFont(
     family: 'Denk One',
@@ -8960,7 +8960,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/denkone/v21/dg4m_pzhrqcFb2IzRNtGr7w.ttf',
-    popularityRank: 1049,
+    popularityRank: 874,
   ),
   WebFont(
     family: 'Devonshire',
@@ -8987,7 +8987,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/dhurjati/v27/_6_8ED3gSeatXfFiFU3zQqA.ttf',
-    popularityRank: 1390,
+    popularityRank: 1440,
   ),
   WebFont(
     family: 'Didact Gothic',
@@ -9007,7 +9007,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/didactgothic/v21/ahcfv8qz1zt6hCC5G4F_P4ASlU2Yow.ttf',
-    popularityRank: 327,
+    popularityRank: 308,
   ),
   WebFont(
     family: 'Diphylleia',
@@ -9024,7 +9024,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIil0s7g.ttf',
-    popularityRank: 1471,
+    popularityRank: 1489,
   ),
   WebFont(
     family: 'Diplomata',
@@ -9037,7 +9037,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/diplomata/v33/Cn-0JtiMXwhNwp-wKxyvYWZc.ttf',
-    popularityRank: 1160,
+    popularityRank: 1171,
   ),
   WebFont(
     family: 'Diplomata SC',
@@ -9050,7 +9050,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/diplomatasc/v30/buExpoi3ecvs3kidKgBJo2kv-fRK.ttf',
-    popularityRank: 1462,
+    popularityRank: 1476,
   ),
   WebFont(
     family: 'Do Hyeon',
@@ -9063,7 +9063,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/dohyeon/v21/TwMN-I8CRRU2zM86HGE2bQI.ttf',
-    popularityRank: 506,
+    popularityRank: 518,
   ),
   WebFont(
     family: 'Dokdo',
@@ -9077,7 +9077,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/dokdo/v23/esDf315XNuCBLyLp6tI.ttf',
-    popularityRank: 1059,
+    popularityRank: 1082,
   ),
   WebFont(
     family: 'Domine',
@@ -9093,7 +9093,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAE1wfFg.ttf',
-    popularityRank: 156,
+    popularityRank: 158,
   ),
   WebFont(
     family: 'Donegal One',
@@ -9106,7 +9106,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/donegalone/v22/m8JWjfRYea-ZnFz6fsK9FaRETms.ttf',
-    popularityRank: 1425,
+    popularityRank: 1413,
   ),
   WebFont(
     family: 'Dongle',
@@ -9126,7 +9126,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/dongle/v16/sJoF3Ltdjt6VPkqWvO5L.ttf',
-    popularityRank: 405,
+    popularityRank: 394,
   ),
   WebFont(
     family: 'Doppio One',
@@ -9139,7 +9139,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/doppioone/v14/Gg8wN5gSaBfyBw2MqCh-pgorLA.ttf',
-    popularityRank: 883,
+    popularityRank: 743,
   ),
   WebFont(
     family: 'Dorsa',
@@ -9153,7 +9153,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/dorsa/v29/yYLn0hjd0OGwqr4813Q.ttf',
-    popularityRank: 1317,
+    popularityRank: 1298,
   ),
   WebFont(
     family: 'Dosis',
@@ -9176,7 +9176,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/dosis/v34/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml3RMB.ttf',
-    popularityRank: 86,
+    popularityRank: 92,
   ),
   WebFont(
     family: 'DotGothic16',
@@ -9194,7 +9194,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/dotgothic16/v21/v6-QGYjBJFKgyw5nSoDAGH7K6Xo.ttf',
-    popularityRank: 627,
+    popularityRank: 603,
   ),
   WebFont(
     family: 'Doto',
@@ -9225,7 +9225,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/doto/v3/t5tJIRMbNJ6TQG7Il_EKPqP9zTnvqqGNcuvLMt1JIphFOOKuzk-W.ttf',
-    popularityRank: 1062,
+    popularityRank: 1028,
   ),
   WebFont(
     family: 'Dr Sugiyama',
@@ -9238,7 +9238,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/drsugiyama/v30/HTxoL2k4N3O9n5I1boGI7ZbQOYs.ttf',
-    popularityRank: 1478,
+    popularityRank: 1483,
   ),
   WebFont(
     family: 'Duru Sans',
@@ -9252,7 +9252,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/durusans/v21/xn7iYH8xwmSyTvEV_HOBTv3c.ttf',
-    popularityRank: 1007,
+    popularityRank: 1133,
   ),
   WebFont(
     family: 'DynaPuff',
@@ -9272,7 +9272,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/dynapuff/v9/z7N5dRvsZDIVHbYPMhZJ3HQ83UaSu4uhr7-ZFeoYkgAr1x8RSxYu2YnhTQ.ttf',
-    popularityRank: 638,
+    popularityRank: 627,
   ),
   WebFont(
     family: 'Dynalight',
@@ -9285,7 +9285,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/dynalight/v24/1Ptsg8LOU_aOmQvTsF44S4Fv.ttf',
-    popularityRank: 1028,
+    popularityRank: 989,
   ),
   WebFont(
     family: 'EB Garamond',
@@ -9326,7 +9326,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ebgaramond/v33/SlGDmQSNjdsmc35JDF1K5E55YMjF_7DPuGi-6_RkAo96.ttf',
-    popularityRank: 72,
+    popularityRank: 74,
   ),
   WebFont(
     family: 'Eagle Lake',
@@ -9339,7 +9339,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eaglelake/v26/ptRMTiqbbuNJDOiKj9wG1O_4LQ.ttf',
-    popularityRank: 1108,
+    popularityRank: 1165,
   ),
   WebFont(
     family: 'East Sea Dokdo',
@@ -9352,7 +9352,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eastseadokdo/v26/xfuo0Wn2V2_KanASqXSZp22m06_bE68.ttf',
-    popularityRank: 1184,
+    popularityRank: 1167,
   ),
   WebFont(
     family: 'Eater',
@@ -9366,7 +9366,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/eater/v27/mtG04_FCK7bOvqu3sXU.ttf',
-    popularityRank: 305,
+    popularityRank: 323,
   ),
   WebFont(
     family: 'Economica',
@@ -9382,7 +9382,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/economica/v17/Qw3fZQZaHCLgIWa29ZBbMMIE.ttf',
-    popularityRank: 423,
+    popularityRank: 408,
   ),
   WebFont(
     family: 'Eczar',
@@ -9405,7 +9405,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXHd6mqDgR.ttf',
-    popularityRank: 431,
+    popularityRank: 423,
   ),
   WebFont(
     family: 'Edu AU VIC WA NT Arrows',
@@ -9421,7 +9421,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduauvicwantarrows/v4/z7N7dQTteSlUDJZJAmUB9MuVbLPBjsrTFZLUbdjnSmlATbEWXt5tAcvRTDM5.ttf',
-    popularityRank: 1804,
+    popularityRank: 1806,
   ),
   WebFont(
     family: 'Edu AU VIC WA NT Dots',
@@ -9437,7 +9437,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduauvicwantdots/v4/S6uQw5FFVDKI3kwwDUbsPHCpzZNhzrA3or3_B4dZ6MmTX8QNLvtYItiZ3Q.ttf',
-    popularityRank: 1583,
+    popularityRank: 1587,
   ),
   WebFont(
     family: 'Edu AU VIC WA NT Guides',
@@ -9453,7 +9453,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduauvicwantguides/v3/TuG-UUJ4V48KZ9Nr3ZV46JQkJxtkFIKnvy00LCZuAcLMeb8FnyPdK1Zqz4tw.ttf',
-    popularityRank: 1273,
+    popularityRank: 913,
   ),
   WebFont(
     family: 'Edu AU VIC WA NT Hand',
@@ -9469,7 +9469,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduauvicwanthand/v3/C8cO4dY1tX2x0uuiUHFS4y7ERV-jfqJ6x063HfvcsxiYKifhtCJ1pKpPaQ.ttf',
-    popularityRank: 1410,
+    popularityRank: 1414,
   ),
   WebFont(
     family: 'Edu AU VIC WA NT Pre',
@@ -9485,7 +9485,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyJmkArqkl.ttf',
-    popularityRank: 1729,
+    popularityRank: 1648,
   ),
   WebFont(
     family: 'Edu NSW ACT Cursive',
@@ -9501,7 +9501,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/edunswactcursive/v3/xn7LYGUw02PnIPEjskHSG_2fCaz9DzhQbcTNLWxkwsHVCrd5ghiUh3Q.ttf',
-    popularityRank: 1201,
+    popularityRank: 1199,
   ),
   WebFont(
     family: 'Edu NSW ACT Foundation',
@@ -9517,7 +9517,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9tosGKcis.ttf',
-    popularityRank: 1553,
+    popularityRank: 1504,
   ),
   WebFont(
     family: 'Edu NSW ACT Hand Pre',
@@ -9533,7 +9533,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/edunswacthandpre/v3/kmKXZrI-ExGJWUmupHwGgw6Qw4svl-MsLiw7ATFEXwCkLE0ywWBat8La.ttf',
-    popularityRank: 1766,
+    popularityRank: 1761,
   ),
   WebFont(
     family: 'Edu QLD Beginner',
@@ -9549,7 +9549,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE4E3reaga8.ttf',
-    popularityRank: 1752,
+    popularityRank: 1735,
   ),
   WebFont(
     family: 'Edu QLD Hand',
@@ -9569,7 +9569,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduqldhand/v3/d6lakaOkTtjy2QhuzWtup1rW3NCQVvjKPjPjngAUSRpzhA.ttf',
-    popularityRank: 1826,
+    popularityRank: 1828,
   ),
   WebFont(
     family: 'Edu SA Beginner',
@@ -9585,7 +9585,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/edusabeginner/v5/rnC_-xRb1x-1lHXnLaZZ2xOoLIGfU3L82irpr_3C9989Tox4Aw.ttf',
-    popularityRank: 1092,
+    popularityRank: 1123,
   ),
   WebFont(
     family: 'Edu SA Hand',
@@ -9601,7 +9601,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/edusahand/v3/memtYaOmw37C-ogAJfd7NocVXTy8nx2cmqvXlWuWv06A.ttf',
-    popularityRank: 1719,
+    popularityRank: 1687,
   ),
   WebFont(
     family: 'Edu TAS Beginner',
@@ -9617,7 +9617,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/edutasbeginner/v5/ZXuwe04WubHfGVY-1TcNg7AFUmshg8jIUTzK3r34f_HwelkqD2A.ttf',
-    popularityRank: 1123,
+    popularityRank: 1092,
   ),
   WebFont(
     family: 'Edu VIC WA NT Beginner',
@@ -9633,7 +9633,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduvicwantbeginner/v6/jiz2RF1BuW9OwcnNPxLl4KfZCHd9nFtd5Tu7stCpElYpvPfZZ-OXlMmEVQ0.ttf',
-    popularityRank: 1519,
+    popularityRank: 1502,
   ),
   WebFont(
     family: 'Edu VIC WA NT Hand',
@@ -9649,7 +9649,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduvicwanthand/v3/UcCO3EsnIXnOaZKmY1Ry0wZjP9YVRBcw2boKoduKmMEVuLyfAZlhjQ.ttf',
-    popularityRank: 1880,
+    popularityRank: 1396,
   ),
   WebFont(
     family: 'Edu VIC WA NT Hand Pre',
@@ -9665,7 +9665,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/eduvicwanthandpre/v3/neInzDmioZxjkInM_tLHFudmcN2Uxxc-9Vnv-4YmimMq127-YLTo4egVDyk.ttf',
-    popularityRank: 1878,
+    popularityRank: 1852,
   ),
   WebFont(
     family: 'El Messiri',
@@ -9686,7 +9686,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe55hjDk.ttf',
-    popularityRank: 354,
+    popularityRank: 346,
   ),
   WebFont(
     family: 'Electrolize',
@@ -9699,7 +9699,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/electrolize/v20/cIf5Ma1dtE0zSiGSiED7AXEHuIo.ttf',
-    popularityRank: 518,
+    popularityRank: 511,
   ),
   WebFont(
     family: 'Elms Sans',
@@ -9752,7 +9752,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3aFi98OA.ttf',
-    popularityRank: 1208,
+    popularityRank: 1310,
   ),
   WebFont(
     family: 'Elsie',
@@ -9767,7 +9767,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/elsie/v26/BCanqZABrez54xYv_M0.ttf',
-    popularityRank: 945,
+    popularityRank: 974,
   ),
   WebFont(
     family: 'Elsie Swash Caps',
@@ -9781,7 +9781,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/elsieswashcaps/v25/845DNN8xGZyVX5MVo_upKf7KnjK0TevfLA.ttf',
-    popularityRank: 1421,
+    popularityRank: 1427,
   ),
   WebFont(
     family: 'Emblema One',
@@ -9794,7 +9794,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/emblemaone/v22/nKKT-GQ0F5dSY8vzG0rOELRAFFo.ttf',
-    popularityRank: 1412,
+    popularityRank: 1365,
   ),
   WebFont(
     family: 'Emilys Candy',
@@ -9807,7 +9807,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/emilyscandy/v21/2EbgL-1mD1Rnb0OGKudbk0yJrtZv.ttf',
-    popularityRank: 1119,
+    popularityRank: 1164,
   ),
   WebFont(
     family: 'Encode Sans',
@@ -9842,7 +9842,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjVtSF6A.ttf',
-    popularityRank: 210,
+    popularityRank: 227,
   ),
   WebFont(
     family: 'Encode Sans Condensed',
@@ -9877,7 +9877,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/encodesanscondensed/v13/j8_16_LD37rqfuwxyIuaZhE6cRXOLtm2gfT2gK-J.ttf',
-    popularityRank: 326,
+    popularityRank: 319,
   ),
   WebFont(
     family: 'Encode Sans Expanded',
@@ -9912,7 +9912,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/encodesansexpanded/v15/c4m_1mF4GcnstG_Jh1QH6ac4hNLeNyeYUpojKQM.ttf',
-    popularityRank: 686,
+    popularityRank: 730,
   ),
   WebFont(
     family: 'Encode Sans SC',
@@ -9947,7 +9947,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/encodesanssc/v14/jVyp7nLwCGzQ9zE7ZyRg0QRXHPZc_uUA6Kb3VJWLE_Pdtm7lcD6qvXT1HHhmwc5HPA.ttf',
-    popularityRank: 1310,
+    popularityRank: 1336,
   ),
   WebFont(
     family: 'Encode Sans Semi Condensed',
@@ -9982,7 +9982,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/encodesanssemicondensed/v13/3qT4oiKqnDuUtQUEHMoXcmspmy55SFWrXFRp9FTOG1yQ9ME.ttf',
-    popularityRank: 757,
+    popularityRank: 800,
   ),
   WebFont(
     family: 'Encode Sans Semi Expanded',
@@ -10017,7 +10017,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/encodesanssemiexpanded/v23/ke83OhAPMEZs-BDuzwftTNJ85JvwMOzE9d9Cca5TO4s1Kw.ttf',
-    popularityRank: 830,
+    popularityRank: 882,
   ),
   WebFont(
     family: 'Engagement',
@@ -10030,7 +10030,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/engagement/v29/x3dlckLDZbqa7RUs9MFVbNsmtw.ttf',
-    popularityRank: 1253,
+    popularityRank: 1248,
   ),
   WebFont(
     family: 'Englebert',
@@ -10043,7 +10043,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/englebert/v24/xn7iYH8w2XGrC8AR4HSBTv3c.ttf',
-    popularityRank: 1295,
+    popularityRank: 1308,
   ),
   WebFont(
     family: 'Enriqueta',
@@ -10059,7 +10059,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/enriqueta/v19/goksH6L7AUFrRvV44HVjSkqn.ttf',
-    popularityRank: 730,
+    popularityRank: 701,
   ),
   WebFont(
     family: 'Ephesis',
@@ -10076,7 +10076,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/ephesis/v11/uU9PCBUS8IerL2VG3xLR2g.ttf',
-    popularityRank: 678,
+    popularityRank: 664,
   ),
   WebFont(
     family: 'Epilogue',
@@ -10170,7 +10170,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/epundasans/v5/ea8Kads_Rv3-GJfWRrHjgFROia5FlsurC_ndbFTLSLR8.ttf',
-    popularityRank: 1493,
+    popularityRank: 1522,
   ),
   WebFont(
     family: 'Epunda Slab',
@@ -10211,7 +10211,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/epundaslab/v2/46k8lbHxTynXpZplPiOFHX9L36WJhClOsZt_eDNloEQU.ttf',
-    popularityRank: 1684,
+    popularityRank: 1702,
   ),
   WebFont(
     family: 'Erica One',
@@ -10225,7 +10225,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/ericaone/v29/WBLnrEXccV9VGrOKmGDFWkXI.ttf',
-    popularityRank: 1266,
+    popularityRank: 1243,
   ),
   WebFont(
     family: 'Esteban',
@@ -10238,7 +10238,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/esteban/v16/r05bGLZE-bdGdN-GROqJ4g.ttf',
-    popularityRank: 937,
+    popularityRank: 976,
   ),
   WebFont(
     family: 'Estedad',
@@ -10274,7 +10274,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/estedad/v3/QdVJSTk1OgitjvYTDpnsTdH9KGslJX_6JqgiUh4.ttf',
-    popularityRank: 1683,
+    popularityRank: 1688,
   ),
   WebFont(
     family: 'Estonia',
@@ -10291,7 +10291,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/estonia/v13/7Au_p_4ijSecA1yHOCP2yg.ttf',
-    popularityRank: 1566,
+    popularityRank: 1641,
   ),
   WebFont(
     family: 'Euphoria Script',
@@ -10304,7 +10304,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/euphoriascript/v22/mFTpWb0X2bLb_cx6To2B8GpKoD5qkvxX.ttf',
-    popularityRank: 878,
+    popularityRank: 903,
   ),
   WebFont(
     family: 'Ewert',
@@ -10318,7 +10318,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/ewert/v27/va9I4kzO2tFODbBuQeY.ttf',
-    popularityRank: 1364,
+    popularityRank: 1342,
   ),
   WebFont(
     family: 'Exile',
@@ -10332,7 +10332,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/exile/v1/pxiKyp0xqNtbjCsZFJA.ttf',
-    popularityRank: 1784,
+    popularityRank: 1770,
   ),
   WebFont(
     family: 'Exo',
@@ -10385,7 +10385,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3OwJmPg.ttf',
-    popularityRank: 160,
+    popularityRank: 162,
   ),
   WebFont(
     family: 'Exo 2',
@@ -10469,7 +10469,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/expletussans/v31/RLpqK5v5_bqufTYdnhFzDj2dX_IwS3my73zcDaSY2v1pHwA.ttf',
-    popularityRank: 904,
+    popularityRank: 889,
   ),
   WebFont(
     family: 'Explora',
@@ -10487,7 +10487,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/explora/v11/tsstApxFfjUH4wrvQ1uFpg.ttf',
-    popularityRank: 1626,
+    popularityRank: 1611,
   ),
   WebFont(
     family: 'Faculty Glyphic',
@@ -10500,7 +10500,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/facultyglyphic/v4/RrQIbot2-iBvI2mYSyKIrcgoBuQ4Gu2B.ttf',
-    popularityRank: 1153,
+    popularityRank: 1179,
   ),
   WebFont(
     family: 'Fahkwang',
@@ -10543,7 +10543,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/fahkwang/v18/Noax6Uj3zpmBOgbNpOqOuLk.ttf',
-    popularityRank: 509,
+    popularityRank: 480,
   ),
   WebFont(
     family: 'Familjen Grotesk',
@@ -10576,7 +10576,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/familjengrotesk/v11/Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMGJaRzseVw.ttf',
-    popularityRank: 395,
+    popularityRank: 404,
   ),
   WebFont(
     family: 'Fanwood Text',
@@ -10590,7 +10590,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/fanwoodtext/v17/3XFtErwl05Ad_vSCF6Fq7xX2RNzc.ttf',
-    popularityRank: 854,
+    popularityRank: 835,
   ),
   WebFont(
     family: 'Farro',
@@ -10607,7 +10607,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/farro/v15/i7dEIFl3byGNHaVMFr4.ttf',
-    popularityRank: 979,
+    popularityRank: 993,
   ),
   WebFont(
     family: 'Farsan',
@@ -10625,7 +10625,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/farsan/v24/VEMwRoJ0vY_zsyzK26Wt.ttf',
-    popularityRank: 1367,
+    popularityRank: 1331,
   ),
   WebFont(
     family: 'Fascinate',
@@ -10638,7 +10638,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/fascinate/v23/z7NWdRrufC8XJK0IIElS1bzU.ttf',
-    popularityRank: 1194,
+    popularityRank: 1187,
   ),
   WebFont(
     family: 'Fascinate Inline',
@@ -10651,7 +10651,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/fascinateinline/v24/jVyR7mzzB3zc-jp6QCAu60poNqIy5gzIeQ.ttf',
-    popularityRank: 1158,
+    popularityRank: 1172,
   ),
   WebFont(
     family: 'Faster One',
@@ -10664,7 +10664,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/fasterone/v20/H4ciBXCHmdfClFb-vWhf-LqYgg.ttf',
-    popularityRank: 560,
+    popularityRank: 546,
   ),
   WebFont(
     family: 'Fasthand',
@@ -10678,7 +10678,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/fasthand/v33/0yb9GDohyKTYn_ZEERkvaEg.ttf',
-    popularityRank: 1118,
+    popularityRank: 1137,
   ),
   WebFont(
     family: 'Fauna One',
@@ -10692,7 +10692,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/faunaone/v16/wlpzgwTPBVpjpCuwkuEB2EZP.ttf',
-    popularityRank: 916,
+    popularityRank: 873,
   ),
   WebFont(
     family: 'Faustina',
@@ -10733,7 +10733,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/faustina/v23/XLY4IZPxYpJfTbZAFXWzNT2SO8wpWHlsgoEfGF-S.ttf',
-    popularityRank: 389,
+    popularityRank: 366,
   ),
   WebFont(
     family: 'Federant',
@@ -10747,7 +10747,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/federant/v31/2sDdZGNfip_eirT0_X0iT0U.ttf',
-    popularityRank: 1435,
+    popularityRank: 1446,
   ),
   WebFont(
     family: 'Federo',
@@ -10760,7 +10760,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/federo/v20/iJWFBX-cbD_ETsbWjFma.ttf',
-    popularityRank: 983,
+    popularityRank: 968,
   ),
   WebFont(
     family: 'Felipa',
@@ -10773,7 +10773,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/felipa/v27/FwZa7-owz1Eu4F_ASd6A.ttf',
-    popularityRank: 1396,
+    popularityRank: 1449,
   ),
   WebFont(
     family: 'Fenix',
@@ -10787,7 +10787,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/fenix/v21/XoHo2YL_S7-g5rssITQ.ttf',
-    popularityRank: 1230,
+    popularityRank: 1213,
   ),
   WebFont(
     family: 'Festive',
@@ -10804,7 +10804,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/festive/v11/cY9Ffj6KX1xcoDWhJtbqzw.ttf',
-    popularityRank: 1262,
+    popularityRank: 1279,
   ),
   WebFont(
     family: 'Figtree',
@@ -10845,7 +10845,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/figtree/v9/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_d_QG5fyEU.ttf',
-    popularityRank: 41,
+    popularityRank: 40,
   ),
   WebFont(
     family: 'Finger Paint',
@@ -10858,7 +10858,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/fingerpaint/v21/0QInMXVJ-o-oRn_7dron8YW-8pzW.ttf',
-    popularityRank: 736,
+    popularityRank: 824,
   ),
   WebFont(
     family: 'Finlandica Headline',
@@ -10913,7 +10913,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/finlandicaheadline/v1/6NU98EeLLgyJawTu7-9ulKRhqLEtF7PLQGsWArg81vVSulL-Gr0L9Cg.ttf',
-    popularityRank: 1791,
+    popularityRank: 1837,
   ),
   WebFont(
     family: 'Finlandica Text',
@@ -10968,7 +10968,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/finlandicatext/v1/raxqHiOKu9gNOnWPEc8NJGw_4z7i-jZo-CJVX0V3tSzqFkp8kg.ttf',
-    popularityRank: 1753,
+    popularityRank: 1782,
   ),
   WebFont(
     family: 'Fira Code',
@@ -10993,7 +10993,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sJVb7Mw.ttf',
-    popularityRank: 260,
+    popularityRank: 261,
   ),
   WebFont(
     family: 'Fira Mono',
@@ -11017,7 +11017,7 @@ const webfontList = [
     category: WebFontCategory.monospace,
     menu:
         'https://fonts.gstatic.com/s/firamono/v16/N0bX2SlFPv1weGeLZDtgIP7X.ttf',
-    popularityRank: 412,
+    popularityRank: 449,
   ),
   WebFont(
     family: 'Fira Sans',
@@ -11075,7 +11075,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/firasans/v18/va9E4kDNxMZdWfMOD5VvkYjO.ttf',
-    popularityRank: 50,
+    popularityRank: 53,
   ),
   WebFont(
     family: 'Fira Sans Condensed',
@@ -11132,7 +11132,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/firasanscondensed/v11/wEOhEADFm8hSaQTFG18FErVhsC9x-tarUfDtqA.ttf',
-    popularityRank: 198,
+    popularityRank: 200,
   ),
   WebFont(
     family: 'Fira Sans Extra Condensed',
@@ -11189,7 +11189,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/firasansextracondensed/v11/NaPKcYDaAO5dirw6IaFn7lPJFqXmS-M9Atn3wgda1fmuvw.ttf',
-    popularityRank: 371,
+    popularityRank: 373,
   ),
   WebFont(
     family: 'Fjalla One',
@@ -11207,7 +11207,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/fjallaone/v16/Yq6R-LCAWCX3-6Ky7FAFrOd6lw.ttf',
-    popularityRank: 53,
+    popularityRank: 55,
   ),
   WebFont(
     family: 'Fjord One',
@@ -11221,7 +11221,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/fjordone/v22/zOL-4pbEnKBY_9S1jNKb6ORE.ttf',
-    popularityRank: 636,
+    popularityRank: 611,
   ),
   WebFont(
     family: 'Flamenco',
@@ -11236,7 +11236,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/flamenco/v19/neIIzCehqYguo67ssZWHFqk.ttf',
-    popularityRank: 1205,
+    popularityRank: 1270,
   ),
   WebFont(
     family: 'Flavors',
@@ -11249,7 +11249,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/flavors/v28/FBV2dDrhxqmveJTpXk3vMg.ttf',
-    popularityRank: 1555,
+    popularityRank: 1540,
   ),
   WebFont(
     family: 'Fleur De Leah',
@@ -11266,7 +11266,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/fleurdeleah/v11/AYCNpXX7ftYZWLhv9UmPJTMC1ven5A.ttf',
-    popularityRank: 1447,
+    popularityRank: 1452,
   ),
   WebFont(
     family: 'Flow Block',
@@ -11285,7 +11285,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/flowblock/v15/wlp0gwfPCEB65UmTk-d6yWdvaA.ttf',
-    popularityRank: 1654,
+    popularityRank: 1695,
   ),
   WebFont(
     family: 'Flow Circular',
@@ -11304,7 +11304,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/flowcircular/v15/lJwB-pc4j2F-H8YKuyvfxdZ41ibjXQ.ttf',
-    popularityRank: 746,
+    popularityRank: 732,
   ),
   WebFont(
     family: 'Flow Rounded',
@@ -11323,7 +11323,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/flowrounded/v15/-zki91mtwsU9qlLiGwD4oQXHoJ_6.ttf',
-    popularityRank: 1616,
+    popularityRank: 1603,
   ),
   WebFont(
     family: 'Foldit',
@@ -11358,7 +11358,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/foldit/v8/aFTI7PF3Y3c9WdjNrRVE0Rk2b7j8XpAMqateZA.ttf',
-    popularityRank: 1248,
+    popularityRank: 1303,
   ),
   WebFont(
     family: 'Fondamento',
@@ -11372,7 +11372,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/fondamento/v22/4UaHrEJGsxNmFTPDnkaJ96zp4g.ttf',
-    popularityRank: 647,
+    popularityRank: 659,
   ),
   WebFont(
     family: 'Fontdiner Swanky',
@@ -11404,7 +11404,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/forum/v19/6aey4Ky-Vb8Ew8IXOpc.ttf',
-    popularityRank: 320,
+    popularityRank: 312,
   ),
   WebFont(
     family: 'Fragment Mono',
@@ -11422,7 +11422,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnB4VHgw.ttf',
-    popularityRank: 639,
+    popularityRank: 571,
   ),
   WebFont(
     family: 'Francois One',
@@ -11439,7 +11439,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/francoisone/v22/_Xmr-H4zszafZw3A-KPSZut9xwiU.ttf',
-    popularityRank: 272,
+    popularityRank: 286,
   ),
   WebFont(
     family: 'Frank Ruhl Libre',
@@ -11462,7 +11462,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/frankruhllibre/v23/j8_96_fAw7jrcalD7oKYNX0QfAnPcbzNEEB7OoicBw7FYWqRNRA.ttf',
-    popularityRank: 175,
+    popularityRank: 172,
   ),
   WebFont(
     family: 'Fraunces',
@@ -11515,7 +11515,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/fraunces/v38/6NUh8FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0K7iN7hzFUPJH58nib1603gg7S2nfgRYIctxuTD_7W.ttf',
-    popularityRank: 105,
+    popularityRank: 101,
   ),
   WebFont(
     family: 'Freckle Face',
@@ -11528,7 +11528,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/freckleface/v16/AMOWz4SXrmKHCvXTohxY-YIEUliy.ttf',
-    popularityRank: 1174,
+    popularityRank: 1201,
   ),
   WebFont(
     family: 'Fredericka the Great',
@@ -11541,7 +11541,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/frederickathegreat/v23/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV--SlxbI.ttf',
-    popularityRank: 537,
+    popularityRank: 527,
   ),
   WebFont(
     family: 'Fredoka',
@@ -11562,7 +11562,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/fredoka/v17/X7nP4b87HvSqjb_WIi2yDCRwoQ_k7367_B-i2yQag0-mac3O8SL8F-mP.ttf',
-    popularityRank: 115,
+    popularityRank: 112,
   ),
   WebFont(
     family: 'Freehand',
@@ -11576,7 +11576,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/freehand/v34/cIf-Ma5eqk01VjKTgDmARGE.ttf',
-    popularityRank: 970,
+    popularityRank: 928,
   ),
   WebFont(
     family: 'Freeman',
@@ -11593,7 +11593,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/freeman/v1/S6u9w4NGQiLN8nh-Sw6PHA.ttf',
-    popularityRank: 1040,
+    popularityRank: 1066,
   ),
   WebFont(
     family: 'Fresca',
@@ -11606,7 +11606,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/fresca/v24/6ae94K--SKgCzbMGG7cS.ttf',
-    popularityRank: 808,
+    popularityRank: 895,
   ),
   WebFont(
     family: 'Frijole',
@@ -11619,7 +11619,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/frijole/v15/uU9PCBUR8oakM2BQ3xLR2g.ttf',
-    popularityRank: 753,
+    popularityRank: 845,
   ),
   WebFont(
     family: 'Fruktur',
@@ -11638,7 +11638,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/fruktur/v28/SZc53FHsOru5QYsMTzzMlQ.ttf',
-    popularityRank: 1378,
+    popularityRank: 1405,
   ),
   WebFont(
     family: 'Fugaz One',
@@ -11652,7 +11652,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/fugazone/v21/rax_HiWKp9EAITukFsl8BRha.ttf',
-    popularityRank: 262,
+    popularityRank: 267,
   ),
   WebFont(
     family: 'Fuggles',
@@ -11669,7 +11669,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/fuggles/v14/k3kQo8UEJOlD1hpOfd_oKw.ttf',
-    popularityRank: 1094,
+    popularityRank: 1064,
   ),
   WebFont(
     family: 'Funnel Display',
@@ -11687,7 +11687,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/funneldisplay/v3/B50bF7FGv37QNVWgE0ga--4PbZSRJXrOHcLHLoAYmmPnWc90.ttf',
-    popularityRank: 633,
+    popularityRank: 615,
   ),
   WebFont(
     family: 'Funnel Sans',
@@ -11724,7 +11724,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/funnelsans/v3/OpNfno8Dg9bX6Bsp3Wq69RB-VukSVv3aISFAlXm0f2VJ.ttf',
-    popularityRank: 478,
+    popularityRank: 495,
   ),
   WebFont(
     family: 'Fustat',
@@ -11747,7 +11747,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/fustat/v4/NaPEcZ_aHO9Iy5thRNqze7YGY9HGCEQQdr25sQ.ttf',
-    popularityRank: 541,
+    popularityRank: 555,
   ),
   WebFont(
     family: 'Fuzzy Bubbles',
@@ -11765,7 +11765,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLGKZMbrgv9pwtjPEVNV0F2BnLzYw.ttf',
-    popularityRank: 709,
+    popularityRank: 778,
   ),
   WebFont(
     family: 'GFS Didot',
@@ -11784,7 +11784,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/gfsdidot/v18/Jqzh5TybZ9vZMWFssvwSFu3C.ttf',
-    popularityRank: 388,
+    popularityRank: 380,
   ),
   WebFont(
     family: 'GFS Neohellenic',
@@ -11805,7 +11805,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gfsneohellenic/v27/8QIRdiDOrfiq0b7R8O1Iw9WLcY5jLKJL.ttf',
-    popularityRank: 1389,
+    popularityRank: 1386,
   ),
   WebFont(
     family: 'Ga Maamli',
@@ -11823,7 +11823,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/gamaamli/v3/uU9NCBsQ4c-DPW1Yo3rh29SG.ttf',
-    popularityRank: 1631,
+    popularityRank: 1608,
   ),
   WebFont(
     family: 'Gabarito',
@@ -11841,7 +11841,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/gabarito/v9/QGYwz_0dZAGKJJ4t3FFkc3Q8AkNP9Pj248KEFwgp.ttf',
-    popularityRank: 322,
+    popularityRank: 330,
   ),
   WebFont(
     family: 'Gabriela',
@@ -11860,7 +11860,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/gabriela/v23/qkBWXvsO6sreR8E-b8m_xL4.ttf',
-    popularityRank: 791,
+    popularityRank: 786,
   ),
   WebFont(
     family: 'Gaegu',
@@ -11876,7 +11876,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/gaegu/v23/TuGfUVB6Up9NU5ZKq9w.ttf',
-    popularityRank: 728,
+    popularityRank: 839,
   ),
   WebFont(
     family: 'Gafata',
@@ -11889,7 +11889,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gafata/v22/XRXV3I6Cn0VJKonIM-aE.ttf',
-    popularityRank: 1161,
+    popularityRank: 1168,
   ),
   WebFont(
     family: 'Gajraj One',
@@ -11906,7 +11906,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/gajrajone/v7/1cX2aUDCDpXsuWVb1jIjn1CggQ.ttf',
-    popularityRank: 1668,
+    popularityRank: 1665,
   ),
   WebFont(
     family: 'Galada',
@@ -11919,7 +11919,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/galada/v21/H4cmBXyGmcjXlUXO8yY6.ttf',
-    popularityRank: 870,
+    popularityRank: 881,
   ),
   WebFont(
     family: 'Galdeano',
@@ -11933,7 +11933,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/galdeano/v23/uU9MCBoQ4YOqOW1boAPw-vQ.ttf',
-    popularityRank: 1406,
+    popularityRank: 1281,
   ),
   WebFont(
     family: 'Galindo',
@@ -11946,7 +11946,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/galindo/v26/HI_KiYMeLqVKqwyuc5DoQg.ttf',
-    popularityRank: 1082,
+    popularityRank: 964,
   ),
   WebFont(
     family: 'Gamja Flower',
@@ -11959,7 +11959,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/gamjaflower/v26/6NUR8FiKJg-Pa0rM6uN40Z4UyPVB.ttf',
-    popularityRank: 894,
+    popularityRank: 848,
   ),
   WebFont(
     family: 'Gantari',
@@ -12008,7 +12008,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOg3xYZU.ttf',
-    popularityRank: 529,
+    popularityRank: 567,
   ),
   WebFont(
     family: 'Gasoek One',
@@ -12025,7 +12025,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gasoekone/v4/EJRTQgQ_UMUKvDgnlX80_ru1dw.ttf',
-    popularityRank: 965,
+    popularityRank: 991,
   ),
   WebFont(
     family: 'Gayathri',
@@ -12041,7 +12041,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/gayathri/v20/MCoQzAb429DbBilWLLA5-ps.ttf',
-    popularityRank: 1168,
+    popularityRank: 1154,
   ),
   WebFont(
     family: 'Geist',
@@ -12096,7 +12096,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/geist/v5/gyBhhwUxId8gMGYQMKR3pzfaWI_RnOMInJnf.ttf',
-    popularityRank: 108,
+    popularityRank: 104,
   ),
   WebFont(
     family: 'Geist Mono',
@@ -12152,7 +12152,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/geistmono/v6/or3yQ6H-1_WfwkMZI_qYPLs1a-t7PU0AbeE9KK5S5Cw.ttf',
-    popularityRank: 137,
+    popularityRank: 132,
   ),
   WebFont(
     family: 'Geist Pixel',
@@ -12165,7 +12165,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/geistpixel/v1/CSRs4zxZluGGW3oyI0A_AN0hQBvYDU4hBmqoKzA8Wz6n.ttf',
-    popularityRank: 1183,
+    popularityRank: 1455,
   ),
   WebFont(
     family: 'Gelasio',
@@ -12198,7 +12198,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/gelasio/v14/cIfiMaFfvUQxTTqS3iKJkLGbI41wQL8Ilxct8zQ.ttf',
-    popularityRank: 312,
+    popularityRank: 329,
   ),
   WebFont(
     family: 'Gemunu Libre',
@@ -12221,7 +12221,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gemunulibre/v18/X7n34bQ6Cfy7jKGXVE_YlqnbEQAFP-PIuTCp0xiJDvWBfA.ttf',
-    popularityRank: 1091,
+    popularityRank: 1152,
   ),
   WebFont(
     family: 'Genos',
@@ -12275,7 +12275,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/genos/v17/SlGNmQqPqpUOYTYjacb0Hc91fTwVqkjYrEi-.ttf',
-    popularityRank: 1078,
+    popularityRank: 1067,
   ),
   WebFont(
     family: 'Gentium Book Plus',
@@ -12299,7 +12299,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/gentiumbookplus/v1/vEFL2-RHBgUK5fbjKxRpbBtJPyRpocKef7Y.ttf',
-    popularityRank: 1103,
+    popularityRank: 1114,
   ),
   WebFont(
     family: 'Gentium Plus',
@@ -12323,7 +12323,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/gentiumplus/v2/Iurd6Ytw-oSPaZ00r2bNe8VZjZFI.ttf',
-    popularityRank: 1261,
+    popularityRank: 1262,
   ),
   WebFont(
     family: 'Geo',
@@ -12339,7 +12339,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/geo/v23/CSRz4zRZluflLnpi.ttf',
-    popularityRank: 566,
+    popularityRank: 583,
   ),
   WebFont(
     family: 'Geologica',
@@ -12377,7 +12377,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/geologica/v5/oY1o8evIr7j9P3TN9YwNAdyjzUyDKkKdAGOJh1UlCDUIhAIdhCZOn1fLsig7jfvCCPHZckU8H3G11_z-_OZqDx_rc-ISBQ.ttf',
-    popularityRank: 155,
+    popularityRank: 152,
   ),
   WebFont(
     family: 'Geom',
@@ -12418,7 +12418,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggg5rG5yniU.ttf',
-    popularityRank: 1313,
+    popularityRank: 1277,
   ),
   WebFont(
     family: 'Geomini',
@@ -12437,7 +12437,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/geomini/v2/Yq6L-L2BVyv2_q37mTVoSDbHLBc5Sb6OqMCz040.ttf',
-    popularityRank: 1279,
+    popularityRank: 1265,
   ),
   WebFont(
     family: 'Georama',
@@ -12490,7 +12490,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/georama/v15/MCo5zAn438bIEyxFf6swMnNpvPcUwW4u4yRcDh-ZjxApn9K5GvgdmAEP.ttf',
-    popularityRank: 428,
+    popularityRank: 429,
   ),
   WebFont(
     family: 'Geostar',
@@ -12503,7 +12503,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOfhSu3_g.ttf',
-    popularityRank: 1648,
+    popularityRank: 1646,
   ),
   WebFont(
     family: 'Geostar Fill',
@@ -12516,7 +12516,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/geostarfill/v27/AMOWz4SWuWiXFfjEohxQ9osEUliy.ttf',
-    popularityRank: 1307,
+    popularityRank: 1329,
   ),
   WebFont(
     family: 'Germania One',
@@ -12529,7 +12529,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/germaniaone/v21/Fh4yPjrqIyv2ucM2qzBjeS3uzQhK.ttf',
-    popularityRank: 1003,
+    popularityRank: 692,
   ),
   WebFont(
     family: 'Gideon Roman',
@@ -12546,7 +12546,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/gideonroman/v13/e3tmeuGrVOys8sxzZgWlmXoQeknS.ttf',
-    popularityRank: 1448,
+    popularityRank: 1472,
   ),
   WebFont(
     family: 'Gidole',
@@ -12565,7 +12565,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gidole/v24/sZlFdR6O8zVVEiMqCZFS.ttf',
-    popularityRank: 1594,
+    popularityRank: 1565,
   ),
   WebFont(
     family: 'Gidugu',
@@ -12582,7 +12582,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gidugu/v28/L0x8DFMkk1Uf6w3hvfqi.ttf',
-    popularityRank: 1528,
+    popularityRank: 1516,
   ),
   WebFont(
     family: 'Gilda Display',
@@ -12595,7 +12595,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/gildadisplay/v20/t5tmIRoYMoaYG0WEOh7HwMeR3TjPqg.ttf',
-    popularityRank: 319,
+    popularityRank: 316,
   ),
   WebFont(
     family: 'Girassol',
@@ -12609,7 +12609,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/girassol/v24/JTUUjIo_-DK48laaNB9MxW4.ttf',
-    popularityRank: 1238,
+    popularityRank: 1313,
   ),
   WebFont(
     family: 'Give You Glory',
@@ -12622,7 +12622,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/giveyouglory/v17/8QIQdiHOgt3vv4LR7ahjw9-XYf1yDYI.ttf',
-    popularityRank: 876,
+    popularityRank: 868,
   ),
   WebFont(
     family: 'Glass Antiqua',
@@ -12635,7 +12635,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/glassantiqua/v26/xfu30Wr0Wn3NOQM2piC0uXOjrL76Mw.ttf',
-    popularityRank: 1327,
+    popularityRank: 1337,
   ),
   WebFont(
     family: 'Glegoo',
@@ -12653,7 +12653,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/glegoo/v17/_Xmt-HQyrTKWaw25iqOd.ttf',
-    popularityRank: 344,
+    popularityRank: 530,
   ),
   WebFont(
     family: 'Gloock',
@@ -12670,7 +12670,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/gloock/v8/Iurb6YFw84WUY4NJjhah.ttf',
-    popularityRank: 463,
+    popularityRank: 506,
   ),
   WebFont(
     family: 'Gloria Hallelujah',
@@ -12683,7 +12683,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/gloriahallelujah/v24/LYjYdHv3kUk9BMV96EIswT9DIbW-MISz1zY.ttf',
-    popularityRank: 349,
+    popularityRank: 360,
   ),
   WebFont(
     family: 'Glory',
@@ -12732,7 +12732,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/glory/v18/q5uasoi9Lf1w5t3Est24nq9blIRQwImzp3WZ.ttf',
-    popularityRank: 605,
+    popularityRank: 588,
   ),
   WebFont(
     family: 'Gluten',
@@ -12767,7 +12767,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/gluten/v18/Hhy_U5gk9fW7OUdVIPh2zD_RSqQJ__A15jgJsn-Bhb_yI8Vb7S1KsHw.ttf',
-    popularityRank: 1043,
+    popularityRank: 1010,
   ),
   WebFont(
     family: 'Goblin One',
@@ -12780,7 +12780,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/goblinone/v28/CSR64z1ZnOqZRjRCBVY_fOYKSA.ttf',
-    popularityRank: 944,
+    popularityRank: 988,
   ),
   WebFont(
     family: 'Gochi Hand',
@@ -12793,7 +12793,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/gochihand/v27/hES06XlsOjtJsgCkx1Pkfo___g.ttf',
-    popularityRank: 443,
+    popularityRank: 413,
   ),
   WebFont(
     family: 'Goldman',
@@ -12811,7 +12811,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/goldman/v21/pe0uMIWbN4JFplR2HDNyAg.ttf',
-    popularityRank: 321,
+    popularityRank: 328,
   ),
   WebFont(
     family: 'Golos Text',
@@ -12834,7 +12834,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/golostext/v7/q5uXsoe9Lv5t7Meb31EcOR9UdVTNs822plVRRT5dGLs.ttf',
-    popularityRank: 287,
+    popularityRank: 291,
   ),
   WebFont(
     family: 'Google Sans',
@@ -12938,7 +12938,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/googlesanscode/v17/pxihyogzv91QhV44Z_GQBHsGf5PuckJMZfIVTPZaiXEp_ht12EVEHsN1sCQNcmTlsgkn.ttf',
-    popularityRank: 360,
+    popularityRank: 370,
   ),
   WebFont(
     family: 'Google Sans Flex',
@@ -12980,7 +12980,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/googlesansflex/v21/t5sJIQcYNIWbFgDgAAzZ34auoVyXkJCOvp3SFWJbN5hF8Ju1x6sKCyp0l9sI40swNJwInycYAJzz0m7kJ4qFQOJBOjLvDSndo0SKMpKSTzwliVdHAy4bxTDHg_ugnAakp8ub-cpgVw.ttf',
-    popularityRank: 131,
+    popularityRank: 133,
   ),
   WebFont(
     family: 'Gorditas',
@@ -12995,7 +12995,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/gorditas/v24/ll8_K2aTVD26DsPEtTDpB6o.ttf',
-    popularityRank: 1193,
+    popularityRank: 1229,
   ),
   WebFont(
     family: 'Gothic A1',
@@ -13036,7 +13036,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/gothica1/v18/CSR94z5ZnPydRjlCCwlKbccq.ttf',
-    popularityRank: 215,
+    popularityRank: 236,
   ),
   WebFont(
     family: 'Gotu',
@@ -13055,7 +13055,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gotu/v18/o-0FIpksx3QOpHwBjg.ttf',
-    popularityRank: 828,
+    popularityRank: 818,
   ),
   WebFont(
     family: 'Goudy Bookletter 1911',
@@ -13068,7 +13068,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/goudybookletter1911/v21/sykt-z54laciWfKv-kX8krex0jDiD2HbY6IJtBzT.ttf',
-    popularityRank: 695,
+    popularityRank: 693,
   ),
   WebFont(
     family: 'Gowun Batang',
@@ -13087,7 +13087,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/gowunbatang/v12/ijwSs5nhRMIjYsdSgcMa3wRRXbv6.ttf',
-    popularityRank: 583,
+    popularityRank: 570,
   ),
   WebFont(
     family: 'Gowun Dodum',
@@ -13105,7 +13105,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gowundodum/v12/3Jn5SD_00GqwlBnWc1TUJG0EduA.ttf',
-    popularityRank: 821,
+    popularityRank: 752,
   ),
   WebFont(
     family: 'Graduate',
@@ -13119,7 +13119,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/graduate/v19/C8cg4cs3o2n15t_2YygQ43k.ttf',
-    popularityRank: 637,
+    popularityRank: 619,
   ),
   WebFont(
     family: 'Grand Hotel',
@@ -13132,7 +13132,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/grandhotel/v21/7Au7p_IgjDKdCRWuR1azplQMGFk.ttf',
-    popularityRank: 667,
+    popularityRank: 668,
   ),
   WebFont(
     family: 'Grandiflora One',
@@ -13149,7 +13149,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/grandifloraone/v4/0ybmGD0g27bCk_5MGWZcKWhxwnUk_Bf2.ttf',
-    popularityRank: 1675,
+    popularityRank: 1696,
   ),
   WebFont(
     family: 'Grandstander',
@@ -13202,7 +13202,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/grandstander/v20/ga6fawtA-GpSsTWrnNHPCSIMZhhKpFjyNZIQD1--P3ncsg.ttf',
-    popularityRank: 544,
+    popularityRank: 526,
   ),
   WebFont(
     family: 'Grape Nuts',
@@ -13219,7 +13219,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/grapenuts/v7/syk2-yF4iLM2RfKj4F7k7tPlpg.ttf',
-    popularityRank: 1227,
+    popularityRank: 1216,
   ),
   WebFont(
     family: 'Gravitas One',
@@ -13232,7 +13232,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/gravitasone/v21/5h1diZ4hJ3cblKy3LWakKQmqDG5J.ttf',
-    popularityRank: 140,
+    popularityRank: 151,
   ),
   WebFont(
     family: 'Great Vibes',
@@ -13252,7 +13252,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/greatvibes/v21/RWmMoKWR9v4ksMfaWd_JN9XDiaE.ttf',
-    popularityRank: 181,
+    popularityRank: 173,
   ),
   WebFont(
     family: 'Grechen Fuemen',
@@ -13269,7 +13269,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/grechenfuemen/v11/vEFI2_tHEQ4d5ObgKxBzZh0MAVgd8tI.ttf',
-    popularityRank: 1573,
+    popularityRank: 1558,
   ),
   WebFont(
     family: 'Grenze',
@@ -13322,7 +13322,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/grenze/v18/O4ZOFGb7hR12Bxqt9ErXQpCpkHScyovU6HHiDA.ttf',
-    popularityRank: 971,
+    popularityRank: 1022,
   ),
   WebFont(
     family: 'Grenze Gotisch',
@@ -13357,7 +13357,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/grenzegotisch/v20/Fh4hPjjqNDz1osh_jX9YfjudpBJBNV5y5wf_k1i5Lz9kcYqZ.ttf',
-    popularityRank: 536,
+    popularityRank: 544,
   ),
   WebFont(
     family: 'Grey Qo',
@@ -13374,7 +13374,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/greyqo/v11/BXRrvF_Nmv_TyXxNPOpa8Q.ttf',
-    popularityRank: 1427,
+    popularityRank: 1433,
   ),
   WebFont(
     family: 'Griffy',
@@ -13387,7 +13387,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/griffy/v23/FwZa7-ox2FQh9kfASd6A.ttf',
-    popularityRank: 1459,
+    popularityRank: 1046,
   ),
   WebFont(
     family: 'Gruppo',
@@ -13400,7 +13400,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gruppo/v23/WwkfxPmzE06v_ZW1WHrE.ttf',
-    popularityRank: 291,
+    popularityRank: 294,
   ),
   WebFont(
     family: 'Gudea',
@@ -13416,7 +13416,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/gudea/v16/neIFzCqgsI0mp9CO_oU.ttf',
-    popularityRank: 456,
+    popularityRank: 453,
   ),
   WebFont(
     family: 'Gugi',
@@ -13430,7 +13430,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/gugi/v21/A2BVn5dXywshZA-K8A.ttf',
-    popularityRank: 1135,
+    popularityRank: 1147,
   ),
   WebFont(
     family: 'Gulzar',
@@ -13447,7 +13447,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/gulzar/v14/Wnz6HAc9eB3HB2I7YDYd.ttf',
-    popularityRank: 1315,
+    popularityRank: 1233,
   ),
   WebFont(
     family: 'Gupter',
@@ -13462,7 +13462,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/gupter/v18/2-cm9JNmxJqPO1QkYJy7.ttf',
-    popularityRank: 1257,
+    popularityRank: 1268,
   ),
   WebFont(
     family: 'Gurajada',
@@ -13476,7 +13476,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/gurajada/v24/FwZY7-Qx308m-l-0Ke6B6Mw.ttf',
-    popularityRank: 807,
+    popularityRank: 843,
   ),
   WebFont(
     family: 'Gveret Levin',
@@ -13489,7 +13489,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/gveretlevin/v4/0QInMXVI5YS9Rnn7ar449p--8pzW.ttf',
-    popularityRank: 1762,
+    popularityRank: 1712,
   ),
   WebFont(
     family: 'Gwendolyn',
@@ -13508,7 +13508,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/gwendolyn/v9/qkBXXvoO_M3CSss-d7eu5Z5P.ttf',
-    popularityRank: 1369,
+    popularityRank: 1340,
   ),
   WebFont(
     family: 'Habibi',
@@ -13521,7 +13521,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/habibi/v22/CSR-4zFWkuqcTTNySxha.ttf',
-    popularityRank: 1278,
+    popularityRank: 1091,
   ),
   WebFont(
     family: 'Hachi Maru Pop',
@@ -13539,7 +13539,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/hachimarupop/v23/HI_TiYoRLqpLrEiMAuO9Ysfz7oW0Gss.ttf',
-    popularityRank: 466,
+    popularityRank: 444,
   ),
   WebFont(
     family: 'Hahmlet',
@@ -13575,7 +13575,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/hahmlet/v21/BngXUXpCQ3nKpIo0TfPyfCdXfaeU4RhKOOjpZMc.ttf',
-    popularityRank: 653,
+    popularityRank: 755,
   ),
   WebFont(
     family: 'Halant',
@@ -13596,7 +13596,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/halant/v17/u-4-0qaujRI2Pbsn3thi.ttf',
-    popularityRank: 680,
+    popularityRank: 697,
   ),
   WebFont(
     family: 'Hammersmith One',
@@ -13609,7 +13609,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hammersmithone/v18/qWcyB624q4L_C4jGQ9IK0O_dFlnrsxEg.ttf',
-    popularityRank: 197,
+    popularityRank: 203,
   ),
   WebFont(
     family: 'Hanalei',
@@ -13622,7 +13622,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/hanalei/v24/E21n_dD8iufIjBRHbzksUw.ttf',
-    popularityRank: 1732,
+    popularityRank: 1731,
   ),
   WebFont(
     family: 'Hanalei Fill',
@@ -13635,7 +13635,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/hanaleifill/v23/fC1mPYtObGbfyQznIaQzPQi8VgjF.ttf',
-    popularityRank: 1514,
+    popularityRank: 1520,
   ),
   WebFont(
     family: 'Handjet',
@@ -13676,7 +13676,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/handjet/v22/oY1n8eXHq7n1OnbQrOY_2FrEwYEMLlcdP1mCtZaLaTutCwcIhGZ0lGU0akFcO3XFHTmaYkQmFA.ttf',
-    popularityRank: 1300,
+    popularityRank: 1239,
   ),
   WebFont(
     family: 'Handlee',
@@ -13743,7 +13743,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hankengrotesk/v12/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Ncs2Zq4PBJ.ttf',
-    popularityRank: 148,
+    popularityRank: 143,
   ),
   WebFont(
     family: 'Hanuman',
@@ -13774,7 +13774,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/hanuman/v24/VuJudNvD15HhpJJBYq31yFn72hxIv0sd5yDtWdE.ttf',
-    popularityRank: 706,
+    popularityRank: 767,
   ),
   WebFont(
     family: 'Happy Monkey',
@@ -13787,7 +13787,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/happymonkey/v15/K2F2fZZcl-9SXwl5F_C4R_OwBgry.ttf',
-    popularityRank: 907,
+    popularityRank: 905,
   ),
   WebFont(
     family: 'Harmattan',
@@ -13807,7 +13807,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/harmattan/v24/goksH6L2DkFvVvRp9XpjSkqn.ttf',
-    popularityRank: 1109,
+    popularityRank: 1055,
   ),
   WebFont(
     family: 'Headland One',
@@ -13820,7 +13820,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/headlandone/v17/yYLu0hHR2vKnp89Tk1TCq3TB0fNX.ttf',
-    popularityRank: 1138,
+    popularityRank: 1161,
   ),
   WebFont(
     family: 'Hedvig Letters Sans',
@@ -13838,7 +13838,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hedvigletterssans/v2/CHy_V_PfGVjobSBkihHWDT98RVp37w8jcJxH2Q.ttf',
-    popularityRank: 1203,
+    popularityRank: 1209,
   ),
   WebFont(
     family: 'Hedvig Letters Serif',
@@ -13856,7 +13856,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/hedviglettersserif/v4/OD5puN2I2mekHmyoU1Kj2AXOd5_7v7gIDlX8quj7viQ_N1HixEApfr3Y.ttf',
-    popularityRank: 740,
+    popularityRank: 772,
   ),
   WebFont(
     family: 'Heebo',
@@ -13906,7 +13906,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/hennypenny/v18/wXKvE3UZookzsxz_kjGSfPQrvXc.ttf',
-    popularityRank: 1167,
+    popularityRank: 918,
   ),
   WebFont(
     family: 'Hepta Slab',
@@ -13941,7 +13941,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/heptaslab/v25/ea8JadoyU_jkHdalebHvyWVNdYoIsHe5HvkV5wfaaZQ.ttf',
-    popularityRank: 644,
+    popularityRank: 641,
   ),
   WebFont(
     family: 'Herr Von Muellerhoff',
@@ -13954,7 +13954,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/herrvonmuellerhoff/v23/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft0c79KY.ttf',
-    popularityRank: 535,
+    popularityRank: 578,
   ),
   WebFont(
     family: 'Hi Melody',
@@ -13968,7 +13968,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/himelody/v19/46ktlbP8Vnz0pJcqCTb0fmVA.ttf',
-    popularityRank: 1015,
+    popularityRank: 995,
   ),
   WebFont(
     family: 'Hibur Mono',
@@ -13985,7 +13985,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/hiburmono/v1/R70fjyoFkv6fKPKNWxXXiCu0Vw.ttf',
-    popularityRank: 1232,
+    popularityRank: 1227,
   ),
   WebFont(
     family: 'Hina Mincho',
@@ -14004,7 +14004,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/hinamincho/v16/2sDaZGBRhpXa2Jjz5w5LAFW9I70.ttf',
-    popularityRank: 604,
+    popularityRank: 613,
   ),
   WebFont(
     family: 'Hind',
@@ -14026,7 +14026,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hind/v18/5aU69_a8oxmIdG94AQ.ttf',
-    popularityRank: 111,
+    popularityRank: 105,
   ),
   WebFont(
     family: 'Hind Guntur',
@@ -14047,7 +14047,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hindguntur/v14/wXKvE3UZrok56nvamSuJd_QrvXc.ttf',
-    popularityRank: 339,
+    popularityRank: 357,
   ),
   WebFont(
     family: 'Hind Madurai',
@@ -14064,7 +14064,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hindmadurai/v13/f0Xx0e2p98ZvDXdZQIOcpqjX8IcH.ttf',
-    popularityRank: 248,
+    popularityRank: 218,
   ),
   WebFont(
     family: 'Hind Mysuru',
@@ -14085,7 +14085,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hindmysuru/v1/syk3-yB3k7wiAJ-U5l_li8LEhlU.ttf',
-    popularityRank: 1711,
+    popularityRank: 1719,
   ),
   WebFont(
     family: 'Hind Siliguri',
@@ -14106,7 +14106,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hindsiliguri/v14/ijwTs5juQtsyLLR5jN4cxBEoTJrawg.ttf',
-    popularityRank: 79,
+    popularityRank: 80,
   ),
   WebFont(
     family: 'Hind Vadodara',
@@ -14127,7 +14127,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hindvadodara/v16/neINzCKvrIcn5pbuuuriV9tTQJTVqQ.ttf',
-    popularityRank: 401,
+    popularityRank: 407,
   ),
   WebFont(
     family: 'Holtwood One SC',
@@ -14140,7 +14140,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/holtwoodonesc/v23/yYLx0hLR0P-3vMFSk1TCq3Txg5BHcLz-.ttf',
-    popularityRank: 976,
+    popularityRank: 999,
   ),
   WebFont(
     family: 'Homemade Apple',
@@ -14153,7 +14153,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/homemadeapple/v24/Qw3EZQFXECDrI2q789EKQZJob0x8XH0.ttf',
-    popularityRank: 373,
+    popularityRank: 356,
   ),
   WebFont(
     family: 'Homenaje',
@@ -14167,7 +14167,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Le6B6Mw.ttf',
-    popularityRank: 1080,
+    popularityRank: 1117,
   ),
   WebFont(
     family: 'Honk',
@@ -14186,7 +14186,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/honk/v6/m8J7jftUea-XwTaemClumrBQbmvynOmXBji9zFhHRr8WFgV7orFJ.ttf',
-    popularityRank: 674,
+    popularityRank: 681,
   ),
   WebFont(
     family: 'Host Grotesk',
@@ -14223,7 +14223,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefO_hej_g.ttf',
-    popularityRank: 435,
+    popularityRank: 425,
   ),
   WebFont(
     family: 'Hubballi',
@@ -14241,7 +14241,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/hubballi/v10/o-0JIpUj3WIZ1RFN55B6whQ.ttf',
-    popularityRank: 1428,
+    popularityRank: 1447,
   ),
   WebFont(
     family: 'Hubot Sans',
@@ -14290,7 +14290,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZtgbrR.ttf',
-    popularityRank: 1258,
+    popularityRank: 1063,
   ),
   WebFont(
     family: 'Huninn',
@@ -14309,7 +14309,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/huninn/v8/OpNNnoINg9bQ4xkZjyvU.ttf',
-    popularityRank: 1298,
+    popularityRank: 1390,
   ),
   WebFont(
     family: 'Hurricane',
@@ -14327,7 +14327,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/hurricane/v9/pe0sMIuULZxTolZ5YldCA_e6.ttf',
-    popularityRank: 776,
+    popularityRank: 791,
   ),
   WebFont(
     family: 'IBM Plex Mono',
@@ -14374,7 +14374,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n1ikq0g.ttf',
-    popularityRank: 118,
+    popularityRank: 110,
   ),
   WebFont(
     family: 'IBM Plex Sans',
@@ -14446,7 +14446,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ibmplexsansarabic/v15/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6Ys73PA.ttf',
-    popularityRank: 179,
+    popularityRank: 171,
   ),
   WebFont(
     family: 'IBM Plex Sans Condensed',
@@ -14492,7 +14492,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ibmplexsanscondensed/v15/Gg8lN4UfRSqiPg7Jn2ZI12V4DCEwkj1E4LVeHYavyKs.ttf',
-    popularityRank: 297,
+    popularityRank: 287,
   ),
   WebFont(
     family: 'IBM Plex Sans Devanagari',
@@ -14516,7 +14516,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ibmplexsansdevanagari/v12/XRXH3JCMvG4IDoS9SubXB6W-UX5iehIMBFR2-O_PVEjw.ttf',
-    popularityRank: 1245,
+    popularityRank: 1157,
   ),
   WebFont(
     family: 'IBM Plex Sans Hebrew',
@@ -14540,7 +14540,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ibmplexsanshebrew/v12/BCa2qYENg9Kw1mpLpO0bGM5lfHAAZHhDXE2k-l0.ttf',
-    popularityRank: 618,
+    popularityRank: 653,
   ),
   WebFont(
     family: 'IBM Plex Sans JP',
@@ -14564,7 +14564,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ibmplexsansjp/v7/Z9XNDn9KbTDf6_f7dISNqYf_tvPT5CvyjA.ttf',
-    popularityRank: 470,
+    popularityRank: 484,
   ),
   WebFont(
     family: 'IBM Plex Sans KR',
@@ -14587,7 +14587,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ibmplexsanskr/v11/vEFK2-VJISZe3O_rc3ZVYh4aTwNOwtO_Xw.ttf',
-    popularityRank: 670,
+    popularityRank: 704,
   ),
   WebFont(
     family: 'IBM Plex Sans Thai',
@@ -14611,7 +14611,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ibmplexsansthai/v11/m8JPje1VVIzcq1HzJq2AEdo2Tj_qvLqMD9Yl.ttf',
-    popularityRank: 414,
+    popularityRank: 401,
   ),
   WebFont(
     family: 'IBM Plex Sans Thai Looped',
@@ -14635,7 +14635,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ibmplexsansthailooped/v12/tss_AoJJRAhL3BTrK3r2xxbFhvKfyBB6l7hHT30L9BOKpA.ttf',
-    popularityRank: 1137,
+    popularityRank: 1104,
   ),
   WebFont(
     family: 'IBM Plex Serif',
@@ -14682,7 +14682,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ibmplexserif/v20/jizDREVNn1dOx-zrZ2X3pZvkTiUZ2zI.ttf',
-    popularityRank: 174,
+    popularityRank: 169,
   ),
   WebFont(
     family: 'IM Fell DW Pica',
@@ -14696,7 +14696,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfelldwpica/v16/2sDGZGRQotv9nbn2qSl0TxXVYNwNZQnQ.ttf',
-    popularityRank: 846,
+    popularityRank: 814,
   ),
   WebFont(
     family: 'IM Fell DW Pica SC',
@@ -14709,7 +14709,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfelldwpicasc/v21/0ybjGCAu5PfqkvtGVU15aBhXz3EUrnTm-RKO.ttf',
-    popularityRank: 1073,
+    popularityRank: 1027,
   ),
   WebFont(
     family: 'IM Fell Double Pica',
@@ -14723,7 +14723,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfelldoublepica/v14/3XF2EqMq_94s9PeKF7Fg4gOKINyMtZ8rf0W_VA.ttf',
-    popularityRank: 890,
+    popularityRank: 804,
   ),
   WebFont(
     family: 'IM Fell Double Pica SC',
@@ -14736,7 +14736,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfelldoublepicasc/v21/neIazDmuiMkFo6zj_sHpQ8teNbWlwBB_hXjJ0YwOfg.ttf',
-    popularityRank: 1021,
+    popularityRank: 908,
   ),
   WebFont(
     family: 'IM Fell English',
@@ -14750,7 +14750,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfellenglish/v14/Ktk1ALSLW8zDe0rthJysWrnLsAzHFqOd.ttf',
-    popularityRank: 504,
+    popularityRank: 437,
   ),
   WebFont(
     family: 'IM Fell English SC',
@@ -14763,7 +14763,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfellenglishsc/v16/a8IENpD3CDX-4zrWfr1VY879qFF05pZ7OoIK.ttf',
-    popularityRank: 719,
+    popularityRank: 700,
   ),
   WebFont(
     family: 'IM Fell French Canon',
@@ -14777,7 +14777,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfellfrenchcanon/v21/-F6ufiNtDWYfYc-tDiyiw08rrghJszkK6foUNNk.ttf',
-    popularityRank: 1070,
+    popularityRank: 1061,
   ),
   WebFont(
     family: 'IM Fell French Canon SC',
@@ -14790,7 +14790,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfellfrenchcanonsc/v23/FBVmdCru5-ifcor2bgq9V89khWcmQghEURY7H0c1WhQ.ttf',
-    popularityRank: 1157,
+    popularityRank: 1153,
   ),
   WebFont(
     family: 'IM Fell Great Primer',
@@ -14804,7 +14804,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfellgreatprimer/v21/bx6aNwSJtayYxOkbYFsT6hMsLzX7u85rJrrWtj4.ttf',
-    popularityRank: 1067,
+    popularityRank: 1042,
   ),
   WebFont(
     family: 'IM Fell Great Primer SC',
@@ -14817,7 +14817,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imfellgreatprimersc/v21/ga6daxBOxyt6sCqz3fjZCTFCTUDMHagsQKdDTIf8D3g.ttf',
-    popularityRank: 1145,
+    popularityRank: 1132,
   ),
   WebFont(
     family: 'Iansui',
@@ -14835,7 +14835,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/iansui/v13/w8gbH2UoTuUp5bOqjCuH.ttf',
-    popularityRank: 1585,
+    popularityRank: 1582,
   ),
   WebFont(
     family: 'Ibarra Real Nova',
@@ -14864,7 +14864,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ibarrarealnova/v30/sZlSdQiA-DBIDCcaWtQzL4BZHoiDundw4ATyjed3EXdg5PDsXzs.ttf',
-    popularityRank: 702,
+    popularityRank: 680,
   ),
   WebFont(
     family: 'Iceberg',
@@ -14877,7 +14877,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/iceberg/v26/8QIJdijAiM7o-qnZiIkErw.ttf',
-    popularityRank: 962,
+    popularityRank: 965,
   ),
   WebFont(
     family: 'Iceland',
@@ -14890,7 +14890,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/iceland/v22/rax9HiuFsdMNOnWPaK1MBA.ttf',
-    popularityRank: 1013,
+    popularityRank: 1072,
   ),
   WebFont(
     family: 'Idiqlat',
@@ -14905,7 +14905,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/idiqlat/v3/YA9Tr0ef50XNM6kiCCPrsg.ttf',
-    popularityRank: 1849,
+    popularityRank: 1832,
   ),
   WebFont(
     family: 'Imbue',
@@ -14940,7 +14940,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/imbue/v29/RLpXK5P16Ki3fXhj5cvGrqjocPk4n-gVX3M93TnrnvhoP8iXTOoHMA.ttf',
-    popularityRank: 1141,
+    popularityRank: 1151,
   ),
   WebFont(
     family: 'Imperial Script',
@@ -14957,7 +14957,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/imperialscript/v8/5DCPAKrpzy_H98IV2ISnZBbGrVNfPOPh.ttf',
-    popularityRank: 1195,
+    popularityRank: 1242,
   ),
   WebFont(
     family: 'Imprima',
@@ -14970,7 +14970,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/imprima/v19/VEMxRoN7sY3yuy-7yoSNzA.ttf',
-    popularityRank: 1008,
+    popularityRank: 1001,
   ),
   WebFont(
     family: 'Inclusive Sans',
@@ -15007,7 +15007,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/inclusivesans/v5/0nk8C9biPuwflXcJ46P4PGWE08T-gfZusL0kQqtfcBt972Zp.ttf',
-    popularityRank: 804,
+    popularityRank: 926,
   ),
   WebFont(
     family: 'Inconsolata',
@@ -15031,7 +15031,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8WRv2kg.ttf',
-    popularityRank: 66,
+    popularityRank: 69,
   ),
   WebFont(
     family: 'Inder',
@@ -15045,7 +15045,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/inder/v15/w8gUH2YoQe8_4sq7rQs.ttf',
-    popularityRank: 922,
+    popularityRank: 956,
   ),
   WebFont(
     family: 'Indie Flower',
@@ -15058,7 +15058,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/indieflower/v24/m8JVjfNVeKWVnh3QMuKkFcZVb0uC.ttf',
-    popularityRank: 184,
+    popularityRank: 185,
   ),
   WebFont(
     family: 'Ingrid Darling',
@@ -15075,7 +15075,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/ingriddarling/v7/LDIrapaJNxUtSuFdw-9yf4rCPvLPs7o.ttf',
-    popularityRank: 1690,
+    popularityRank: 1672,
   ),
   WebFont(
     family: 'Inika',
@@ -15090,7 +15090,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/inika/v22/rnCm-x5X3QP-piTGT8M.ttf',
-    popularityRank: 1320,
+    popularityRank: 1387,
   ),
   WebFont(
     family: 'Inknut Antiqua',
@@ -15113,7 +15113,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/inknutantiqua/v16/Y4GSYax7VC4ot_qNB4nYpBdaKUUC4Jg.ttf',
-    popularityRank: 847,
+    popularityRank: 859,
   ),
   WebFont(
     family: 'Inria Sans',
@@ -15131,7 +15131,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/inriasans/v15/ptRMTiqXYfZMCOiVj9kQ1O_4LQ.ttf',
-    popularityRank: 722,
+    popularityRank: 709,
   ),
   WebFont(
     family: 'Inria Serif',
@@ -15149,7 +15149,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/inriaserif/v18/fC1lPYxPY3rXxEndZJAzN3Stdyg.ttf',
-    popularityRank: 585,
+    popularityRank: 539,
   ),
   WebFont(
     family: 'Inspiration',
@@ -15166,7 +15166,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/inspiration/v7/x3dkckPPZa6L4wIg5cZOEsoHly4.ttf',
-    popularityRank: 1256,
+    popularityRank: 1369,
   ),
   WebFont(
     family: 'Instrument Sans',
@@ -15195,7 +15195,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/instrumentsans/v4/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Tf0kyk.ttf',
-    popularityRank: 124,
+    popularityRank: 122,
   ),
   WebFont(
     family: 'Instrument Serif',
@@ -15209,7 +15209,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-6zMTiw.ttf',
-    popularityRank: 91,
+    popularityRank: 78,
   ),
   WebFont(
     family: 'Intel One Mono',
@@ -15247,7 +15247,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgofchnTVX.ttf',
-    popularityRank: 1422,
+    popularityRank: 1434,
   ),
   WebFont(
     family: 'Inter',
@@ -15361,7 +15361,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-aXS5X.ttf',
-    popularityRank: 96,
+    popularityRank: 87,
   ),
   WebFont(
     family: 'Iosevka Charon',
@@ -15403,7 +15403,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/iosevkacharon/v1/f0Xv0e-o8dtuW1FZBLWGprOon7cGWeE.ttf',
-    popularityRank: 1275,
+    popularityRank: 1585,
   ),
   WebFont(
     family: 'Iosevka Charon Mono',
@@ -15445,7 +15445,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/iosevkacharonmono/v1/ZXu6e00asreaO3wM1TYAhasEUi4e1q2vte13ZQ.ttf',
-    popularityRank: 1699,
+    popularityRank: 1678,
   ),
   WebFont(
     family: 'Irish Grover',
@@ -15458,7 +15458,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgv-fRK.ttf',
-    popularityRank: 725,
+    popularityRank: 723,
   ),
   WebFont(
     family: 'Island Moments',
@@ -15475,7 +15475,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/islandmoments/v8/NaPBcZfVGvBdxIt7Ar0qzkXJF9THKIw.ttf',
-    popularityRank: 1215,
+    popularityRank: 1222,
   ),
   WebFont(
     family: 'Istok Web',
@@ -15497,7 +15497,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/istokweb/v26/3qTvojGmgSyUukBzKslpAGt6.ttf',
-    popularityRank: 379,
+    popularityRank: 378,
   ),
   WebFont(
     family: 'Italiana',
@@ -15528,7 +15528,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/italianno/v18/dg4n_p3sv6gCJkwzT6RXjpwt.ttf',
-    popularityRank: 333,
+    popularityRank: 335,
   ),
   WebFont(
     family: 'Itim',
@@ -15547,7 +15547,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/itim/v16/0nknC9ziJOYe8AVAlQ.ttf',
-    popularityRank: 494,
+    popularityRank: 492,
   ),
   WebFont(
     family: 'Jacquard 12',
@@ -15565,7 +15565,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jacquard12/v8/vm8ydRLuXETEweL79J4rGf3IWH4.ttf',
-    popularityRank: 1285,
+    popularityRank: 1370,
   ),
   WebFont(
     family: 'Jacquard 12 Charted',
@@ -15583,7 +15583,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jacquard12charted/v4/i7dWIE97bzCOB9Q_Up6PQmYfKDPIb2Hwf3WnYw.ttf',
-    popularityRank: 1801,
+    popularityRank: 1807,
   ),
   WebFont(
     family: 'Jacquard 24',
@@ -15596,7 +15596,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jacquard24/v4/jVyO7nf_B2zO5jVpUGU8ljQFf8w.ttf',
-    popularityRank: 1513,
+    popularityRank: 1576,
   ),
   WebFont(
     family: 'Jacquard 24 Charted',
@@ -15609,7 +15609,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jacquard24charted/v5/mtGm4-dNK6HaudrE9VVKhENTsEXEYish4iVhNQ.ttf',
-    popularityRank: 1839,
+    popularityRank: 1847,
   ),
   WebFont(
     family: 'Jacquarda Bastarda 9',
@@ -15627,7 +15627,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jacquardabastarda9/v6/f0Xp0fWr_8t6WFtKQJfOhaC0hcZ1HYAMAYwC3zQ.ttf',
-    popularityRank: 1560,
+    popularityRank: 1635,
   ),
   WebFont(
     family: 'Jacquarda Bastarda 9 Charted',
@@ -15645,7 +15645,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jacquardabastarda9charted/v4/Yq6D-KaMUyfq4qLgx19A_ocp43FeLd9m0vDxm-yf8JPuT0YFbA.ttf',
-    popularityRank: 1886,
+    popularityRank: 1864,
   ),
   WebFont(
     family: 'Jacques Francois',
@@ -15658,7 +15658,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/jacquesfrancois/v26/ZXu9e04ZvKeOOHIe1TMahbcIU2cgqcLgpQ.ttf',
-    popularityRank: 1302,
+    popularityRank: 1363,
   ),
   WebFont(
     family: 'Jacques Francois Shadow',
@@ -15671,7 +15671,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jacquesfrancoisshadow/v27/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_p8Uun8.ttf',
-    popularityRank: 1391,
+    popularityRank: 1404,
   ),
   WebFont(
     family: 'Jaini',
@@ -15706,7 +15706,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jainipurva/v1/CHynV-vdHVXwbWcUswbUGEoPFno.ttf',
-    popularityRank: 1748,
+    popularityRank: 1757,
   ),
   WebFont(
     family: 'Jaldi',
@@ -15725,7 +15725,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/jaldi/v14/or3sQ67z0_CI33NVbJQ.ttf',
-    popularityRank: 851,
+    popularityRank: 877,
   ),
   WebFont(
     family: 'Jaro',
@@ -15742,7 +15742,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/jaro/v8/ea8DadQwV_r_Rv3-7zZMCGhQgVr1SmCtPvk.ttf',
-    popularityRank: 1155,
+    popularityRank: 1018,
   ),
   WebFont(
     family: 'Jersey 10',
@@ -15756,7 +15756,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/jersey10/v4/GftH7vZKsggXMf9n_J5n-Zjk.ttf',
-    popularityRank: 1125,
+    popularityRank: 1108,
   ),
   WebFont(
     family: 'Jersey 10 Charted',
@@ -15769,7 +15769,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jersey10charted/v4/oY1E8fPFr6XiNWqEp90XSbwUGfF8SkecIGM.ttf',
-    popularityRank: 1794,
+    popularityRank: 1559,
   ),
   WebFont(
     family: 'Jersey 15',
@@ -15783,7 +15783,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/jersey15/v4/_6_9EDzuROGsUuk2TWjiY4Al.ttf',
-    popularityRank: 1476,
+    popularityRank: 1388,
   ),
   WebFont(
     family: 'Jersey 15 Charted',
@@ -15796,7 +15796,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jersey15charted/v4/nuFjD-rCQIjoVp1Sva2ToCTudGbLeSv5pWk.ttf',
-    popularityRank: 1838,
+    popularityRank: 1848,
   ),
   WebFont(
     family: 'Jersey 20',
@@ -15810,7 +15810,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/jersey20/v4/ZgNRjP1ON6jeW4D12z3srUXu.ttf',
-    popularityRank: 1433,
+    popularityRank: 1481,
   ),
   WebFont(
     family: 'Jersey 20 Charted',
@@ -15823,7 +15823,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jersey20charted/v4/JTUNjJMy9DKq5FzVaj9tpgYgvHqGn8Z0hCs.ttf',
-    popularityRank: 1875,
+    popularityRank: 1880,
   ),
   WebFont(
     family: 'Jersey 25',
@@ -15837,7 +15837,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/jersey25/v4/ll8-K2eeXj2tAs6F9BX4JooI.ttf',
-    popularityRank: 372,
+    popularityRank: 410,
   ),
   WebFont(
     family: 'Jersey 25 Charted',
@@ -15850,7 +15850,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jersey25charted/v3/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGs2vWmA.ttf',
-    popularityRank: 1831,
+    popularityRank: 1857,
   ),
   WebFont(
     family: 'JetBrains Mono',
@@ -15902,7 +15902,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbY2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKxTPFOQ.ttf',
-    popularityRank: 61,
+    popularityRank: 58,
   ),
   WebFont(
     family: 'Jim Nightshade',
@@ -15915,7 +15915,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/jimnightshade/v21/PlIkFlu9Pb08Q8HLM1PxmB0g-NS5XX4.ttf',
-    popularityRank: 1484,
+    popularityRank: 1400,
   ),
   WebFont(
     family: 'Joan',
@@ -15929,7 +15929,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/joan/v12/ZXupe1oZsqWRXRZN9Q.ttf',
-    popularityRank: 1252,
+    popularityRank: 1237,
   ),
   WebFont(
     family: 'Jockey One',
@@ -15942,7 +15942,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/jockeyone/v23/HTxpL2g2KjCFj4x8WI6AnIfxGQ.ttf',
-    popularityRank: 739,
+    popularityRank: 757,
   ),
   WebFont(
     family: 'Jolly Lodger',
@@ -15955,7 +15955,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jollylodger/v21/BXRsvFTAh_bGkA1uQ48dlB3lWODX.ttf',
-    popularityRank: 1101,
+    popularityRank: 1150,
   ),
   WebFont(
     family: 'Jomhuria',
@@ -15973,7 +15973,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/jomhuria/v23/Dxxp8j-TMXf-llKur1b0OuU.ttf',
-    popularityRank: 859,
+    popularityRank: 855,
   ),
   WebFont(
     family: 'Jomolhari',
@@ -15986,7 +15986,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/jomolhari/v21/EvONzA1M1Iw_CBd2hsQyFlgd.ttf',
-    popularityRank: 1178,
+    popularityRank: 1192,
   ),
   WebFont(
     family: 'Josefin Sans',
@@ -16031,7 +16031,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/josefinsans/v34/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMBhKg.ttf',
-    popularityRank: 73,
+    popularityRank: 72,
   ),
   WebFont(
     family: 'Josefin Slab',
@@ -16072,7 +16072,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msR3g9Lw.ttf',
-    popularityRank: 307,
+    popularityRank: 318,
   ),
   WebFont(
     family: 'Jost',
@@ -16138,7 +16138,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/jotione/v28/Z9XVDmdJQAmWm9TwabTf6Ok.ttf',
-    popularityRank: 1420,
+    popularityRank: 1409,
   ),
   WebFont(
     family: 'Jua',
@@ -16152,7 +16152,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/jua/v18/co3KmW9ljjATcurd.ttf',
-    popularityRank: 393,
+    popularityRank: 405,
   ),
   WebFont(
     family: 'Judson',
@@ -16171,7 +16171,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/judson/v20/FeVRS0Fbvbc14VxhDrlw.ttf',
-    popularityRank: 521,
+    popularityRank: 558,
   ),
   WebFont(
     family: 'Julee',
@@ -16185,7 +16185,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/julee/v26/TuGfUVB3RpZPQ5ZKq9w.ttf',
-    popularityRank: 902,
+    popularityRank: 935,
   ),
   WebFont(
     family: 'Julius Sans One',
@@ -16198,7 +16198,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/juliussansone/v20/1Pt2g8TAX_SGgBGUi0tGOYEga5WOxHsS.ttf',
-    popularityRank: 455,
+    popularityRank: 438,
   ),
   WebFont(
     family: 'Junge',
@@ -16212,7 +16212,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/junge/v26/gokgH670Gl1lUpActBQ.ttf',
-    popularityRank: 1312,
+    popularityRank: 1309,
   ),
   WebFont(
     family: 'Jura',
@@ -16238,7 +16238,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/jura/v34/z7NOdRfiaC4Vd8hhoPzfb5vBTP1d7ZugR_0.ttf',
-    popularityRank: 338,
+    popularityRank: 310,
   ),
   WebFont(
     family: 'Just Another Hand',
@@ -16251,7 +16251,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/justanotherhand/v21/845CNN4-AJyIGvIou-6yJKyptyOpOfr-DG0.ttf',
-    popularityRank: 524,
+    popularityRank: 515,
   ),
   WebFont(
     family: 'Just Me Again Down Here',
@@ -16264,7 +16264,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/justmeagaindownhere/v25/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAtwGtKQ.ttf',
-    popularityRank: 950,
+    popularityRank: 977,
   ),
   WebFont(
     family: 'K2D',
@@ -16323,7 +16323,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/k2d/v13/J7aTnpF2V0EjdqUp.ttf',
-    popularityRank: 538,
+    popularityRank: 554,
   ),
   WebFont(
     family: 'Kablammo',
@@ -16343,7 +16343,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/kablammo/v4/bWtm7fHPcgrhC-J3lcXhcQTY5Ixs6Au9YgCTjhcV.ttf',
-    popularityRank: 948,
+    popularityRank: 960,
   ),
   WebFont(
     family: 'Kadwa',
@@ -16358,7 +16358,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kadwa/v15/rnCm-x5V0g7ipiTGT8M.ttf',
-    popularityRank: 788,
+    popularityRank: 762,
   ),
   WebFont(
     family: 'Kaisei Decol',
@@ -16378,7 +16378,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kaiseidecol/v11/bMrwmSqP45sidWf3QmfFW6iCWlsL.ttf',
-    popularityRank: 410,
+    popularityRank: 406,
   ),
   WebFont(
     family: 'Kaisei HarunoUmi',
@@ -16398,7 +16398,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_RiZQSLqBQoAHhK_C6N_nzy_jcKsrztA.ttf',
-    popularityRank: 1287,
+    popularityRank: 1254,
   ),
   WebFont(
     family: 'Kaisei Opti',
@@ -16418,7 +16418,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kaiseiopti/v11/QldKNThJphYb8_g6c2nlIGlf5q0.ttf',
-    popularityRank: 763,
+    popularityRank: 764,
   ),
   WebFont(
     family: 'Kaisei Tokumin',
@@ -16439,7 +16439,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8sN5wdZg7xCwuMsylww2ZiQnJe3Fk.ttf',
-    popularityRank: 1006,
+    popularityRank: 1004,
   ),
   WebFont(
     family: 'Kalam',
@@ -16459,7 +16459,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/kalam/v18/YA9dr0Wd4kDdMthXOCI.ttf',
-    popularityRank: 182,
+    popularityRank: 178,
   ),
   WebFont(
     family: 'Kalnia',
@@ -16478,7 +16478,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kalnia/v6/11hqGpPCwUbbYwZZP0RBuDY62BQZhjvOytM_sLzi-TFWAW9illxQEtM.ttf',
-    popularityRank: 868,
+    popularityRank: 899,
   ),
   WebFont(
     family: 'Kalnia Glaze',
@@ -16497,7 +16497,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/kalniaglaze/v5/wlpQgwHCBUNjrGrfu-hwowN1YyC-42Lu26VHf2LtOkAod0wTxm2tFYdL6knYI_w.ttf',
-    popularityRank: 1655,
+    popularityRank: 1657,
   ),
   WebFont(
     family: 'Kameron',
@@ -16513,7 +16513,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4Ne3cYcat5c.ttf',
-    popularityRank: 214,
+    popularityRank: 211,
   ),
   WebFont(
     family: 'Kanchenjunga',
@@ -16529,7 +16529,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kanchenjunga/v2/RWmPoKKd5fUmrILiWsjCI6TSqIEC.ttf',
-    popularityRank: 1796,
+    popularityRank: 1821,
   ),
   WebFont(
     family: 'Kanit',
@@ -16625,7 +16625,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kantumruypro/v12/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1urHs1OXo.ttf',
-    popularityRank: 692,
+    popularityRank: 731,
   ),
   WebFont(
     family: 'Kapakana',
@@ -16643,7 +16643,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/kapakana/v19/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtAJtBzT.ttf',
-    popularityRank: 1249,
+    popularityRank: 1260,
   ),
   WebFont(
     family: 'Karantina',
@@ -16662,7 +16662,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/karantina/v13/buE0po24ccnh31GVMAB58Qo_.ttf',
-    popularityRank: 1116,
+    popularityRank: 1128,
   ),
   WebFont(
     family: 'Karla',
@@ -16717,7 +16717,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVocat5c.ttf',
-    popularityRank: 1588,
+    popularityRank: 1673,
   ),
   WebFont(
     family: 'Karla Tamil Upright',
@@ -16731,7 +16731,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XkBN3gA.ttf',
-    popularityRank: 1744,
+    popularityRank: 1747,
   ),
   WebFont(
     family: 'Karma',
@@ -16753,7 +16753,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/karma/v18/va9I4kzAzMZRGLBuQeY.ttf',
-    popularityRank: 596,
+    popularityRank: 607,
   ),
   WebFont(
     family: 'Katibeh',
@@ -16770,7 +16770,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/katibeh/v22/ZGjXol5MQJog4bxDWCxbUA.ttf',
-    popularityRank: 1200,
+    popularityRank: 1142,
   ),
   WebFont(
     family: 'Kaushan Script',
@@ -16783,7 +16783,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/kaushanscript/v19/vm8vdRfvXFLG3OLnsO15WYS5DG7-wNc.ttf',
-    popularityRank: 290,
+    popularityRank: 284,
   ),
   WebFont(
     family: 'Kavivanar',
@@ -16796,7 +16796,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/kavivanar/v22/o-0IIpQgyXYSwhxP7_Jr4zRF.ttf',
-    popularityRank: 1216,
+    popularityRank: 1204,
   ),
   WebFont(
     family: 'Kavoon',
@@ -16809,7 +16809,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/kavoon/v25/pxiFyp4_scRYhlUINbD-.ttf',
-    popularityRank: 1079,
+    popularityRank: 1096,
   ),
   WebFont(
     family: 'Kay Pho Du',
@@ -16829,7 +16829,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kayphodu/v2/jizfREFPvGNOx-jhPwHR0OitKA.ttf',
-    popularityRank: 1805,
+    popularityRank: 1819,
   ),
   WebFont(
     family: 'Kdam Thmor Pro',
@@ -16842,7 +16842,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kdamthmorpro/v7/EJRPQgAzVdcI-Qdvt34jzurnGD7-hcs.ttf',
-    popularityRank: 1086,
+    popularityRank: 1111,
   ),
   WebFont(
     family: 'Keania One',
@@ -16855,7 +16855,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/keaniaone/v26/zOL54pXJk65E8pXardnu-cVkuw.ttf',
-    popularityRank: 1309,
+    popularityRank: 1328,
   ),
   WebFont(
     family: 'Kedebideri',
@@ -16873,7 +16873,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kedebideri/v6/t5tlIR0UPo6ZGAykNh_evKfIzQ.ttf',
-    popularityRank: 1697,
+    popularityRank: 1671,
   ),
   WebFont(
     family: 'Kelly Slab',
@@ -16890,7 +16890,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/kellyslab/v18/-W_7XJX0Rz3cxUnJC5t6fkILew.ttf',
-    popularityRank: 947,
+    popularityRank: 925,
   ),
   WebFont(
     family: 'Kenia',
@@ -16904,7 +16904,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/kenia/v30/jizURE5PuHQH9pCPP0U.ttf',
-    popularityRank: 1112,
+    popularityRank: 1125,
   ),
   WebFont(
     family: 'Khand',
@@ -16926,7 +16926,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/khand/v22/TwMA-IINQlQQ0bpUUnE.ttf',
-    popularityRank: 234,
+    popularityRank: 209,
   ),
   WebFont(
     family: 'Khmer',
@@ -16940,7 +16940,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/khmer/v38/MjQImit_vPPwpG-Artk.ttf',
-    popularityRank: 1097,
+    popularityRank: 1124,
   ),
   WebFont(
     family: 'Khula',
@@ -16962,7 +16962,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/khula/v17/OpNCnoEOns3V7GcIrgs.ttf',
-    popularityRank: 439,
+    popularityRank: 448,
   ),
   WebFont(
     family: 'Kings',
@@ -16980,7 +16980,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/kings/v9/8AtnGsK4O5CYXX_JoaU.ttf',
-    popularityRank: 1518,
+    popularityRank: 1573,
   ),
   WebFont(
     family: 'Kirang Haerang',
@@ -16993,7 +16993,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/kiranghaerang/v22/E21-_dn_gvvIjhYON1lpIU4-bfquUvI.ttf',
-    popularityRank: 1458,
+    popularityRank: 1473,
   ),
   WebFont(
     family: 'Kite One',
@@ -17006,7 +17006,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kiteone/v23/70lQu7shLnA_E02vyp1a4n0.ttf',
-    popularityRank: 1386,
+    popularityRank: 1398,
   ),
   WebFont(
     family: 'Kiwi Maru',
@@ -17027,7 +17027,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/kiwimaru/v20/R70YjykGkuuDep-hRg6omQqU.ttf',
-    popularityRank: 496,
+    popularityRank: 500,
   ),
   WebFont(
     family: 'Klee One',
@@ -17047,7 +17047,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/kleeone/v13/LDIxapCLNRc6A8oT4p4BM-M.ttf',
-    popularityRank: 650,
+    popularityRank: 624,
   ),
   WebFont(
     family: 'Knewave',
@@ -17060,7 +17060,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/knewave/v15/sykz-yx0lLcxQaSIhSu3_g.ttf',
-    popularityRank: 603,
+    popularityRank: 625,
   ),
   WebFont(
     family: 'KoHo',
@@ -17104,7 +17104,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/koho/v18/K2F-fZ5fmddNNigUeA.ttf',
-    popularityRank: 797,
+    popularityRank: 825,
   ),
   WebFont(
     family: 'Kodchasan',
@@ -17146,7 +17146,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kodchasan/v20/1cXxaUPOAJv9sG4I-DJWjnGA.ttf',
-    popularityRank: 803,
+    popularityRank: 840,
   ),
   WebFont(
     family: 'Kode Mono',
@@ -17162,7 +17162,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq5myxDuZbA.ttf',
-    popularityRank: 1133,
+    popularityRank: 1135,
   ),
   WebFont(
     family: 'Koh Santepheap',
@@ -17179,7 +17179,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kohsantepheap/v15/gNMdW3p6SJbwyGj2rBZyeOrTjNPgHVw.ttf',
-    popularityRank: 1342,
+    popularityRank: 1339,
   ),
   WebFont(
     family: 'Kolker Brush',
@@ -17196,7 +17196,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/kolkerbrush/v8/iJWDBXWRZjfKWdvmzwvvog3O7ah-.ttf',
-    popularityRank: 1576,
+    popularityRank: 1550,
   ),
   WebFont(
     family: 'Konkhmer Sleokchher',
@@ -17209,7 +17209,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/konkhmersleokchher/v3/_Xmw-GE-rjmabA_M-aPOZOsCrUv825LFE39-6A.ttf',
-    popularityRank: 1466,
+    popularityRank: 1463,
   ),
   WebFont(
     family: 'Kosugi',
@@ -17227,7 +17227,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kosugi/v19/pxiFyp4_v8FCjlIINbD-.ttf',
-    popularityRank: 612,
+    popularityRank: 616,
   ),
   WebFont(
     family: 'Kosugi Maru',
@@ -17245,7 +17245,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kosugimaru/v17/0nksC9PgP_wGh21A2KeqGhTrgP4.ttf',
-    popularityRank: 265,
+    popularityRank: 298,
   ),
   WebFont(
     family: 'Kotta One',
@@ -17259,7 +17259,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/kottaone/v21/S6u_w41LXzPc_jlfNWq_HQfo.ttf',
-    popularityRank: 1126,
+    popularityRank: 1327,
   ),
   WebFont(
     family: 'Koulen',
@@ -17272,7 +17272,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/koulen/v30/AMOQz46as3KIBPemg3o5.ttf',
-    popularityRank: 708,
+    popularityRank: 718,
   ),
   WebFont(
     family: 'Kranky',
@@ -17285,7 +17285,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/kranky/v29/hESw6XVgJzlPsFn8px2A.ttf',
-    popularityRank: 960,
+    popularityRank: 967,
   ),
   WebFont(
     family: 'Kreon',
@@ -17302,7 +17302,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtiWez8b.ttf',
-    popularityRank: 507,
+    popularityRank: 519,
   ),
   WebFont(
     family: 'Kristi',
@@ -17315,7 +17315,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/kristi/v23/uK_y4ricdeU6zwdhCxcX.ttf',
-    popularityRank: 713,
+    popularityRank: 714,
   ),
   WebFont(
     family: 'Krona One',
@@ -17329,7 +17329,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/kronaone/v15/jAnEgHdjHcjgfIb1ZcUyMIWl.ttf',
-    popularityRank: 559,
+    popularityRank: 470,
   ),
   WebFont(
     family: 'Krub',
@@ -17373,7 +17373,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/krub/v11/sZlLdRyC6CRYbkcaCA.ttf',
-    popularityRank: 323,
+    popularityRank: 324,
   ),
   WebFont(
     family: 'Kufam',
@@ -17415,7 +17415,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kufam/v26/C8c-4cY7pG7w_oSJDszBXsKCcBH3lqkLqAqN.ttf',
-    popularityRank: 921,
+    popularityRank: 946,
   ),
   WebFont(
     family: 'Kulim Park',
@@ -17448,7 +17448,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kulimpark/v15/fdN79secq3hflz1Uu3IwhF8s4Q.ttf',
-    popularityRank: 1090,
+    popularityRank: 1134,
   ),
   WebFont(
     family: 'Kumar One',
@@ -17466,7 +17466,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/kumarone/v25/bMr1mS-P958wYi6YaGe2NeSS.ttf',
-    popularityRank: 1461,
+    popularityRank: 1453,
   ),
   WebFont(
     family: 'Kumar One Outline',
@@ -17483,7 +17483,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/kumaroneoutline/v20/Noao6VH62pyLP0fsrZ-v18wlUEcX9wDxTw8.ttf',
-    popularityRank: 1551,
+    popularityRank: 1554,
   ),
   WebFont(
     family: 'Kumbh Sans',
@@ -17519,7 +17519,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/kumbhsans/v27/c4mP1n92AsfhuCq6tVsaoIx1LQICk0boNoq0SjlDfnzKo-bF3mdQkZYw8L7q.ttf',
-    popularityRank: 239,
+    popularityRank: 252,
   ),
   WebFont(
     family: 'Kurale',
@@ -17538,7 +17538,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/kurale/v16/4iCs6KV9e9dXjhoKeQ7z.ttf',
-    popularityRank: 842,
+    popularityRank: 811,
   ),
   WebFont(
     family: 'LINE Seed JP',
@@ -17560,7 +17560,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lineseedjp/v3/MwQxbh7r89it6QsEXfZb-jMvjJFO.ttf',
-    popularityRank: 216,
+    popularityRank: 225,
   ),
   WebFont(
     family: 'LXGW Marker Gothic',
@@ -17582,7 +17582,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lxgwmarkergothic/v3/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToxj-Y7.ttf',
-    popularityRank: 1649,
+    popularityRank: 1652,
   ),
   WebFont(
     family: 'LXGW WenKai Mono TC',
@@ -17607,7 +17607,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/lxgwwenkaimonotc/v10/pxiYyos4iPVgyWx9WtufHnsIf5nkaB0Hum-Ipg.ttf',
-    popularityRank: 1578,
+    popularityRank: 1588,
   ),
   WebFont(
     family: 'LXGW WenKai TC',
@@ -17632,7 +17632,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/lxgwwenkaitc/v10/w8gDH20td8wNsI3f40DmtXZb4_uLJ9k.ttf',
-    popularityRank: 1177,
+    popularityRank: 1253,
   ),
   WebFont(
     family: 'La Belle Aurore',
@@ -17645,7 +17645,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/labelleaurore/v23/RrQIbot8-mNYKnGNDkWlocovHeI4Gu2B.ttf',
-    popularityRank: 549,
+    popularityRank: 552,
   ),
   WebFont(
     family: 'Labrada',
@@ -17698,7 +17698,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/labrada/v4/ieVh2Y9HLWefIpOyF1Vi3ZqDss1Px9VTSzM5SvM.ttf',
-    popularityRank: 1644,
+    popularityRank: 1637,
   ),
   WebFont(
     family: 'Lacquer',
@@ -17711,7 +17711,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/lacquer/v16/EYqzma1QwqpG4_BBN76KWg.ttf',
-    popularityRank: 648,
+    popularityRank: 645,
   ),
   WebFont(
     family: 'Laila',
@@ -17733,7 +17733,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/laila/v20/LYjMdG_8nE8jDLRcgCM.ttf',
-    popularityRank: 582,
+    popularityRank: 569,
   ),
   WebFont(
     family: 'Lakki Reddy',
@@ -17746,7 +17746,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/lakkireddy/v25/S6u5w49MUSzD9jlCPmvLZTfpzd0.ttf',
-    popularityRank: 1465,
+    popularityRank: 1451,
   ),
   WebFont(
     family: 'Lalezar',
@@ -17764,7 +17764,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lalezar/v16/zrfl0HLVx-HwTP82YaH4Jg.ttf',
-    popularityRank: 378,
+    popularityRank: 381,
   ),
   WebFont(
     family: 'Lancelot',
@@ -17778,7 +17778,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/lancelot/v28/J7acnppxBGtQEulG4KY5zps.ttf',
-    popularityRank: 1441,
+    popularityRank: 1477,
   ),
   WebFont(
     family: 'Langar',
@@ -17795,7 +17795,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/langar/v30/kJEyBukW7AIlgjGlrD9d.ttf',
-    popularityRank: 1548,
+    popularityRank: 1607,
   ),
   WebFont(
     family: 'Lateef',
@@ -17818,7 +17818,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/lateef/v35/hESw6XVnNCxEvkb8px2A.ttf',
-    popularityRank: 546,
+    popularityRank: 574,
   ),
   WebFont(
     family: 'Lato',
@@ -17871,7 +17871,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/lavishlyyours/v7/jizDREVIvGwH5OjiZmX9r5z_WyUZ2zI.ttf',
-    popularityRank: 1210,
+    popularityRank: 1158,
   ),
   WebFont(
     family: 'League Gothic',
@@ -17888,7 +17888,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/leaguegothic/v13/qFdR35CBi4tvBz81xy7WG7ep-BQAY7Krj7feObpH_9ang9A.ttf',
-    popularityRank: 252,
+    popularityRank: 249,
   ),
   WebFont(
     family: 'League Script',
@@ -17901,7 +17901,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/leaguescript/v30/CSR54zpSlumSWj9CGVsoBZdeWNJevA.ttf',
-    popularityRank: 932,
+    popularityRank: 950,
   ),
   WebFont(
     family: 'League Spartan',
@@ -17936,7 +17936,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/leaguespartan/v15/kJEnBuEW6A0lliaV_m88ja5Twtx8BWhtkDVmjZvM_oTZBc1Y.ttf',
-    popularityRank: 171,
+    popularityRank: 170,
   ),
   WebFont(
     family: 'Leckerli One',
@@ -17949,7 +17949,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/leckerlione/v22/V8mCoQH8VCsNttEnxnGQ-1idLJZY.ttf',
-    popularityRank: 447,
+    popularityRank: 445,
   ),
   WebFont(
     family: 'Ledger',
@@ -17966,7 +17966,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ledger/v17/j8_q6-HK1L3if_sBmsr0.ttf',
-    popularityRank: 1010,
+    popularityRank: 1020,
   ),
   WebFont(
     family: 'Lekton',
@@ -17981,7 +17981,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/lekton/v21/SZc43FDmLaWmWpBuXh3s.ttf',
-    popularityRank: 781,
+    popularityRank: 770,
   ),
   WebFont(
     family: 'Lemon',
@@ -17995,7 +17995,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/lemon/v19/HI_EiYEVKqRMq3jAQ5E.ttf',
-    popularityRank: 1122,
+    popularityRank: 1113,
   ),
   WebFont(
     family: 'Lemonada',
@@ -18017,7 +18017,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/lemonada/v31/0QI-MXFD9oygTWy_R-FFlwV-bgfR7QJGeutGmP-Y.ttf',
-    popularityRank: 528,
+    popularityRank: 547,
   ),
   WebFont(
     family: 'Lexend',
@@ -18052,7 +18052,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lexend/v26/wlptgwvFAVdoq2_F94zlCfv0bz1WCzsWzLFnfw.ttf',
-    popularityRank: 95,
+    popularityRank: 91,
   ),
   WebFont(
     family: 'Lexend Deca',
@@ -18087,7 +18087,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lexenddeca/v25/K2FifZFYk-dHSE0UPPuwQ7CrD94i-NCKm-U48M1wrRnG.ttf',
-    popularityRank: 142,
+    popularityRank: 145,
   ),
   WebFont(
     family: 'Lexend Exa',
@@ -18122,7 +18122,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lexendexa/v35/UMBCrPdOoHOnxExyjdBeQCH18mulUxBvI9r7TpbGFps.ttf',
-    popularityRank: 573,
+    popularityRank: 551,
   ),
   WebFont(
     family: 'Lexend Giga',
@@ -18157,7 +18157,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lexendgiga/v27/PlIuFl67Mah5Y8yMHE7lkUZPlTBo4MWFfNRC2Li06sAs.ttf',
-    popularityRank: 229,
+    popularityRank: 234,
   ),
   WebFont(
     family: 'Lexend Mega',
@@ -18192,7 +18192,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lexendmega/v27/qFdX35aBi5JtHD41zSTFEuTByuvYFuE9IbDL8fmfvOam.ttf',
-    popularityRank: 1255,
+    popularityRank: 1109,
   ),
   WebFont(
     family: 'Lexend Peta',
@@ -18227,7 +18227,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lexendpeta/v30/BXR4vFPGjeLPh0kCfI4OkFX-UTQHSCaxvBgR6SBCWlwq.ttf',
-    popularityRank: 578,
+    popularityRank: 677,
   ),
   WebFont(
     family: 'Lexend Tera',
@@ -18262,7 +18262,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lexendtera/v29/RrQDbo98_jt_IXnBPwCWtYJLZ3P4hnaGKFiM5zMjd5bw.ttf',
-    popularityRank: 1408,
+    popularityRank: 1411,
   ),
   WebFont(
     family: 'Lexend Zetta',
@@ -18297,7 +18297,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lexendzetta/v32/ll8uK2KYXje7CdOFnEWcU8synQbuVYjYB3BCy9bG4z9pag.ttf',
-    popularityRank: 609,
+    popularityRank: 605,
   ),
   WebFont(
     family: 'Libertinus Keyboard',
@@ -18310,7 +18310,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/libertinuskeyboard/v2/NaPEcYrQAP5Z2JsyIac0i2DYHaapaf43dr25sQ.ttf',
-    popularityRank: 1817,
+    popularityRank: 1812,
   ),
   WebFont(
     family: 'Libertinus Math',
@@ -18323,7 +18323,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/libertinusmath/v2/Gw6iwc3770TVMoHVurPejWtfenR7vviN.ttf',
-    popularityRank: 1494,
+    popularityRank: 1467,
   ),
   WebFont(
     family: 'Libertinus Mono',
@@ -18336,7 +18336,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/libertinusmono/v1/_gPg1RnxrjY_TDm97ApTqwneJJFjoRtz.ttf',
-    popularityRank: 1636,
+    popularityRank: 1628,
   ),
   WebFont(
     family: 'Libertinus Sans',
@@ -18359,7 +18359,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/libertinussans/v1/YA9Lr0-a6k7ZLbw_dle4knJh2cq8j9fR.ttf',
-    popularityRank: 1288,
+    popularityRank: 1373,
   ),
   WebFont(
     family: 'Libertinus Serif',
@@ -18386,7 +18386,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/libertinusserif/v1/RLpkK4bw7KinajYBg0RTTwCLF5Ber6gPVA.ttf',
-    popularityRank: 1470,
+    popularityRank: 1462,
   ),
   WebFont(
     family: 'Libertinus Serif Display',
@@ -18407,7 +18407,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/libertinusserifdisplay/v2/0FlHVOmbklub_P32Hm53RVREi5BsXWudOF_Gpgcbgsdk.ttf',
-    popularityRank: 1733,
+    popularityRank: 1765,
   ),
   WebFont(
     family: 'Libre Barcode 128',
@@ -18420,7 +18420,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/librebarcode128/v31/cIfnMbdUsUoiW3O_hVviCwVjuLtXeK_B9Ac.ttf',
-    popularityRank: 517,
+    popularityRank: 477,
   ),
   WebFont(
     family: 'Libre Barcode 128 Text',
@@ -18433,7 +18433,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/librebarcode128text/v31/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5QVzS7A.ttf',
-    popularityRank: 1156,
+    popularityRank: 1174,
   ),
   WebFont(
     family: 'Libre Barcode 39',
@@ -18446,7 +18446,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/librebarcode39/v25/-nFnOHM08vwC6h8Li1eQnP_AHzI2G_Zx1w.ttf',
-    popularityRank: 199,
+    popularityRank: 201,
   ),
   WebFont(
     family: 'Libre Barcode 39 Extended',
@@ -18459,7 +18459,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/librebarcode39extended/v30/8At7Gt6_O5yNS0-K4Nf5U922qSzhJ3dUdfJpwNUgTNVIPQ.ttf',
-    popularityRank: 1454,
+    popularityRank: 1417,
   ),
   WebFont(
     family: 'Libre Barcode 39 Extended Text',
@@ -18472,7 +18472,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/librebarcode39extendedtext/v30/eLG1P_rwIgOiDA7yrs9LoKaYRVLQ1YldrrOnnL7xPO4jNP6Mfbgm.ttf',
-    popularityRank: 935,
+    popularityRank: 994,
   ),
   WebFont(
     family: 'Libre Barcode 39 Text',
@@ -18485,7 +18485,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/librebarcode39text/v32/sJoa3KhViNKANw_E3LwoDXvs5Un0HQ1vT-0H1B5P.ttf',
-    popularityRank: 762,
+    popularityRank: 776,
   ),
   WebFont(
     family: 'Libre Barcode EAN13 Text',
@@ -18498,7 +18498,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/librebarcodeean13text/v25/wlpigxXFDU1_oCu9nfZytgIqSG0XRcJm_OQiB96_AWsg.ttf',
-    popularityRank: 1365,
+    popularityRank: 1384,
   ),
   WebFont(
     family: 'Libre Baskerville',
@@ -18560,7 +18560,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/librebodoni/v9/_Xm--H45qDWDYULr5OfyZudXzSBgY2oMBGte6I1f8W3TdA.ttf',
-    popularityRank: 308,
+    popularityRank: 303,
   ),
   WebFont(
     family: 'Libre Caslon Display',
@@ -18573,7 +18573,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/librecaslondisplay/v18/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr1lQfxw.ttf',
-    popularityRank: 629,
+    popularityRank: 594,
   ),
   WebFont(
     family: 'Libre Caslon Text',
@@ -18588,7 +18588,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/librecaslontext/v5/DdT878IGsGw1aF1JU10PUbTvNNaDMfq-1-c.ttf',
-    popularityRank: 264,
+    popularityRank: 254,
   ),
   WebFont(
     family: 'Libre Franklin',
@@ -18643,7 +18643,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/librefranklin/v20/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkBtDM.ttf',
-    popularityRank: 63,
+    popularityRank: 70,
   ),
   WebFont(
     family: 'Licorice',
@@ -18660,7 +18660,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/licorice/v8/t5tjIR8TMomTCAyjNn22jKY.ttf',
-    popularityRank: 991,
+    popularityRank: 1009,
   ),
   WebFont(
     family: 'Life Savers',
@@ -18675,7 +18675,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/lifesavers/v23/ZXuie1UftKKabUQMgxAal8lqHA4.ttf',
-    popularityRank: 1063,
+    popularityRank: 1087,
   ),
   WebFont(
     family: 'Lilex',
@@ -18724,7 +18724,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj3ezkWk-z.ttf',
-    popularityRank: 1663,
+    popularityRank: 1658,
   ),
   WebFont(
     family: 'Lilita One',
@@ -18737,7 +18737,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbYEd8QA.ttf',
-    popularityRank: 99,
+    popularityRank: 100,
   ),
   WebFont(
     family: 'Lily Script One',
@@ -18750,7 +18750,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/lilyscriptone/v16/LhW9MV7ZMfIPdMxeBjBvFN8SXLSIg86n.ttf',
-    popularityRank: 925,
+    popularityRank: 978,
   ),
   WebFont(
     family: 'Limelight',
@@ -18763,7 +18763,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/limelight/v21/XLYkIZL7aopJVbZJHDuoPOlC.ttf',
-    popularityRank: 484,
+    popularityRank: 475,
   ),
   WebFont(
     family: 'Linden Hill',
@@ -18777,7 +18777,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/lindenhill/v27/-F61fjxoKSg9Yc3hZgO8yjFJ5ig.ttf',
-    popularityRank: 1332,
+    popularityRank: 1302,
   ),
   WebFont(
     family: 'Linefont',
@@ -18854,7 +18854,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/lisubosa/v2/3XFoErkv240fsdmJRJQflkHm.ttf',
-    popularityRank: 1702,
+    popularityRank: 1675,
   ),
   WebFont(
     family: 'Liter',
@@ -18872,7 +18872,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/liter/v4/SLXGc1nX4GQ4d1InTp4.ttf',
-    popularityRank: 1016,
+    popularityRank: 1088,
   ),
   WebFont(
     family: 'Literata',
@@ -18925,7 +18925,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/literata/v40/or3PQ6P12-iJxAIgLa78DkrbXsDgk0oVDaDPYLanFLHpPf2TbBG_J_fWSQ.ttf',
-    popularityRank: 201,
+    popularityRank: 199,
   ),
   WebFont(
     family: 'Liu Jian Mao Cao',
@@ -18938,7 +18938,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/liujianmaocao/v24/845DNN84HJrccNonurqXILGpvCOoTevfLA.ttf',
-    popularityRank: 1213,
+    popularityRank: 1144,
   ),
   WebFont(
     family: 'Livvic',
@@ -18987,7 +18987,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/livvic/v15/rnCp-x1S2hzjrlfXbuM-.ttf',
-    popularityRank: 533,
+    popularityRank: 512,
   ),
   WebFont(
     family: 'Lobster',
@@ -19006,7 +19006,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/lobster/v32/neILzCirqoswsqX9zoSmNg.ttf',
-    popularityRank: 130,
+    popularityRank: 125,
   ),
   WebFont(
     family: 'Lobster Two',
@@ -19022,7 +19022,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/lobstertwo/v22/BngMUXZGTXPUvIoyV6yN5-fL5qA.ttf',
-    popularityRank: 58,
+    popularityRank: 60,
   ),
   WebFont(
     family: 'Londrina Outline',
@@ -19035,7 +19035,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/londrinaoutline/v29/C8c44dM8vmb14dfsZxhetg3pDH-STus7qQ.ttf',
-    popularityRank: 1202,
+    popularityRank: 1079,
   ),
   WebFont(
     family: 'Londrina Shadow',
@@ -19048,7 +19048,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/londrinashadow/v28/oPWX_kB4kOQoWNJmjxLV5JuoCUlnR1yW.ttf',
-    popularityRank: 1316,
+    popularityRank: 1437,
   ),
   WebFont(
     family: 'Londrina Sketch',
@@ -19061,7 +19061,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/londrinasketch/v27/c4m41npxGMTnomOHtRU68eIJn8qvWGP9.ttf',
-    popularityRank: 1463,
+    popularityRank: 1534,
   ),
   WebFont(
     family: 'Londrina Solid',
@@ -19077,7 +19077,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/londrinasolid/v19/flUhRq6sw40kQEJxWNgkLuudGfNYKBY.ttf',
-    popularityRank: 450,
+    popularityRank: 433,
   ),
   WebFont(
     family: 'Long Cang',
@@ -19091,7 +19091,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/longcang/v21/LYjAdGP8kkgoTec8zkRQrHov.ttf',
-    popularityRank: 1081,
+    popularityRank: 1011,
   ),
   WebFont(
     family: 'Lora',
@@ -19128,7 +19128,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/lora/v37/0QI6MX1D_JOuGQbT0gvTJPa787weuxJHkqg.ttf',
-    popularityRank: 36,
+    popularityRank: 35,
   ),
   WebFont(
     family: 'Love Light',
@@ -19145,7 +19145,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDvKfIzQ.ttf',
-    popularityRank: 1480,
+    popularityRank: 1466,
   ),
   WebFont(
     family: 'Love Ya Like A Sister',
@@ -19158,7 +19158,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/loveyalikeasister/v23/R70EjzUBlOqPeouhFDfR80-0FhOqJubN-BeL83xY.ttf',
-    popularityRank: 734,
+    popularityRank: 710,
   ),
   WebFont(
     family: 'Loved by the King',
@@ -19171,7 +19171,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/lovedbytheking/v24/Gw6gwdP76VDVJNXerebZxUMeRXUF2MiMn3U.ttf',
-    popularityRank: 1031,
+    popularityRank: 1012,
   ),
   WebFont(
     family: 'Lovers Quarrel',
@@ -19188,7 +19188,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/loversquarrel/v25/Yq6N-LSKXTL-5bCy8ksBzpQ_-wAtab4.ttf',
-    popularityRank: 1324,
+    popularityRank: 1320,
   ),
   WebFont(
     family: 'Luckiest Guy',
@@ -19201,7 +19201,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/luckiestguy/v25/_gP_1RrxsjcxVyin9l9n_j2hS95z.ttf',
-    popularityRank: 194,
+    popularityRank: 204,
   ),
   WebFont(
     family: 'Lugrasimo',
@@ -19215,7 +19215,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/lugrasimo/v5/qkBXXvoF_s_eT9c7Y7au5Z5P.ttf',
-    popularityRank: 1204,
+    popularityRank: 1210,
   ),
   WebFont(
     family: 'Lumanosimo',
@@ -19228,7 +19228,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/lumanosimo/v5/K2F0fZBYg_JDSEZHEfO8MouABw.ttf',
-    popularityRank: 981,
+    popularityRank: 1521,
   ),
   WebFont(
     family: 'Lunasima',
@@ -19251,7 +19251,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFDwkcdo.ttf',
-    popularityRank: 1527,
+    popularityRank: 1548,
   ),
   WebFont(
     family: 'Lusitana',
@@ -19266,7 +19266,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/lusitana/v14/CSR84z9ShvucWzsMKyhbTOc.ttf',
-    popularityRank: 341,
+    popularityRank: 354,
   ),
   WebFont(
     family: 'Lustria',
@@ -19279,7 +19279,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/lustria/v14/9oRONYodvDEyjuhOnCkzNg.ttf',
-    popularityRank: 362,
+    popularityRank: 361,
   ),
   WebFont(
     family: 'Luxurious Roman',
@@ -19296,7 +19296,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/luxuriousroman/v10/buEupou_ZcP1w0yTKxJJokVSmbpaYw0g.ttf',
-    popularityRank: 1455,
+    popularityRank: 1431,
   ),
   WebFont(
     family: 'Luxurious Script',
@@ -19313,7 +19313,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/luxuriousscript/v9/ahcCv9e7yydulT32KZ0rBIoD7DzMs0vEaw.ttf',
-    popularityRank: 1151,
+    popularityRank: 1122,
   ),
   WebFont(
     family: 'M PLUS 1',
@@ -19349,7 +19349,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mplus1/v16/R70EjygA28ymD4HgBUGzkN5Eyoj-WpW5VSaL83xY.ttf',
-    popularityRank: 315,
+    popularityRank: 331,
   ),
   WebFont(
     family: 'M PLUS 1 Code',
@@ -19373,7 +19373,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/mplus1code/v17/ypvMbXOOx2xFpzmYJS3N2_J2hBN6RZ5oIp8m_7iN0EHoYJg.ttf',
-    popularityRank: 954,
+    popularityRank: 1002,
   ),
   WebFont(
     family: 'M PLUS 1p',
@@ -19403,7 +19403,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/mplus1p/v33/e3tjeuShHdiFyPFzBRrY-TQA.ttf',
-    popularityRank: 125,
+    popularityRank: 129,
   ),
   WebFont(
     family: 'M PLUS 2',
@@ -19439,7 +19439,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mplus2/v16/7Auhp_Eq3gO_OGbGGhjdwrDdpeIBxlkwOa6lx1CD.ttf',
-    popularityRank: 429,
+    popularityRank: 396,
   ),
   WebFont(
     family: 'M PLUS Code Latin',
@@ -19462,7 +19462,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mpluscodelatin/v17/hv-ylyV-aXg7x7tULiNXXBA0Np4WMS8fDIymHY8fy8wn4_ifLAtrObKDO0Xf1EbA2i9GrA.ttf',
-    popularityRank: 1642,
+    popularityRank: 1640,
   ),
   WebFont(
     family: 'M PLUS Rounded 1c',
@@ -19491,7 +19491,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mplusrounded1c/v22/VdGEAYIAV6gnpUpoWwNkYvrugw9RuMWHxLs.ttf',
-    popularityRank: 87,
+    popularityRank: 95,
   ),
   WebFont(
     family: 'M PLUS U',
@@ -19528,7 +19528,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mplusu/v1/-W_gXJfyAgH86Tq6MsATZrf75i4iYyIxKkcOqx8K.ttf',
-    popularityRank: 1635,
+    popularityRank: 1659,
   ),
   WebFont(
     family: 'Ma Shan Zheng',
@@ -19541,7 +19541,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/mashanzheng/v17/NaPecZTRCLxvwo41b4gvzkXadMXmCA.ttf',
-    popularityRank: 520,
+    popularityRank: 514,
   ),
   WebFont(
     family: 'Macondo',
@@ -19554,7 +19554,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/macondo/v27/RrQQboN9-iB1IXmOe2TE1A.ttf',
-    popularityRank: 863,
+    popularityRank: 872,
   ),
   WebFont(
     family: 'Macondo Swash Caps',
@@ -19567,7 +19567,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/macondoswashcaps/v26/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6-e0Ae.ttf',
-    popularityRank: 1047,
+    popularityRank: 1148,
   ),
   WebFont(
     family: 'Mada',
@@ -19591,7 +19591,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mada/v21/7Aulp_0qnzeSVz7u3PJLcUMYOFnOkEkx0e0.ttf',
-    popularityRank: 408,
+    popularityRank: 428,
   ),
   WebFont(
     family: 'Madimi One',
@@ -19609,7 +19609,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/madimione/v1/2V0YKIEADpA8U6RygDnZVFUiAg.ttf',
-    popularityRank: 940,
+    popularityRank: 997,
   ),
   WebFont(
     family: 'Magra',
@@ -19624,7 +19624,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/magra/v15/uK_94ruaZus72n5wKjc.ttf',
-    popularityRank: 705,
+    popularityRank: 722,
   ),
   WebFont(
     family: 'Maiden Orange',
@@ -19637,7 +19637,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/maidenorange/v32/kJE1BuIX7AUmhi2V4m08kb1XvOdXDQ.ttf',
-    popularityRank: 1035,
+    popularityRank: 1054,
   ),
   WebFont(
     family: 'Maitree',
@@ -19660,7 +19660,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/maitree/v11/MjQGmil5tffhpBrkntiseA.ttf',
-    popularityRank: 688,
+    popularityRank: 725,
   ),
   WebFont(
     family: 'Major Mono Display',
@@ -19677,7 +19677,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/majormonodisplay/v18/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRh7C3eU.ttf',
-    popularityRank: 778,
+    popularityRank: 787,
   ),
   WebFont(
     family: 'Mako',
@@ -19691,7 +19691,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mako/v19/H4coBX6Mmc_Z4SX-8g.ttf',
-    popularityRank: 1005,
+    popularityRank: 1006,
   ),
   WebFont(
     family: 'Mali',
@@ -19735,7 +19735,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/mali/v13/N0ba2SRONuN4SCvECg.ttf',
-    popularityRank: 616,
+    popularityRank: 640,
   ),
   WebFont(
     family: 'Mallanna',
@@ -19749,7 +19749,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/mallanna/v15/hv-Vlzx-KEQb84YaDFwyGTA.ttf',
-    popularityRank: 856,
+    popularityRank: 884,
   ),
   WebFont(
     family: 'Maname',
@@ -19767,7 +19767,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9myI2VMC.ttf',
-    popularityRank: 1800,
+    popularityRank: 1778,
   ),
   WebFont(
     family: 'Mandali',
@@ -19780,7 +19780,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mandali/v16/LhWlMVbYOfASNfNUZFg_YA.ttf',
-    popularityRank: 434,
+    popularityRank: 446,
   ),
   WebFont(
     family: 'Manjari',
@@ -19799,7 +19799,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/manjari/v14/k3kQo8UPMOBO2w1Ufd_oKw.ttf',
-    popularityRank: 766,
+    popularityRank: 759,
   ),
   WebFont(
     family: 'Manrope',
@@ -19844,7 +19844,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/mansalva/v16/aWB4m0aacbtDfvq5NKlkKYo.ttf',
-    popularityRank: 799,
+    popularityRank: 769,
   ),
   WebFont(
     family: 'Manuale',
@@ -19885,7 +19885,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/manuale/v31/f0Xp0eas_8Z-TFZdHv3mMxFaSqASeeHke4wC3zQ.ttf',
-    popularityRank: 1074,
+    popularityRank: 1141,
   ),
   WebFont(
     family: 'Manufacturing Consent',
@@ -19898,7 +19898,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/manufacturingconsent/v1/N0bL2TVONuFkPkuHfiECSLCwuZS-D-IsakiURq4r.ttf',
-    popularityRank: 1229,
+    popularityRank: 1218,
   ),
   WebFont(
     family: 'Marcellus',
@@ -19911,7 +19911,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/marcellus/v14/wEO_EBrOk8hQLDvIAF81UPoP.ttf',
-    popularityRank: 157,
+    popularityRank: 154,
   ),
   WebFont(
     family: 'Marcellus SC',
@@ -19924,7 +19924,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/marcellussc/v14/ke8iOgUHP1dg-Rmi6RWjbLE_gNaZ.ttf',
-    popularityRank: 530,
+    popularityRank: 517,
   ),
   WebFont(
     family: 'Marck Script',
@@ -19941,7 +19941,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/marckscript/v22/nwpTtK2oNgBA3Or78gapdwuyzig6.ttf',
-    popularityRank: 453,
+    popularityRank: 471,
   ),
   WebFont(
     family: 'Margarine',
@@ -19954,7 +19954,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/margarine/v27/qkBXXvoE6trLT9Y7YLyu5Z5P.ttf',
-    popularityRank: 1181,
+    popularityRank: 1178,
   ),
   WebFont(
     family: 'Marhey',
@@ -19975,7 +19975,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBctwC2YdjA.ttf',
-    popularityRank: 1276,
+    popularityRank: 1300,
   ),
   WebFont(
     family: 'Markazi Text',
@@ -19996,7 +19996,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQf4IvAQ.ttf',
-    popularityRank: 666,
+    popularityRank: 549,
   ),
   WebFont(
     family: 'Marko One',
@@ -20010,7 +20010,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/markoone/v24/9Btq3DFG0cnVM5lw1haqK58b.ttf',
-    popularityRank: 1366,
+    popularityRank: 1422,
   ),
   WebFont(
     family: 'Marmelad',
@@ -20030,7 +20030,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/marmelad/v19/Qw3eZQdSHj_jK2e-8uFKEeI.ttf',
-    popularityRank: 721,
+    popularityRank: 716,
   ),
   WebFont(
     family: 'Martel',
@@ -20053,7 +20053,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/martel/v12/PN_xRfK9oXHga0XdYMg6.ttf',
-    popularityRank: 274,
+    popularityRank: 273,
   ),
   WebFont(
     family: 'Martel Sans',
@@ -20076,7 +20076,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/martelsans/v14/h0GsssGi7VdzDgKjM-4d8hjex-s.ttf',
-    popularityRank: 469,
+    popularityRank: 464,
   ),
   WebFont(
     family: 'Martian Mono',
@@ -20101,7 +20101,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/martianmono/v6/2V08KIcADoYhV6w87xrTKjs4CYElh_VS9YA4TlTnQzaVMIE6j15dYY1qu_6XBbo.ttf',
-    popularityRank: 928,
+    popularityRank: 871,
   ),
   WebFont(
     family: 'Marvel',
@@ -20117,7 +20117,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/marvel/v17/nwpVtKeoNgBV0qa4kFTA.ttf',
-    popularityRank: 690,
+    popularityRank: 708,
   ),
   WebFont(
     family: 'Matangi',
@@ -20140,7 +20140,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/matangi/v5/kmKiZqE2FhDIeX2QvjZNI_5FGeJet7OWCAYxKcU.ttf',
-    popularityRank: 1818,
+    popularityRank: 1810,
   ),
   WebFont(
     family: 'Mate',
@@ -20156,7 +20156,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/mate/v19/m8JdjftRd7WZ6zy2Xg.ttf',
-    popularityRank: 488,
+    popularityRank: 416,
   ),
   WebFont(
     family: 'Mate SC',
@@ -20169,7 +20169,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/matesc/v23/-nF8OGQ1-uoVr2wK-iTT8w.ttf',
-    popularityRank: 1236,
+    popularityRank: 1241,
   ),
   WebFont(
     family: 'Matemasie',
@@ -20183,7 +20183,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/matemasie/v4/OD5BuMCN3ne3Gmr7dlLHrUC8.ttf',
-    popularityRank: 1403,
+    popularityRank: 1468,
   ),
   WebFont(
     family: 'Material Icons',
@@ -20209,7 +20209,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/materialiconsoutlined/v110/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhXcanZM.otf',
-    popularityRank: 55,
+    popularityRank: 57,
   ),
   WebFont(
     family: 'Material Icons Round',
@@ -20222,7 +20222,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/materialiconsround/v109/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flzmLofU.otf',
-    popularityRank: 92,
+    popularityRank: 97,
   ),
   WebFont(
     family: 'Material Icons Sharp',
@@ -20235,7 +20235,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/materialiconssharp/v110/oPWQ_lt5nv4pWNJpghLP75WiFR4kLh3kvlvVKGM.otf',
-    popularityRank: 129,
+    popularityRank: 131,
   ),
   WebFont(
     family: 'Material Icons Two Tone',
@@ -20248,83 +20248,83 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/materialiconstwotone/v113/hESh6WRmNCxEqUmNyh3JDeGxjVVyMg4tHGctNBuwPDI.otf',
-    popularityRank: 144,
+    popularityRank: 146,
   ),
   WebFont(
     family: 'Material Symbols',
     variants: ['100', '200', '300', 'regular', '500', '600', '700'],
     subsets: [WebFontSubset.latin],
-    version: 'v86',
-    lastModified: '2026-07-09',
+    version: 'v88',
+    lastModified: '2026-07-13',
     files: {
-      '100': 'https://fonts.gstatic.com/s/materialsymbols/v86/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVXEHuRbn3PT2vOA.ttf',
-      '200': 'https://fonts.gstatic.com/s/materialsymbols/v86/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNV3EDuRbn3PT2vOA.ttf',
-      '300': 'https://fonts.gstatic.com/s/materialsymbols/v86/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVAkDuRbn3PT2vOA.ttf',
-      'regular': 'https://fonts.gstatic.com/s/materialsymbols/v86/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVXEDuRbn3PT2vOA.ttf',
-      '500': 'https://fonts.gstatic.com/s/materialsymbols/v86/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVbkDuRbn3PT2vOA.ttf',
-      '600': 'https://fonts.gstatic.com/s/materialsymbols/v86/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVgkfuRbn3PT2vOA.ttf',
-      '700': 'https://fonts.gstatic.com/s/materialsymbols/v86/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVu0fuRbn3PT2vOA.ttf',
+      '100': 'https://fonts.gstatic.com/s/materialsymbols/v88/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVXEHuRbn3PT2vOA.ttf',
+      '200': 'https://fonts.gstatic.com/s/materialsymbols/v88/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNV3EDuRbn3PT2vOA.ttf',
+      '300': 'https://fonts.gstatic.com/s/materialsymbols/v88/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVAkDuRbn3PT2vOA.ttf',
+      'regular': 'https://fonts.gstatic.com/s/materialsymbols/v88/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVXEDuRbn3PT2vOA.ttf',
+      '500': 'https://fonts.gstatic.com/s/materialsymbols/v88/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVbkDuRbn3PT2vOA.ttf',
+      '600': 'https://fonts.gstatic.com/s/materialsymbols/v88/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVgkfuRbn3PT2vOA.ttf',
+      '700': 'https://fonts.gstatic.com/s/materialsymbols/v88/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVu0fuRbn3PT2vOA.ttf',
     },
     category: WebFontCategory.monospace,
-    menu: 'https://fonts.gstatic.com/s/materialsymbols/v86/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVXEDeRLPz.ttf',
-    popularityRank: 336,
+    menu: 'https://fonts.gstatic.com/s/materialsymbols/v88/d6kSkb-sS9m3-i1LgQNcsFOOuLQXvG559b5GLMxCWRtThFK5gn7xw7XblIl2peTfMb7ONaa2_wzcUHR1Ukiw2RYw2vadH3BFk0G4701x-cU0BaNVXEDeRLPz.ttf',
+    popularityRank: 311,
   ),
   WebFont(
     family: 'Material Symbols Outlined',
     variants: ['100', '200', '300', 'regular', '500', '600', '700'],
     subsets: [WebFontSubset.latin],
-    version: 'v359',
-    lastModified: '2026-07-09',
+    version: 'v361',
+    lastModified: '2026-07-13',
     files: {
-      '100': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v359/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeembd5zrTgt.ttf',
-      '200': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v359/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOembd5zrTgt.ttf',
-      '300': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v359/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOembd5zrTgt.ttf',
-      'regular': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v359/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOembd5zrTgt.ttf',
-      '500': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v359/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOembd5zrTgt.ttf',
-      '600': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v359/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-embd5zrTgt.ttf',
-      '700': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v359/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-embd5zrTgt.ttf',
+      '100': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v361/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHeembd5zrTgt.ttf',
+      '200': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v361/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDAvHOembd5zrTgt.ttf',
+      '300': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v361/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDDxHOembd5zrTgt.ttf',
+      'regular': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v361/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOembd5zrTgt.ttf',
+      '500': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v361/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCdHOembd5zrTgt.ttf',
+      '600': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v361/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBxG-embd5zrTgt.ttf',
+      '700': 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v361/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDBIG-embd5zrTgt.ttf',
     },
     category: WebFontCategory.monospace,
-    menu: 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v359/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf',
+    menu: 'https://fonts.gstatic.com/s/materialsymbolsoutlined/v361/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHNenZ9o.ttf',
     popularityRank: 22,
   ),
   WebFont(
     family: 'Material Symbols Rounded',
     variants: ['100', '200', '300', 'regular', '500', '600', '700'],
     subsets: [WebFontSubset.latin],
-    version: 'v360',
-    lastModified: '2026-07-09',
+    version: 'v362',
+    lastModified: '2026-07-13',
     files: {
-      '100': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v360/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIekXxKJKJBjAa8.ttf',
-      '200': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v360/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rAelXxKJKJBjAa8.ttf',
-      '300': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v360/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rNmlXxKJKJBjAa8.ttf',
-      'regular': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v360/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelXxKJKJBjAa8.ttf',
-      '500': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v360/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rLWlXxKJKJBjAa8.ttf',
-      '600': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v360/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rFmiXxKJKJBjAa8.ttf',
-      '700': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v360/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rGCiXxKJKJBjAa8.ttf',
+      '100': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v362/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIekXxKJKJBjAa8.ttf',
+      '200': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v362/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rAelXxKJKJBjAa8.ttf',
+      '300': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v362/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rNmlXxKJKJBjAa8.ttf',
+      'regular': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v362/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelXxKJKJBjAa8.ttf',
+      '500': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v362/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rLWlXxKJKJBjAa8.ttf',
+      '600': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v362/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rFmiXxKJKJBjAa8.ttf',
+      '700': 'https://fonts.gstatic.com/s/materialsymbolsrounded/v362/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rGCiXxKJKJBjAa8.ttf',
     },
     category: WebFontCategory.monospace,
-    menu: 'https://fonts.gstatic.com/s/materialsymbolsrounded/v360/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf',
+    menu: 'https://fonts.gstatic.com/s/materialsymbolsrounded/v362/syl0-zNym6YjUruM-QrEh7-nyTnjDwKNJ_190FjpZIvDmUSVOK7BDB_Qb9vUSzq3wzLK-P0J-V_Zs-QtQth3-jOcbTCVpeRL2w5rwZu2rIelbxODLA.ttf',
     popularityRank: 83,
   ),
   WebFont(
     family: 'Material Symbols Sharp',
     variants: ['100', '200', '300', 'regular', '500', '600', '700'],
     subsets: [WebFontSubset.latin],
-    version: 'v356',
-    lastModified: '2026-07-09',
+    version: 'v358',
+    lastModified: '2026-07-13',
     files: {
-      '100': 'https://fonts.gstatic.com/s/materialsymbolssharp/v356/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLozCOJ1H7-knk.ttf',
-      '200': 'https://fonts.gstatic.com/s/materialsymbolssharp/v356/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxMLojCOJ1H7-knk.ttf',
-      '300': 'https://fonts.gstatic.com/s/materialsymbolssharp/v356/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxPVojCOJ1H7-knk.ttf',
-      'regular': 'https://fonts.gstatic.com/s/materialsymbolssharp/v356/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLojCOJ1H7-knk.ttf',
-      '500': 'https://fonts.gstatic.com/s/materialsymbolssharp/v356/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxO5ojCOJ1H7-knk.ttf',
-      '600': 'https://fonts.gstatic.com/s/materialsymbolssharp/v356/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxNVpTCOJ1H7-knk.ttf',
-      '700': 'https://fonts.gstatic.com/s/materialsymbolssharp/v356/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxNspTCOJ1H7-knk.ttf',
+      '100': 'https://fonts.gstatic.com/s/materialsymbolssharp/v358/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLozCOJ1H7-knk.ttf',
+      '200': 'https://fonts.gstatic.com/s/materialsymbolssharp/v358/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxMLojCOJ1H7-knk.ttf',
+      '300': 'https://fonts.gstatic.com/s/materialsymbolssharp/v358/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxPVojCOJ1H7-knk.ttf',
+      'regular': 'https://fonts.gstatic.com/s/materialsymbolssharp/v358/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLojCOJ1H7-knk.ttf',
+      '500': 'https://fonts.gstatic.com/s/materialsymbolssharp/v358/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxO5ojCOJ1H7-knk.ttf',
+      '600': 'https://fonts.gstatic.com/s/materialsymbolssharp/v358/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxNVpTCOJ1H7-knk.ttf',
+      '700': 'https://fonts.gstatic.com/s/materialsymbolssharp/v358/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxNspTCOJ1H7-knk.ttf',
     },
     category: WebFontCategory.monospace,
-    menu: 'https://fonts.gstatic.com/s/materialsymbolssharp/v356/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf',
-    popularityRank: 276,
+    menu: 'https://fonts.gstatic.com/s/materialsymbolssharp/v358/gNNBW2J8Roq16WD5tFNRaeLQk6-SHQ_R00k4c2_whPnoY9ruReaU4bHmz74m0ZkGH-VBYe1x0TV6x4yFH8F-H5OdzEL3sVTgJtfbYxOLogCPLVU.ttf',
+    popularityRank: 279,
   ),
   WebFont(
     family: 'Maven Pro',
@@ -20346,7 +20346,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mavenpro/v40/7Auup_AqnyWWAxW2Wk3swUz56MS91Eww8SX21nGjpw.ttf',
-    popularityRank: 147,
+    popularityRank: 142,
   ),
   WebFont(
     family: 'McLaren',
@@ -20359,7 +20359,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/mclaren/v19/2EbnL-ZuAXFqZFXIeYcV9w.ttf',
-    popularityRank: 893,
+    popularityRank: 865,
   ),
   WebFont(
     family: 'Mea Culpa',
@@ -20377,7 +20377,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/meaculpa/v8/AMOTz4GcuWbEIuza8jspm8cU.ttf',
-    popularityRank: 1209,
+    popularityRank: 1245,
   ),
   WebFont(
     family: 'Meddon',
@@ -20390,7 +20390,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/meddon/v27/kmK8ZqA2EgDNeHTphR1F.ttf',
-    popularityRank: 755,
+    popularityRank: 737,
   ),
   WebFont(
     family: 'MedievalSharp',
@@ -20403,7 +20403,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/medievalsharp/v28/EvOJzAlL3oU5AQl2mP5KdgptMq5wNw.ttf',
-    popularityRank: 784,
+    popularityRank: 728,
   ),
   WebFont(
     family: 'Medula One',
@@ -20416,7 +20416,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/medulaone/v20/YA9Wr0qb5kjJM6l2V0yuoiAgtw.ttf',
-    popularityRank: 1149,
+    popularityRank: 1129,
   ),
   WebFont(
     family: 'Meera Inimai',
@@ -20429,7 +20429,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/meerainimai/v14/845fNMM5EIqOW5MPuvO3ILeZ_mLH.ttf',
-    popularityRank: 1394,
+    popularityRank: 1412,
   ),
   WebFont(
     family: 'Megrim',
@@ -20442,7 +20442,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/megrim/v18/46kulbz5WjvLqJZVbG_k.ttf',
-    popularityRank: 814,
+    popularityRank: 788,
   ),
   WebFont(
     family: 'Meie Script',
@@ -20455,7 +20455,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/meiescript/v22/_LOImzDK7erRjhunIspaMgxm7oE.ttf',
-    popularityRank: 889,
+    popularityRank: 936,
   ),
   WebFont(
     family: 'Menbere',
@@ -20479,7 +20479,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/menbere/v1/lJwY-p0zhmBrWvcG80OiXWeXfSDWXdI_95n0WH4.ttf',
-    popularityRank: 1660,
+    popularityRank: 1647,
   ),
   WebFont(
     family: 'Meow Script',
@@ -20496,7 +20496,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/meowscript/v6/0FlQVPqanlaJrtr8AnJ0ERcg2fk.ttf',
-    popularityRank: 779,
+    popularityRank: 742,
   ),
   WebFont(
     family: 'Merienda',
@@ -20519,7 +20519,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/merienda/v22/gNMaW3x8Qoy5_mf8uUkJGHtiYXjmKFy5enhYSET4.ttf',
-    popularityRank: 376,
+    popularityRank: 364,
   ),
   WebFont(
     family: 'Merriweather',
@@ -20566,7 +20566,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/merriweather/v33/u-4D0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiScCmDxhtNOKl8yDr3icaEl3w.ttf',
-    popularityRank: 28,
+    popularityRank: 29,
   ),
   WebFont(
     family: 'Merriweather Sans',
@@ -20608,7 +20608,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/merriweathersans/v28/2-cO9IRs1JiJN1FRAMjTN5zd9vgsFF_5asQTb6hZ2JKZou4Vj-sC.ttf',
-    popularityRank: 120,
+    popularityRank: 121,
   ),
   WebFont(
     family: 'Metal',
@@ -20622,7 +20622,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/metal/v32/lW-wwjUJIXTo7h3mlIA.ttf',
-    popularityRank: 1418,
+    popularityRank: 1425,
   ),
   WebFont(
     family: 'Metal Mania',
@@ -20635,7 +20635,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/metalmania/v23/RWmMoKWb4e8kqMfBUdPFJdXDiaE.ttf',
-    popularityRank: 1020,
+    popularityRank: 727,
   ),
   WebFont(
     family: 'Metamorphous',
@@ -20648,7 +20648,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/metamorphous/v22/Wnz8HA03aAXcC39ZEX5y133EPSqp.ttf',
-    popularityRank: 789,
+    popularityRank: 738,
   ),
   WebFont(
     family: 'Metrophobic',
@@ -20665,7 +20665,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/metrophobic/v24/sJoA3LZUhMSAPV_u0qwiAQ-I5Xo.ttf',
-    popularityRank: 569,
+    popularityRank: 573,
   ),
   WebFont(
     family: 'Michroma',
@@ -20679,7 +20679,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/michroma/v21/PN_zRfy9qWD8fEagAPg7pTw.ttf',
-    popularityRank: 324,
+    popularityRank: 350,
   ),
   WebFont(
     family: 'Micro 5',
@@ -20697,7 +20697,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/micro5/v2/H4cnBX2MkcfEngTr4gca6A.ttf',
-    popularityRank: 1449,
+    popularityRank: 1436,
   ),
   WebFont(
     family: 'Micro 5 Charted',
@@ -20715,7 +20715,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/micro5charted/v2/hESp6XxmPDtTtADZhn7oD_yrmxE2REEN.ttf',
-    popularityRank: 1845,
+    popularityRank: 1783,
   ),
   WebFont(
     family: 'Milonga',
@@ -20728,7 +20728,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/milonga/v24/SZc53FHnIaK9W5kfTzzMlQ.ttf',
-    popularityRank: 1352,
+    popularityRank: 1385,
   ),
   WebFont(
     family: 'Miltonian',
@@ -20741,7 +20741,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/miltonian/v32/zOL-4pbPn6Ne9JqTg9mb6ORE.ttf',
-    popularityRank: 1127,
+    popularityRank: 1143,
   ),
   WebFont(
     family: 'Miltonian Tattoo',
@@ -20754,7 +20754,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/miltoniantattoo/v34/EvOUzBRL0o0kCxF-lcMCQxlpVsA_JwL2NA.ttf',
-    popularityRank: 1175,
+    popularityRank: 1173,
   ),
   WebFont(
     family: 'Mina',
@@ -20773,7 +20773,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mina/v14/-nFzOGc18vARnz5p6g.ttf',
-    popularityRank: 990,
+    popularityRank: 1013,
   ),
   WebFont(
     family: 'Mingzat',
@@ -20790,7 +20790,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mingzat/v12/0QIgMX5C-o-oWWyvNtpunw.ttf',
-    popularityRank: 1669,
+    popularityRank: 1706,
   ),
   WebFont(
     family: 'Miniver',
@@ -20803,7 +20803,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/miniver/v27/eLGcP-PxIg-5H0vC37wIzw.ttf',
-    popularityRank: 1162,
+    popularityRank: 1176,
   ),
   WebFont(
     family: 'Miranda Sans',
@@ -20832,7 +20832,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mirandasans/v3/aFTG7Pt8ZWk4XsiWhk7Rb_e3Y6UIjsX0vr9-ZHGmP811fg.ttf',
-    popularityRank: 1722,
+    popularityRank: 1730,
   ),
   WebFont(
     family: 'Miriam Libre',
@@ -20852,7 +20852,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH9P3o9rMKw.ttf',
-    popularityRank: 777,
+    popularityRank: 761,
   ),
   WebFont(
     family: 'Mirza',
@@ -20873,7 +20873,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/mirza/v19/co3ImWlikiN5EtrcIsM.ttf',
-    popularityRank: 988,
+    popularityRank: 959,
   ),
   WebFont(
     family: 'Miss Fajardose',
@@ -20886,7 +20886,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/missfajardose/v23/E21-_dn5gvrawDdPFVl-N0Ajb_quUvI.ttf',
-    popularityRank: 1467,
+    popularityRank: 1465,
   ),
   WebFont(
     family: 'Mitr',
@@ -20910,7 +20910,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mitr/v13/pxiLypw5ucZF-To4NA.ttf',
-    popularityRank: 350,
+    popularityRank: 347,
   ),
   WebFont(
     family: 'Mochiy Pop One',
@@ -20923,7 +20923,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mochiypopone/v12/QdVPSTA9Jh-gg-5XZP2UmU4O9nwxBX8.ttf',
-    popularityRank: 626,
+    popularityRank: 632,
   ),
   WebFont(
     family: 'Mochiy Pop P One',
@@ -20936,7 +20936,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mochiypoppone/v12/Ktk2AKuPeY_td1-h9LayHYWCjAqyB4K9XQ.ttf',
-    popularityRank: 1025,
+    popularityRank: 1014,
   ),
   WebFont(
     family: 'Modak',
@@ -20954,7 +20954,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/modak/v21/EJRYQgs1XtIEskMG-hE.ttf',
-    popularityRank: 909,
+    popularityRank: 985,
   ),
   WebFont(
     family: 'Modern Antiqua',
@@ -20991,7 +20991,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/moderustic/v3/2-c39J9s3o6eLFNHFdXYaOX1UUnf3GLnYjALsQNf7ZI.ttf',
-    popularityRank: 1334,
+    popularityRank: 1317,
   ),
   WebFont(
     family: 'Mogra',
@@ -21009,7 +21009,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/mogra/v22/f0X40eSs8c95TCo5BPY.ttf',
-    popularityRank: 1363,
+    popularityRank: 1346,
   ),
   WebFont(
     family: 'Mohave',
@@ -21042,7 +21042,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mohave/v13/7cH0v4ksjJunKqMVAOPIMOeSmiojdnn_LvGapg.ttf',
-    popularityRank: 961,
+    popularityRank: 866,
   ),
   WebFont(
     family: 'Moirai One',
@@ -21059,7 +21059,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/moiraione/v3/2sDbZGFUgJLJmby6xgNGf0ScAw.ttf',
-    popularityRank: 1623,
+    popularityRank: 1694,
   ),
   WebFont(
     family: 'Molengo',
@@ -21072,7 +21072,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/molengo/v17/I_uuMpWeuBzZNBtQXbValg.ttf',
-    popularityRank: 903,
+    popularityRank: 912,
   ),
   WebFont(
     family: 'Molle',
@@ -21085,7 +21085,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/molle/v25/E21n_dL5hOXFhWEsbzksUw.ttf',
-    popularityRank: 1500,
+    popularityRank: 1566,
   ),
   WebFont(
     family: 'Momo Signature',
@@ -21102,7 +21102,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/momosignature/v2/RrQJbop99C51b06IDAuFoM0yCpcpO80.ttf',
-    popularityRank: 1456,
+    popularityRank: 1479,
   ),
   WebFont(
     family: 'Momo Trust Display',
@@ -21119,7 +21119,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/momotrustdisplay/v2/WWXPlieNYgyPZLyBUuEkKZFhFHyjqb1enmZJ.ttf',
-    popularityRank: 1331,
+    popularityRank: 1393,
   ),
   WebFont(
     family: 'Momo Trust Sans',
@@ -21142,7 +21142,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/momotrustsans/v4/BXR8vFfHh_fFyXlQWZgO0TyUN7Pt3pVCeYWqJnZSW7RpXTsffg.ttf',
-    popularityRank: 1339,
+    popularityRank: 1278,
   ),
   WebFont(
     family: 'Mona Sans',
@@ -21191,7 +21191,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/monasans/v4/o-0mIpQmx24alC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A-9c6Vc.ttf',
-    popularityRank: 380,
+    popularityRank: 374,
   ),
   WebFont(
     family: 'Monda',
@@ -21211,7 +21211,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWsH3o8oGFC.ttf',
-    popularityRank: 223,
+    popularityRank: 278,
   ),
   WebFont(
     family: 'Monofett',
@@ -21225,7 +21225,7 @@ const webfontList = [
     category: WebFontCategory.monospace,
     menu:
         'https://fonts.gstatic.com/s/monofett/v24/mFTyWbofw6zc9NtnW73Tsxg.ttf',
-    popularityRank: 1034,
+    popularityRank: 980,
   ),
   WebFont(
     family: 'Monomakh',
@@ -21243,7 +21243,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/monomakh/v1/Wnz4HAk3Yh_SC3FACQYcgg4.ttf',
-    popularityRank: 1347,
+    popularityRank: 1326,
   ),
   WebFont(
     family: 'Monomaniac One',
@@ -21260,7 +21260,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/monomaniacone/v15/4iC06K17YctZjx50EU-QlwPmcpRmo40.ttf',
-    popularityRank: 775,
+    popularityRank: 758,
   ),
   WebFont(
     family: 'Monoton',
@@ -21273,7 +21273,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/monoton/v22/5h1aiZUrOngCibe4TkfLRw.ttf',
-    popularityRank: 345,
+    popularityRank: 333,
   ),
   WebFont(
     family: 'Monsieur La Doulaise',
@@ -21286,7 +21286,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/monsieurladoulaise/v20/_Xmz-GY4rjmCbQfc-aPRaa4pqV340p7EZm5fyEU.ttf',
-    popularityRank: 714,
+    popularityRank: 679,
   ),
   WebFont(
     family: 'Montaga',
@@ -21299,7 +21299,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/montaga/v14/H4cnBX2Ml8rCkEO_4gca6A.ttf',
-    popularityRank: 1104,
+    popularityRank: 1102,
   ),
   WebFont(
     family: 'Montagu Slab',
@@ -21322,7 +21322,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbEkP8HMo.ttf',
-    popularityRank: 643,
+    popularityRank: 672,
   ),
   WebFont(
     family: 'MonteCarlo',
@@ -21339,7 +21339,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/montecarlo/v13/buEzpo6-f9X01GadLA0G4Csf-A.ttf',
-    popularityRank: 857,
+    popularityRank: 911,
   ),
   WebFont(
     family: 'Montenegrin Gothic One',
@@ -21352,7 +21352,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/montenegringothicone/v2/Z9XHDnlOQBOL3vX7a9a3psnL-c3rnUnyw7QarwdeHA.ttf',
-    popularityRank: 1271,
+    popularityRank: 1622,
   ),
   WebFont(
     family: 'Montez',
@@ -21365,7 +21365,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/montez/v25/845ZNMk5GoGIX8lW1bra.ttf',
-    popularityRank: 906,
+    popularityRank: 898,
   ),
   WebFont(
     family: 'Montserrat',
@@ -21475,7 +21475,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/montserratalternates/v18/mFTvWacfw6zH4dthXcyms1lPpC8I_b0juU057afV.ttf',
-    popularityRank: 224,
+    popularityRank: 220,
   ),
   WebFont(
     family: 'Montserrat Underline',
@@ -21530,7 +21530,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/montserratunderline/v3/mFTbWaYfw6zH4dthXcyms01NtC8I_7U5uQQi5HMFnSdEx2F5WihMuLzb.ttf',
-    popularityRank: 1341,
+    popularityRank: 1321,
   ),
   WebFont(
     family: 'Moo Lah Lah',
@@ -21547,7 +21547,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/moolahlah/v8/dg4h_p_opKZOA0w1AYcm56wsawI.ttf',
-    popularityRank: 1600,
+    popularityRank: 1716,
   ),
   WebFont(
     family: 'Mooli',
@@ -21561,7 +21561,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mooli/v1/-F6_fjJpLyk1bbPADmo.ttf',
-    popularityRank: 1030,
+    popularityRank: 1070,
   ),
   WebFont(
     family: 'Moon Dance',
@@ -21578,7 +21578,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/moondance/v8/WBLgrEbUbFlYW9ekmGawS2ToLA.ttf',
-    popularityRank: 942,
+    popularityRank: 929,
   ),
   WebFont(
     family: 'Moul',
@@ -21592,7 +21592,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/moul/v30/nuF2D__FSo_3I-VSjA.ttf',
-    popularityRank: 1012,
+    popularityRank: 1038,
   ),
   WebFont(
     family: 'Moulpali',
@@ -21606,7 +21606,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/moulpali/v33/H4ckBXKMl9HagUWymxY7yLs.ttf',
-    popularityRank: 1568,
+    popularityRank: 1296,
   ),
   WebFont(
     family: 'Mountains of Christmas',
@@ -21620,7 +21620,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eDNesNA.ttf',
-    popularityRank: 780,
+    popularityRank: 782,
   ),
   WebFont(
     family: 'Mouse Memoirs',
@@ -21633,7 +21633,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mousememoirs/v19/t5tmIRoSNJ-PH0WNNgDYxdSb3TjPqg.ttf',
-    popularityRank: 742,
+    popularityRank: 726,
   ),
   WebFont(
     family: 'Mozilla Headline',
@@ -21651,7 +21651,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mozillaheadline/v1/QGYLz-UXahmCOps4kyMKGuSA9pYt2_P-w2kFrS88o6cVYRvBSDSOuerB_FOB4IYlZBZr.ttf',
-    popularityRank: 1111,
+    popularityRank: 1106,
   ),
   WebFont(
     family: 'Mozilla Text',
@@ -21669,7 +21669,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB4UcDNFbUQ.ttf',
-    popularityRank: 1037,
+    popularityRank: 1056,
   ),
   WebFont(
     family: 'Mr Bedfort',
@@ -21682,7 +21682,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/mrbedfort/v23/MQpR-WCtNZSWAdTMwBicpiu-WQ.ttf',
-    popularityRank: 1507,
+    popularityRank: 1487,
   ),
   WebFont(
     family: 'Mr Dafoe',
@@ -21695,7 +21695,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/mrdafoe/v15/lJwE-pIzkS5NXuMMrFiribc.ttf',
-    popularityRank: 445,
+    popularityRank: 467,
   ),
   WebFont(
     family: 'Mr De Haviland',
@@ -21708,7 +21708,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/mrdehaviland/v15/OpNVnooIhJj96FdB73296ksbOg3D60Y.ttf',
-    popularityRank: 849,
+    popularityRank: 801,
   ),
   WebFont(
     family: 'Mrs Saint Delafield',
@@ -21721,7 +21721,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/mrssaintdelafield/v14/v6-IGZDIOVXH9xtmTZfRagunqBw5WC62QK8nKg.ttf',
-    popularityRank: 511,
+    popularityRank: 507,
   ),
   WebFont(
     family: 'Mrs Sheppards',
@@ -21734,7 +21734,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/mrssheppards/v25/PN_2Rfm9snC0XUGoEZhb91ig7vn7zg.ttf',
-    popularityRank: 1301,
+    popularityRank: 1360,
   ),
   WebFont(
     family: 'Ms Madi',
@@ -21751,7 +21751,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/msmadi/v2/HTxsL2UxNnOji5E1B-HFjA.ttf',
-    popularityRank: 512,
+    popularityRank: 499,
   ),
   WebFont(
     family: 'Mukta',
@@ -21775,7 +21775,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mukta/v17/iJWKBXyXfDDVXbnHrXk.ttf',
-    popularityRank: 81,
+    popularityRank: 96,
   ),
   WebFont(
     family: 'Mukta Mahee',
@@ -21798,7 +21798,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/muktamahee/v19/XRXQ3IOIi0hcP8iVU67hA9vMUTo.ttf',
-    popularityRank: 865,
+    popularityRank: 851,
   ),
   WebFont(
     family: 'Mukta Malar',
@@ -21817,7 +21817,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/muktamalar/v14/MCoXzAXyz8LOE2FpJMxZqIv5J_A.ttf',
-    popularityRank: 417,
+    popularityRank: 442,
   ),
   WebFont(
     family: 'Mukta Vaani',
@@ -21840,7 +21840,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/muktavaani/v15/3Jn5SD_-ynaxmxnEfVHPIG0EduA.ttf',
-    popularityRank: 866,
+    popularityRank: 869,
   ),
   WebFont(
     family: 'Mulish',
@@ -21891,7 +21891,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/mulish/v18/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNR8aGvHg.ttf',
-    popularityRank: 40,
+    popularityRank: 41,
   ),
   WebFont(
     family: 'Murecho',
@@ -21929,7 +21929,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/murecho/v17/q5uYsoq3NOBn_I-ggCJg98TBOoNFCMpr5UWYJi4.ttf',
-    popularityRank: 452,
+    popularityRank: 456,
   ),
   WebFont(
     family: 'MuseoModerno',
@@ -21982,7 +21982,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/museomoderno/v29/zrf30HnU0_7wWdMrFcWqSEXPVyEaWJ55pTleMlZEie0QiQ.ttf',
-    popularityRank: 498,
+    popularityRank: 489,
   ),
   WebFont(
     family: 'My Soul',
@@ -21999,7 +21999,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/mysoul/v7/3XFqErcuy945_u6KJ_Qvlw.ttf',
-    popularityRank: 1311,
+    popularityRank: 1319,
   ),
   WebFont(
     family: 'Mynerve',
@@ -22017,7 +22017,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/mynerve/v8/P5sCzZKPdNjb4jt79CVkjQ.ttf',
-    popularityRank: 1130,
+    popularityRank: 1166,
   ),
   WebFont(
     family: 'Mystery Quest',
@@ -22030,7 +22030,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/mysteryquest/v21/-nF6OG414u0E6k0wynSGlujRLwAvCw.ttf',
-    popularityRank: 1239,
+    popularityRank: 1244,
   ),
   WebFont(
     family: 'NTR',
@@ -22044,7 +22044,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ntr/v19/RLpzK5Xy0ZjSGWJo.ttf',
-    popularityRank: 992,
+    popularityRank: 1015,
   ),
   WebFont(
     family: 'Nabla',
@@ -22063,7 +22063,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/nabla/v17/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRBRFeEA.ttf',
-    popularityRank: 1226,
+    popularityRank: 1283,
   ),
   WebFont(
     family: 'Namdhinggo',
@@ -22080,7 +22080,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/namdhinggo/v2/uk-mEGe3rbgg8Xzoy5-TPnSp5w.ttf',
-    popularityRank: 1755,
+    popularityRank: 1728,
   ),
   WebFont(
     family: 'Nanum Brush Script',
@@ -22093,7 +22093,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/nanumbrushscript/v26/wXK2E2wfpokopxzthSqPbcR5_gVaxazCj6pv.ttf',
-    popularityRank: 567,
+    popularityRank: 644,
   ),
   WebFont(
     family: 'Nanum Gothic',
@@ -22108,7 +22108,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/nanumgothic/v26/PN_3Rfi-oW3hYwmKDpxS7F_D_9jb.ttf',
-    popularityRank: 82,
+    popularityRank: 79,
   ),
   WebFont(
     family: 'Nanum Gothic Coding',
@@ -22122,7 +22122,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/nanumgothiccoding/v27/8QIVdjzHisX_8vv59_xMxtPFW4IXROws-6U7Ug.ttf',
-    popularityRank: 282,
+    popularityRank: 262,
   ),
   WebFont(
     family: 'Nanum Myeongjo',
@@ -22137,7 +22137,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/nanummyeongjo/v31/9Btx3DZF0dXLMZlywRbVRNhxy2LqcnA.ttf',
-    popularityRank: 167,
+    popularityRank: 168,
   ),
   WebFont(
     family: 'Nanum Pen Script',
@@ -22150,7 +22150,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/nanumpenscript/v25/daaDSSYiLGqEal3MvdA_FOL_3FkN6z_0bA.ttf',
-    popularityRank: 392,
+    popularityRank: 386,
   ),
   WebFont(
     family: 'Narnoor',
@@ -22173,7 +22173,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/narnoor/v10/cIf9MaFWuVo-UTyP9CihZA.ttf',
-    popularityRank: 1398,
+    popularityRank: 1627,
   ),
   WebFont(
     family: 'Nata Sans',
@@ -22210,7 +22210,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/natasans/v1/1q2XY5KBClBit88SU_tUw-brVNlaeZChg6wJ2gyG7w.ttf',
-    popularityRank: 874,
+    popularityRank: 947,
   ),
   WebFont(
     family: 'National Park',
@@ -22233,7 +22233,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/nationalpark/v4/GftQ7vJOtg4NO-gmoY4nmcqP-VY9vs1ixcqgHfJ_b6XNfII.ttf',
-    popularityRank: 1360,
+    popularityRank: 1377,
   ),
   WebFont(
     family: 'Neonderthaw',
@@ -22250,7 +22250,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/neonderthaw/v8/Iure6Yx5-oWVZI0r-17AeaZIrLE.ttf',
-    popularityRank: 1452,
+    popularityRank: 1442,
   ),
   WebFont(
     family: 'Nerko One',
@@ -22264,7 +22264,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/nerkoone/v17/m8JQjfZSc7OXlB3ZMOjDcZRF.ttf',
-    popularityRank: 966,
+    popularityRank: 688,
   ),
   WebFont(
     family: 'Neucha',
@@ -22277,7 +22277,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/neucha/v18/q5uGsou0JOdh94bfuwlo.ttf',
-    popularityRank: 557,
+    popularityRank: 559,
   ),
   WebFont(
     family: 'Neuton',
@@ -22295,7 +22295,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/neuton/v24/UMBTrPtMoH62xUZCyYg_.ttf',
-    popularityRank: 332,
+    popularityRank: 358,
   ),
   WebFont(
     family: 'New Amsterdam',
@@ -22308,7 +22308,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/newamsterdam/v1/YA9Vr02Y5lucHqUlbEe51kBtp7iMjg.ttf',
-    popularityRank: 1305,
+    popularityRank: 1469,
   ),
   WebFont(
     family: 'New Rocker',
@@ -22321,7 +22321,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/newrocker/v17/MwQzbhjp3-HImzcCU_cJoGIfjQ.ttf',
-    popularityRank: 968,
+    popularityRank: 972,
   ),
   WebFont(
     family: 'New Tegomin',
@@ -22338,7 +22338,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/newtegomin/v13/SLXMc1fV7Gd9USdBAfPlqcN1SX4.ttf',
-    popularityRank: 917,
+    popularityRank: 1049,
   ),
   WebFont(
     family: 'News Cycle',
@@ -22360,7 +22360,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/newscycle/v26/CSR64z1Qlv-GDxkbKVQ_fOYKSA.ttf',
-    popularityRank: 193,
+    popularityRank: 194,
   ),
   WebFont(
     family: 'Newsreader',
@@ -22405,7 +22405,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/newsreader/v26/cY9qfjOCX1hbuyalUrK49dLac06G1ZGsZBtoBCzBDXXD9JVF438weI_wDeZA.ttf',
-    popularityRank: 134,
+    popularityRank: 137,
   ),
   WebFont(
     family: 'Niconne',
@@ -22418,7 +22418,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/niconne/v16/w8gaH2QvRug1_rTfnQqn3A.ttf',
-    popularityRank: 595,
+    popularityRank: 600,
   ),
   WebFont(
     family: 'Niramit',
@@ -22460,7 +22460,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/niramit/v12/I_uuMpWdvgLdNxVLXbValg.ttf',
-    popularityRank: 459,
+    popularityRank: 465,
   ),
   WebFont(
     family: 'Nixie One',
@@ -22474,7 +22474,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/nixieone/v17/lW-8wjkKLXjg5y2o2uUYUet3.ttf',
-    popularityRank: 490,
+    popularityRank: 545,
   ),
   WebFont(
     family: 'Nobile',
@@ -22496,7 +22496,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/nobile/v19/m8JTjflSeaOVl1iGX63T.ttf',
-    popularityRank: 659,
+    popularityRank: 663,
   ),
   WebFont(
     family: 'Nokora',
@@ -22527,7 +22527,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/nokora/v34/hYkVPuwgTubzaWxKMBj_emrD9wtMuj1fQbOjcA.ttf',
-    popularityRank: 987,
+    popularityRank: 1029,
   ),
   WebFont(
     family: 'Norican',
@@ -22540,7 +22540,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/norican/v16/MwQ2bhXp1eSBqjkPKJNbsA.ttf',
-    popularityRank: 671,
+    popularityRank: 684,
   ),
   WebFont(
     family: 'Nosifer',
@@ -22553,7 +22553,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/nosifer/v23/ZGjXol5JTp0g5bxZWCxbUA.ttf',
-    popularityRank: 982,
+    popularityRank: 933,
   ),
   WebFont(
     family: 'Notable',
@@ -22566,7 +22566,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notable/v20/gNMEW3N_SIqx-WX9yHIiEA.ttf',
-    popularityRank: 1089,
+    popularityRank: 1155,
   ),
   WebFont(
     family: 'Nothing You Could Do',
@@ -22579,7 +22579,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/nothingyoucoulddo/v21/oY1B8fbBpaP5OX3DtrRYf_Q2BPB1SnfZb3OInV4.ttf',
-    popularityRank: 451,
+    popularityRank: 439,
   ),
   WebFont(
     family: 'Noticia Text',
@@ -22599,7 +22599,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/noticiatext/v16/VuJ2dNDF2Yv9qppOePKYRP12YDtd.ttf',
-    popularityRank: 273,
+    popularityRank: 265,
   ),
   WebFont(
     family: 'Noto Color Emoji',
@@ -22629,7 +22629,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0gwuQeU.ttf',
-    popularityRank: 737,
+    popularityRank: 734,
   ),
   WebFont(
     family: 'Noto Kufi Arabic',
@@ -22666,7 +22666,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notokufiarabic/v27/CSRp4ydQnPyaDxEXLFF6LZVLKrodhu8t57o1kDc5Wh5v37bOlrA.ttf',
-    popularityRank: 200,
+    popularityRank: 196,
   ),
   WebFont(
     family: 'Noto Music',
@@ -22679,7 +22679,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notomusic/v21/pe0rMIiSN5pO63htf1sxEtaaAw.ttf',
-    popularityRank: 1277,
+    popularityRank: 1246,
   ),
   WebFont(
     family: 'Noto Naskh Arabic',
@@ -22701,7 +22701,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notonaskharabic/v44/RrQ5bpV-9Dd1b1OAGA6M9PkyDuVBePeKNaxcsss0Y7bwvc5Urac3.ttf',
-    popularityRank: 253,
+    popularityRank: 250,
   ),
   WebFont(
     family: 'Noto Nastaliq Urdu',
@@ -22721,7 +22721,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qt_-PKyV3w.ttf',
-    popularityRank: 196,
+    popularityRank: 226,
   ),
   WebFont(
     family: 'Noto Rashi Hebrew',
@@ -22757,7 +22757,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notorashihebrew/v28/EJR_Qh82XsIK-QFmqXk4zvLwFVya0vFL-HlKM5e6C6HZB-HURiC-.ttf',
-    popularityRank: 1512,
+    popularityRank: 1496,
   ),
   WebFont(
     family: 'Noto Sans',
@@ -22815,7 +22815,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosans/v42/o-0mIpQlx3QUlC5A4PNB6Ryti20_6n1iPHjcz6L1SoM-jCpoiyD9A-9c6Vc.ttf',
-    popularityRank: 12,
+    popularityRank: 13,
   ),
   WebFont(
     family: 'Noto Sans Adlam',
@@ -22831,7 +22831,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansadlam/v27/neIczCCpqp0s5pPusPamd81eMfjPonvqdbYxxpgufnv0fGjLYA.ttf',
-    popularityRank: 1559,
+    popularityRank: 1570,
   ),
   WebFont(
     family: 'Noto Sans Adlam Unjoined',
@@ -22847,7 +22847,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansadlamunjoined/v28/P5sszY2MYsLRsB5_ildkzPPDsLQXcOEmaFOqOGcaYrzFTIjsPam_Ye35DMAU_A.ttf',
-    popularityRank: 1746,
+    popularityRank: 1754,
   ),
   WebFont(
     family: 'Noto Sans Anatolian Hieroglyphs',
@@ -22864,7 +22864,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v17/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWbyfCzg.ttf',
-    popularityRank: 1502,
+    popularityRank: 1499,
   ),
   WebFont(
     family: 'Noto Sans Arabic',
@@ -22901,7 +22901,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansarabic/v33/nwpxtLGrOAZMl5nJ_wfgRg3DrWFZWsnVBJ_sS6tlqHHFlhQ5l3sQWIHPqzCfyGyfunqF.ttf',
-    popularityRank: 109,
+    popularityRank: 118,
   ),
   WebFont(
     family: 'Noto Sans Armenian',
@@ -22936,7 +22936,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansarmenian/v47/ZgN0jOZKPa7CHqq0h37c7ReDUubm2SEdFXp7ig73qtTY5idb74R9UdM3y2nZLorxb50jaSo.ttf',
-    popularityRank: 806,
+    popularityRank: 790,
   ),
   WebFont(
     family: 'Noto Sans Avestan',
@@ -22953,7 +22953,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansavestan/v22/bWti7ejKfBziStx7lIzKOLQZKhIJkxu8QgA.ttf',
-    popularityRank: 1691,
+    popularityRank: 1746,
   ),
   WebFont(
     family: 'Noto Sans Balinese',
@@ -22973,7 +22973,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansbalinese/v27/NaPwcYvSBuhTirw6IaFn6UrRDaqje-lpbbRtYf-Fwu2Ov7fdtE9fcw.ttf',
-    popularityRank: 1774,
+    popularityRank: 1686,
   ),
   WebFont(
     family: 'Noto Sans Bamum',
@@ -22989,7 +22989,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansbamum/v35/uk-0EGK3o6EruUbnwovcbBTkkklK_Ya_PBHfNGTPEddOy_kBzg.ttf',
-    popularityRank: 1725,
+    popularityRank: 1737,
   ),
   WebFont(
     family: 'Noto Sans Bassa Vah',
@@ -23009,7 +23009,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAf6o1Yw.ttf',
-    popularityRank: 1866,
+    popularityRank: 1842,
   ),
   WebFont(
     family: 'Noto Sans Batak',
@@ -23022,7 +23022,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansbatak/v23/gok2H6TwAEdtF9N8-mdTCQvT-ZdQooXL.ttf',
-    popularityRank: 1561,
+    popularityRank: 1601,
   ),
   WebFont(
     family: 'Noto Sans Bengali',
@@ -23057,7 +23057,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansbengali/v33/Cn-SJsCGWQxOjaGwMQ6fIiMywrNJIky6nvd8BjzVMvJx2mcSPVFpVEqE-6KmsolLidGu9g.ttf',
-    popularityRank: 269,
+    popularityRank: 259,
   ),
   WebFont(
     family: 'Noto Sans Bhaiksuki',
@@ -23074,7 +23074,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansbhaiksuki/v18/UcC63EosKniBH4iELXATsSBWdvUHXxhjwrPecQ.ttf',
-    popularityRank: 1308,
+    popularityRank: 1297,
   ),
   WebFont(
     family: 'Noto Sans Brahmi',
@@ -23093,7 +23093,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansbrahmi/v20/vEFK2-VODB8RrNDvZSUmQQIIByV1wtO_Xw.ttf',
-    popularityRank: 1819,
+    popularityRank: 1620,
   ),
   WebFont(
     family: 'Noto Sans Buginese',
@@ -23110,7 +23110,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansbuginese/v21/esDM30ldNv-KYGGJpKGk18phe_7Da6_QtPGA.ttf',
-    popularityRank: 1823,
+    popularityRank: 1841,
   ),
   WebFont(
     family: 'Noto Sans Buhid',
@@ -23123,7 +23123,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansbuhid/v23/Dxxy8jiXMW75w3OmoDXVWJD7YwzweqFk.ttf',
-    popularityRank: 1280,
+    popularityRank: 1284,
   ),
   WebFont(
     family: 'Noto Sans Canadian Aboriginal',
@@ -23160,7 +23160,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanscanadianaboriginal/v28/4C_TLjTuEqPj-8J01CwaGkiZ9os0iGVkezM1mUT-j_Lmlzda6uH_nnX1bzigWLnPyQEk.ttf',
-    popularityRank: 1429,
+    popularityRank: 1348,
   ),
   WebFont(
     family: 'Noto Sans Carian',
@@ -23177,7 +23177,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanscarian/v17/LDIpaoiONgYwA9Yc6f0gUILeMIOgg7sR8w.ttf',
-    popularityRank: 1587,
+    popularityRank: 1583,
   ),
   WebFont(
     family: 'Noto Sans Caucasian Albanian',
@@ -23194,7 +23194,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanscaucasianalbanian/v19/nKKA-HM_FYFRJvXzVXaANsU0VzsAc46QGOkWytlTs-TXnYHspQ.ttf',
-    popularityRank: 1848,
+    popularityRank: 1859,
   ),
   WebFont(
     family: 'Noto Sans Chakma',
@@ -23211,7 +23211,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanschakma/v19/Y4GQYbJ8VTEp4t3MKJSMjg5OIzhi0JnZRg.ttf',
-    popularityRank: 1837,
+    popularityRank: 1838,
   ),
   WebFont(
     family: 'Noto Sans Cham',
@@ -23242,7 +23242,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanscham/v33/pe06MIySN5pO62Z5YkFyQb_bbuRhe6D4yip43qfcERwsvru2.ttf',
-    popularityRank: 1835,
+    popularityRank: 1830,
   ),
   WebFont(
     family: 'Noto Sans Cherokee',
@@ -23277,7 +23277,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanscherokee/v25/KFOPCm6Yu8uF-29fiz9vQF9YWK6Z8O10cHNA0cSkZCHYWi5PPkizqA.ttf',
-    popularityRank: 1664,
+    popularityRank: 1605,
   ),
   WebFont(
     family: 'Noto Sans Chorasmian',
@@ -23296,7 +23296,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanschorasmian/v3/MQpL-X6uKMC7ROPLwRnI9ULxK_7NVkf8S6vzqno.ttf',
-    popularityRank: 1894,
+    popularityRank: 1886,
   ),
   WebFont(
     family: 'Noto Sans Coptic',
@@ -23313,7 +23313,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanscoptic/v22/iJWfBWmUZi_OHPqn4wq6kgqumOEd38q1UA.ttf',
-    popularityRank: 1611,
+    popularityRank: 1594,
   ),
   WebFont(
     family: 'Noto Sans Cuneiform',
@@ -23330,7 +23330,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanscuneiform/v18/bMrrmTWK7YY-MF22aHGGd7H8PhJtvBDWsb5DkQ.ttf',
-    popularityRank: 1807,
+    popularityRank: 1811,
   ),
   WebFont(
     family: 'Noto Sans Cypriot',
@@ -23347,7 +23347,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanscypriot/v20/8AtzGta9PYqQDjyp79a6f8Cj-3a3cyItIZc.ttf',
-    popularityRank: 1858,
+    popularityRank: 1856,
   ),
   WebFont(
     family: 'Noto Sans Cypro Minoan',
@@ -23364,7 +23364,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanscyprominoan/v1/2Eb2L_dtDUlkNmPHB_UVtEzp3ZlPGqZ_4nAGm9aYew.ttf',
-    popularityRank: 1673,
+    popularityRank: 1667,
   ),
   WebFont(
     family: 'Noto Sans Deseret',
@@ -23381,7 +23381,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansdeseret/v18/MwQsbgPp1eKH6QsAVuFb9AZM6MMr2Wq8bHY.ttf',
-    popularityRank: 1901,
+    popularityRank: 1892,
   ),
   WebFont(
     family: 'Noto Sans Devanagari',
@@ -23473,7 +23473,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKZTCa3g.ttf',
-    popularityRank: 238,
+    popularityRank: 245,
   ),
   WebFont(
     family: 'Noto Sans Duployan',
@@ -23491,7 +23491,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansduployan/v19/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvbF8gj.ttf',
-    popularityRank: 1653,
+    popularityRank: 1670,
   ),
   WebFont(
     family: 'Noto Sans Egyptian Hieroglyphs',
@@ -23508,7 +23508,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v30/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYintSFi4.ttf',
-    popularityRank: 1724,
+    popularityRank: 1726,
   ),
   WebFont(
     family: 'Noto Sans Elbasan',
@@ -23525,7 +23525,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanselbasan/v17/-F6rfiZqLzI2JPCgQBnw400qp1trvEdkp-o.ttf',
-    popularityRank: 1779,
+    popularityRank: 1793,
   ),
   WebFont(
     family: 'Noto Sans Elymaic',
@@ -23542,7 +23542,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanselymaic/v18/UqyKK9YTJW5liNMhTMqe9vUFP65ZD7AiUuA.ttf',
-    popularityRank: 1872,
+    popularityRank: 1883,
   ),
   WebFont(
     family: 'Noto Sans Ethiopic',
@@ -23577,7 +23577,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansethiopic/v50/7cHPv50vjIepfJVOZZgcpQ5B9FBTH9KGNfhSTgtoow1KVnIvyBoMSzUMacb-T35OK5DiyGM.ttf',
-    popularityRank: 1085,
+    popularityRank: 1131,
   ),
   WebFont(
     family: 'Noto Sans Georgian',
@@ -23616,7 +23616,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansgeorgian/v48/PlIaFke5O6RzLfvNNVSitxkr76PRHBC4Ytyq-Gof7PUs4S7zWn-8YDB09HFNdpvnzGj_dZE.ttf',
-    popularityRank: 613,
+    popularityRank: 667,
   ),
   WebFont(
     family: 'Noto Sans Glagolitic',
@@ -23636,7 +23636,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansglagolitic/v19/1q2ZY4-BBFBst88SU_tOj4J-4yuNF_HI4HRL6g0.ttf',
-    popularityRank: 1628,
+    popularityRank: 1651,
   ),
   WebFont(
     family: 'Noto Sans Gothic',
@@ -23653,7 +23653,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansgothic/v17/TuGKUUVzXI5FBtUq5a8bj6wRbzxTJMTy1g.ttf',
-    popularityRank: 1423,
+    popularityRank: 1343,
   ),
   WebFont(
     family: 'Noto Sans Grantha',
@@ -23670,7 +23670,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansgrantha/v20/3y976akwcCjmsU8NDyrKo3IQfQ4o-o8dH-8.ttf',
-    popularityRank: 1765,
+    popularityRank: 1756,
   ),
   WebFont(
     family: 'Noto Sans Gujarati',
@@ -23707,7 +23707,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFzPN9uM.ttf',
-    popularityRank: 487,
+    popularityRank: 505,
   ),
   WebFont(
     family: 'Noto Sans Gunjala Gondi',
@@ -23727,7 +23727,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansgunjalagondi/v21/bWtX7e7KfBziStx7lIzKPrcSMwcEnCv6DW7n5g0ef3PLtymzNxYL4YD04ZQr.ttf',
-    popularityRank: 1876,
+    popularityRank: 1861,
   ),
   WebFont(
     family: 'Noto Sans Gurmukhi',
@@ -23762,7 +23762,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansgurmukhi/v29/w8g9H3EvQP81sInb43inmyN9zZ7hb7ATbSWo4q8dJ74a3cVrYFQ_bogT0-gPeG1Oekbwbf8.ttf',
-    popularityRank: 598,
+    popularityRank: 609,
   ),
   WebFont(
     family: 'Noto Sans HK',
@@ -23799,7 +23799,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanshk/v35/nKKF-GM_FYFRJvXzVXaAPe97P1KHynJFP716qHB-yoSZjQ.ttf',
-    popularityRank: 359,
+    popularityRank: 377,
   ),
   WebFont(
     family: 'Noto Sans Hanifi Rohingya',
@@ -23819,7 +23819,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4g6ut88.ttf',
-    popularityRank: 1731,
+    popularityRank: 1544,
   ),
   WebFont(
     family: 'Noto Sans Hanunoo',
@@ -23836,7 +23836,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanshanunoo/v22/f0Xs0fCv8dxkDWlZSoXOj6CphMloFvEtGJw.ttf',
-    popularityRank: 1549,
+    popularityRank: 1617,
   ),
   WebFont(
     family: 'Noto Sans Hatran',
@@ -23853,7 +23853,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanshatran/v17/A2BBn4Ne0RgnVF3Lnko-0sOBIfL_qM49qw.ttf',
-    popularityRank: 1883,
+    popularityRank: 1871,
   ),
   WebFont(
     family: 'Noto Sans Hebrew',
@@ -23890,7 +23890,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanshebrew/v50/or3HQ7v33eiDljA1IufXTtVf7V6RvEEdhQlk0LlGxCyaeNKYZC0sqk3xXGiXd4qdoyhh.ttf',
-    popularityRank: 316,
+    popularityRank: 315,
   ),
   WebFont(
     family: 'Noto Sans Imperial Aramaic',
@@ -23907,7 +23907,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansimperialaramaic/v18/a8IMNpjwKmHXpgXbMIsbTc_kvks91LlLetBr5itQrudnnXI.ttf',
-    popularityRank: 1825,
+    popularityRank: 1823,
   ),
   WebFont(
     family: 'Noto Sans Indic Siyaq Numbers',
@@ -23924,7 +23924,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansindicsiyaqnumbers/v17/6xK5dTJFKcWIu4bpRBjRZRpsIYHabOeZ8UZLubTzpXNHKy2XNu4.ttf',
-    popularityRank: 1781,
+    popularityRank: 1785,
   ),
   WebFont(
     family: 'Noto Sans Inscriptional Pahlavi',
@@ -23941,7 +23941,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v18/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCZtufPA.ttf',
-    popularityRank: 1828,
+    popularityRank: 1835,
   ),
   WebFont(
     family: 'Noto Sans Inscriptional Parthian',
@@ -23958,7 +23958,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansinscriptionalparthian/v18/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2ykmBI0Dc.ttf',
-    popularityRank: 1827,
+    popularityRank: 1817,
   ),
   WebFont(
     family: 'Noto Sans JP',
@@ -24015,7 +24015,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkJFhoYQ.ttf',
-    popularityRank: 1543,
+    popularityRank: 1539,
   ),
   WebFont(
     family: 'Noto Sans KR',
@@ -24052,7 +24052,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanskr/v39/PbyxFmXiEBPT4ITbgNA5Cgms3VYcOA-vvnIzzuoySLXg9A.ttf',
-    popularityRank: 24,
+    popularityRank: 23,
   ),
   WebFont(
     family: 'Noto Sans Kaithi',
@@ -24069,7 +24069,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanskaithi/v23/buEtppS9f8_vkXadMBJJu0tWjLwjciwAcg.ttf',
-    popularityRank: 1517,
+    popularityRank: 1600,
   ),
   WebFont(
     family: 'Noto Sans Kannada',
@@ -24104,7 +24104,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanskannada/v32/8vIs7xs32H97qzQKnzfeXycxXZyUmySvZWItmf1fe6TVmgop9ndpS-BqHEyGrDvN_SMGKg.ttf',
-    popularityRank: 577,
+    popularityRank: 612,
   ),
   WebFont(
     family: 'Noto Sans Kawi',
@@ -24120,7 +24120,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanskawi/v5/92zBtBJLNqsg7tCciW0EPHNNh1ZgbtGWiTYDjvnK4AhWC552.ttf',
-    popularityRank: 1861,
+    popularityRank: 1865,
   ),
   WebFont(
     family: 'Noto Sans Kayah Li',
@@ -24140,7 +24140,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3OZDyFQ.ttf',
-    popularityRank: 1874,
+    popularityRank: 1868,
   ),
   WebFont(
     family: 'Noto Sans Kharoshthi',
@@ -24157,7 +24157,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanskharoshthi/v17/Fh4qPiLjKS30-P4-pGMMXCCfvkc5Vd7KE6z5plg.ttf',
-    popularityRank: 1877,
+    popularityRank: 1907,
   ),
   WebFont(
     family: 'Noto Sans Khmer',
@@ -24188,7 +24188,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanskhmer/v29/ijw3s5roRME5LLRxjsRb-gssOenAyendxrgV2c-Zw-9vbVUti_Z_dWgtWYuNAKz5mgI.ttf',
-    popularityRank: 89,
+    popularityRank: 84,
   ),
   WebFont(
     family: 'Noto Sans Khojki',
@@ -24205,7 +24205,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanskhojki/v20/-nFnOHM29Oofr2wohFbTuPPKVWpmG_Zx1w.ttf',
-    popularityRank: 1735,
+    popularityRank: 1803,
   ),
   WebFont(
     family: 'Noto Sans Khudawadi',
@@ -24222,7 +24222,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanskhudawadi/v23/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHEjVtUQ.ttf',
-    popularityRank: 1885,
+    popularityRank: 1882,
   ),
   WebFont(
     family: 'Noto Sans Lao',
@@ -24253,7 +24253,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanslao/v33/bx6lNx2Ol_ixgdYWLm9BwxM3NW6BOkuf763Clj73CiQ_J1Djx9pidOt4ccbtfpkO.ttf',
-    popularityRank: 920,
+    popularityRank: 904,
   ),
   WebFont(
     family: 'Noto Sans Lao Looped',
@@ -24284,7 +24284,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanslaolooped/v10/a8IgNpbwKmHXpgXbMIsbSMP7-3U72qUOX5gBg6LRXExhqHIX9YPTpvqkW4UthhjomPr3A-d64Q.ttf',
-    popularityRank: 1501,
+    popularityRank: 1488,
   ),
   WebFont(
     family: 'Noto Sans Lepcha',
@@ -24301,7 +24301,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanslepcha/v20/0QI7MWlB_JWgA166SKhu05TekNS36ANmsg.ttf',
-    popularityRank: 1899,
+    popularityRank: 1905,
   ),
   WebFont(
     family: 'Noto Sans Limbu',
@@ -24314,7 +24314,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanslimbu/v26/3JnlSDv90Gmq2mrzckOBBRRoNJVT0ctz.ttf',
-    popularityRank: 1884,
+    popularityRank: 1872,
   ),
   WebFont(
     family: 'Noto Sans Linear A',
@@ -24331,7 +24331,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanslineara/v19/oPWS_l16kP4jCuhpgEGmwJOiA18FZj2Gz2vU.ttf',
-    popularityRank: 1530,
+    popularityRank: 1323,
   ),
   WebFont(
     family: 'Noto Sans Linear B',
@@ -24348,7 +24348,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanslinearb/v18/HhyJU4wt9vSgfHoORYOiXOckKNB737Il3RMB.ttf',
-    popularityRank: 1851,
+    popularityRank: 1858,
   ),
   WebFont(
     family: 'Noto Sans Lisu',
@@ -24364,7 +24364,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanslisu/v27/uk-3EGO3o6EruUbnwovcYhz6kh57_nqbcTdjJnHP2Vwd2tgh.ttf',
-    popularityRank: 1778,
+    popularityRank: 1781,
   ),
   WebFont(
     family: 'Noto Sans Lycian',
@@ -24377,7 +24377,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanslycian/v16/QldVNSNMqAsHtsJ7UmqxBQA9r8wA1_jQDA.ttf',
-    popularityRank: 1915,
+    popularityRank: 1920,
   ),
   WebFont(
     family: 'Noto Sans Lydian',
@@ -24394,7 +24394,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPRSULdNg.ttf',
-    popularityRank: 1772,
+    popularityRank: 1784,
   ),
   WebFont(
     family: 'Noto Sans Mahajani',
@@ -24411,7 +24411,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmahajani/v20/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD51hsoV.ttf',
-    popularityRank: 1793,
+    popularityRank: 1788,
   ),
   WebFont(
     family: 'Noto Sans Malayalam',
@@ -24446,7 +24446,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmalayalam/v29/sJoi3K5XjsSdcnzn071rL37lpAOsUThnDZIfPdbeSNzVakglNM-Qw8EaeB8Nss-_RuDNBVbA.ttf',
-    popularityRank: 370,
+    popularityRank: 376,
   ),
   WebFont(
     family: 'Noto Sans Mandaic',
@@ -24463,7 +24463,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmandaic/v18/cIfnMbdWt1w_HgCcilqhKQBo_OsMI6_B9Ac.ttf',
-    popularityRank: 1873,
+    popularityRank: 1903,
   ),
   WebFont(
     family: 'Noto Sans Manichaean',
@@ -24480,7 +24480,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmanichaean/v19/taiVGntiC4--qtsfi4Jp9-_GkPZZCcrfenqDPz8.ttf',
-    popularityRank: 1806,
+    popularityRank: 1844,
   ),
   WebFont(
     family: 'Noto Sans Marchen',
@@ -24497,7 +24497,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmarchen/v21/aFTO7OZ_Y282EP-WyG6QTOX_C8WZMEhOmao.ttf',
-    popularityRank: 1694,
+    popularityRank: 1699,
   ),
   WebFont(
     family: 'Noto Sans Masaram Gondi',
@@ -24514,7 +24514,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmasaramgondi/v19/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPntGf5xY.ttf',
-    popularityRank: 1882,
+    popularityRank: 1877,
   ),
   WebFont(
     family: 'Noto Sans Math',
@@ -24527,7 +24527,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmath/v19/7Aump_cpkSecTWaHRlH2hyV5UEkH81k.ttf',
-    popularityRank: 1192,
+    popularityRank: 1280,
   ),
   WebFont(
     family: 'Noto Sans Mayan Numerals',
@@ -24544,7 +24544,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmayannumerals/v17/PlIuFk25O6RzLfvNNVSivR09_KqYMwvvDKYjfIi06sAs.ttf',
-    popularityRank: 1857,
+    popularityRank: 1839,
   ),
   WebFont(
     family: 'Noto Sans Medefaidrin',
@@ -24564,7 +24564,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmedefaidrin/v29/WwkzxOq6Dk-wranENynkfeVsNbRZtbOIdLb1exeM4ZeuabBfmErWpTz_9Q.ttf',
-    popularityRank: 1709,
+    popularityRank: 1745,
   ),
   WebFont(
     family: 'Noto Sans Meetei Mayek',
@@ -24599,7 +24599,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmeeteimayek/v20/HTxAL3QyKieByqY9eZPFweO0be7M21uSphSdhqILnmrRfJ8t_1TJ_sTX7vw.ttf',
-    popularityRank: 592,
+    popularityRank: 585,
   ),
   WebFont(
     family: 'Noto Sans Mende Kikakui',
@@ -24616,7 +24616,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmendekikakui/v30/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLXx-YjY.ttf',
-    popularityRank: 1575,
+    popularityRank: 1267,
   ),
   WebFont(
     family: 'Noto Sans Meroitic',
@@ -24635,7 +24635,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmeroitic/v19/IFS5HfRJndhE3P4b5jnZ3ITPvC6i00UzgTJX.ttf',
-    popularityRank: 1816,
+    popularityRank: 1787,
   ),
   WebFont(
     family: 'Noto Sans Miao',
@@ -24648,7 +24648,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmiao/v19/Dxxz8jmXMW75w3OmoDXVV4zyZXjhW4E.ttf',
-    popularityRank: 1852,
+    popularityRank: 1850,
   ),
   WebFont(
     family: 'Noto Sans Modi',
@@ -24661,7 +24661,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmodi/v25/pe03MIySN5pO62Z5YkFyT7jeas5rU1Q.ttf',
-    popularityRank: 1896,
+    popularityRank: 1898,
   ),
   WebFont(
     family: 'Noto Sans Mongolian',
@@ -24680,7 +24680,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmongolian/v23/VdGCAYADGIwE0EopZx8xQfHlgEAMsrTo9Loq7w.ttf',
-    popularityRank: 1629,
+    popularityRank: 1638,
   ),
   WebFont(
     family: 'Noto Sans Mono',
@@ -24719,7 +24719,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmono/v37/BngrUXNETWXI6LwhGYvaxZikqZqK6fBq6kPvUce2oAZcdthSBUsYck4-_FNJ09vdUA.ttf',
-    popularityRank: 278,
+    popularityRank: 266,
   ),
   WebFont(
     family: 'Noto Sans Mro',
@@ -24732,7 +24732,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmro/v20/qWcsB6--pZv9TqnUQMhe9b39aD3bsg.ttf',
-    popularityRank: 1846,
+    popularityRank: 1881,
   ),
   WebFont(
     family: 'Noto Sans Multani',
@@ -24749,7 +24749,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmultani/v22/9Bty3ClF38_RfOpe1gCaZ8p30BOFO2A1r_Q.ttf',
-    popularityRank: 1604,
+    popularityRank: 1615,
   ),
   WebFont(
     family: 'Noto Sans Myanmar',
@@ -24784,7 +24784,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansmyanmar/v27/AlZU_y1ZtY3ymOryg38hOCSdOnFq0FP9_gnYM_ME0QeqLzz8-kqmtY3KLEbEGTOZptQRBQ.ttf',
-    popularityRank: 457,
+    popularityRank: 524,
   ),
   WebFont(
     family: 'Noto Sans NKo',
@@ -24797,7 +24797,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansnko/v7/esDX31ZdNv-KYGGJpKGk2_RpApGGGA.ttf',
-    popularityRank: 1704,
+    popularityRank: 1703,
   ),
   WebFont(
     family: 'Noto Sans NKo Unjoined',
@@ -24813,7 +24813,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2jEOz_o.ttf',
-    popularityRank: 1813,
+    popularityRank: 1804,
   ),
   WebFont(
     family: 'Noto Sans Nabataean',
@@ -24830,7 +24830,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansnabataean/v17/IFS4HfVJndhE3P4b5jnZ34DfsjO330dNkBN3gA.ttf',
-    popularityRank: 1754,
+    popularityRank: 1776,
   ),
   WebFont(
     family: 'Noto Sans Nag Mundari',
@@ -24850,7 +24850,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansnagmundari/v4/3qTAoi2hnSyU8TNFIdhZTyod3g5lBnKlQFk2kS9fr9Eq09RHRxirXUCK1w.ttf',
-    popularityRank: 1652,
+    popularityRank: 1577,
   ),
   WebFont(
     family: 'Noto Sans Nandinagari',
@@ -24867,7 +24867,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jlap5T.ttf',
-    popularityRank: 1740,
+    popularityRank: 1751,
   ),
   WebFont(
     family: 'Noto Sans New Tai Lue',
@@ -24887,7 +24887,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAUUfqgA.ttf',
-    popularityRank: 1677,
+    popularityRank: 1714,
   ),
   WebFont(
     family: 'Noto Sans Newa',
@@ -24900,7 +24900,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansnewa/v18/7r3fqXp6utEsO9pI4f8ok8sWg_n-oto.ttf',
-    popularityRank: 1820,
+    popularityRank: 1644,
   ),
   WebFont(
     family: 'Noto Sans Nushu',
@@ -24913,7 +24913,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansnushu/v20/rnCw-xRQ3B7652emAbAe_Ai1IYa1WVoI.ttf',
-    popularityRank: 1547,
+    popularityRank: 1875,
   ),
   WebFont(
     family: 'Noto Sans Ogham',
@@ -24926,7 +24926,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansogham/v18/kmKlZqk1GBDGN0mY6k5lmEmww4hbtpNe.ttf',
-    popularityRank: 1895,
+    popularityRank: 1894,
   ),
   WebFont(
     family: 'Noto Sans Ol Chiki',
@@ -24946,7 +24946,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansolchiki/v31/N0b92TJNOPt-eHmFZCdQbrL32r-4CvhzDzRwlxOQYuVALWk227MwhQ.ttf',
-    popularityRank: 752,
+    popularityRank: 793,
   ),
   WebFont(
     family: 'Noto Sans Old Hungarian',
@@ -24963,7 +24963,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansoldhungarian/v19/E213_cD6hP3GwCJPEUssHEM0KqLaHJXg2PiIgSfiZAo.ttf',
-    popularityRank: 1728,
+    popularityRank: 1752,
   ),
   WebFont(
     family: 'Noto Sans Old Italic',
@@ -24980,7 +24980,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansolditalic/v18/TuGOUUFzXI5FBtUq5a8bh68BJxxEVam7tVlQfxw.ttf',
-    popularityRank: 1687,
+    popularityRank: 1723,
   ),
   WebFont(
     family: 'Noto Sans Old North Arabian',
@@ -24997,7 +24997,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansoldnortharabian/v17/esDF30BdNv-KYGGJpKGk2tNiMt7Jar6olZDyNdr81zBgmEA7.ttf',
-    popularityRank: 1750,
+    popularityRank: 1740,
   ),
   WebFont(
     family: 'Noto Sans Old Permic',
@@ -25015,7 +25015,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansoldpermic/v18/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKIdWiPs.ttf',
-    popularityRank: 1723,
+    popularityRank: 1722,
   ),
   WebFont(
     family: 'Noto Sans Old Persian',
@@ -25032,7 +25032,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansoldpersian/v17/wEOjEAbNnc5caQTFG18FHrZr9Bp6-8CmIJ_dqeNU.ttf',
-    popularityRank: 1615,
+    popularityRank: 1614,
   ),
   WebFont(
     family: 'Noto Sans Old Sogdian',
@@ -25049,7 +25049,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansoldsogdian/v18/3JnjSCH90Gmq2mrzckOBBhFhdrMst48aURtLnOgu.ttf',
-    popularityRank: 1887,
+    popularityRank: 1862,
   ),
   WebFont(
     family: 'Noto Sans Old South Arabian',
@@ -25066,7 +25066,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansoldsoutharabian/v17/3qT5oiOhnSyU8TNFIdhZTice3hB_HWKsEnF--0XCHiKB1eFH.ttf',
-    popularityRank: 1811,
+    popularityRank: 1833,
   ),
   WebFont(
     family: 'Noto Sans Old Turkic',
@@ -25083,7 +25083,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansoldturkic/v19/yMJNMJVya43H0SUF_WmcGEQVqoEMKDKbsH2Qhkg.ttf',
-    popularityRank: 1609,
+    popularityRank: 1744,
   ),
   WebFont(
     family: 'Noto Sans Oriya',
@@ -25114,7 +25114,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansoriya/v35/AYCppXfzfccDCstK_hrjDyADv5e9748vhj3CJBLHIARtgD6TJQS0dJT5Ivj0f5_d4rw.ttf',
-    popularityRank: 669,
+    popularityRank: 686,
   ),
   WebFont(
     family: 'Noto Sans Osage',
@@ -25127,7 +25127,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansosage/v20/oPWX_kB6kP4jCuhpgEGmw4mtAVtnR1yW.ttf',
-    popularityRank: 1739,
+    popularityRank: 1729,
   ),
   WebFont(
     family: 'Noto Sans Osmanya',
@@ -25144,7 +25144,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansosmanya/v20/8vIS7xs32H97qzQKnzfeWzUyUpOJmw6lTYo.ttf',
-    popularityRank: 1401,
+    popularityRank: 1399,
   ),
   WebFont(
     family: 'Noto Sans Pahawh Hmong',
@@ -25161,7 +25161,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanspahawhhmong/v21/bWtp7e_KfBziStx7lIzKKaMUOBEA3UPQDW7knzY1dw.ttf',
-    popularityRank: 1599,
+    popularityRank: 1597,
   ),
   WebFont(
     family: 'Noto Sans Palmyrene',
@@ -25178,7 +25178,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanspalmyrene/v17/ZgNPjOdKPa7CHqq0h37c_ASCWvH93SFCDnOzYg.ttf',
-    popularityRank: 1737,
+    popularityRank: 1766,
   ),
   WebFont(
     family: 'Noto Sans Pau Cin Hau',
@@ -25195,7 +25195,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanspaucinhau/v21/x3d-cl3IZKmUqiMg_9wBLLtzl22EayN7ehItjU-u.ttf',
-    popularityRank: 1900,
+    popularityRank: 1891,
   ),
   WebFont(
     family: 'Noto Sans PhagsPa',
@@ -25214,7 +25214,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansphagspa/v24/XLY8IYr5bJNDGYxPGjyYbaEjwQR-LGltasI.ttf',
-    popularityRank: 1864,
+    popularityRank: 1879,
   ),
   WebFont(
     family: 'Noto Sans Phoenician',
@@ -25231,7 +25231,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansphoenician/v18/jizFRF9Ksm4Bt9PvcTaEkIHiTVtxmFtS5U7IqNs.ttf',
-    popularityRank: 1853,
+    popularityRank: 1824,
   ),
   WebFont(
     family: 'Noto Sans Psalter Pahlavi',
@@ -25248,7 +25248,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanspsalterpahlavi/v18/rP2Vp3K65FkAtHfwd-eISGznYihzggmsicPfud3w5GzAtQ.ttf',
-    popularityRank: 1890,
+    popularityRank: 1893,
   ),
   WebFont(
     family: 'Noto Sans Rejang',
@@ -25265,7 +25265,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansrejang/v23/Ktk2AKuMeZjqPnXgyqrib7DIogqwB4K9XQ.ttf',
-    popularityRank: 1870,
+    popularityRank: 1863,
   ),
   WebFont(
     family: 'Noto Sans Runic',
@@ -25278,7 +25278,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WmahBr.ttf',
-    popularityRank: 1685,
+    popularityRank: 1710,
   ),
   WebFont(
     family: 'Noto Sans SC',
@@ -25315,7 +25315,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssc/v40/k3kCo84MPvpLmixcA63oeAL7Iqp5IZJF9bmaG9_FrY1HaA.ttf',
-    popularityRank: 60,
+    popularityRank: 66,
   ),
   WebFont(
     family: 'Noto Sans Samaritan',
@@ -25332,7 +25332,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssamaritan/v17/buEqppe9f8_vkXadMBJJo0tSmaYjFkxOYo9pMg.ttf',
-    popularityRank: 1374,
+    popularityRank: 1416,
   ),
   WebFont(
     family: 'Noto Sans Saurashtra',
@@ -25349,7 +25349,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef-nchBc.ttf',
-    popularityRank: 1865,
+    popularityRank: 1897,
   ),
   WebFont(
     family: 'Noto Sans Sharada',
@@ -25366,7 +25366,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssharada/v18/gok0H7rwAEdtF9N8-mdTGALG6p0kwrXKNug.ttf',
-    popularityRank: 1836,
+    popularityRank: 1822,
   ),
   WebFont(
     family: 'Noto Sans Shavian',
@@ -25383,7 +25383,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansshavian/v18/CHy5V_HZE0jxJBQlqAeCKjJvQBNF4HFRQJ0.ttf',
-    popularityRank: 1638,
+    popularityRank: 1643,
   ),
   WebFont(
     family: 'Noto Sans Siddham',
@@ -25400,7 +25400,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssiddham/v21/OZpZg-FwqiNLe9PELUikxTWDoCCeGpncmXY.ttf',
-    popularityRank: 1912,
+    popularityRank: 1910,
   ),
   WebFont(
     family: 'Noto Sans SignWriting',
@@ -25417,7 +25417,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssignwriting/v5/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWikEFqE.ttf',
-    popularityRank: 1867,
+    popularityRank: 1874,
   ),
   WebFont(
     family: 'Noto Sans Sinhala',
@@ -25452,7 +25452,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssinhala/v36/yMJ2MJBya43H0SUF_WmcBEEf4rQVO2P524V5N_MxQzQtb-tf5dJbC30Fu9zUwg2a1lkBoA.ttf',
-    popularityRank: 519,
+    popularityRank: 513,
   ),
   WebFont(
     family: 'Noto Sans Sogdian',
@@ -25469,7 +25469,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssogdian/v17/taiQGn5iC4--qtsfi4Jp6eHPnfxQBr-_NGo.ttf',
-    popularityRank: 1843,
+    popularityRank: 1855,
   ),
   WebFont(
     family: 'Noto Sans Sora Sompeng',
@@ -25489,7 +25489,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHR81_Dob3Y.ttf',
-    popularityRank: 1440,
+    popularityRank: 1448,
   ),
   WebFont(
     family: 'Noto Sans Soyombo',
@@ -25506,7 +25506,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssoyombo/v18/RWmSoL-Y6-8q5LTtXs6MF6q7xsxgY3FqKlc.ttf',
-    popularityRank: 1881,
+    popularityRank: 1889,
   ),
   WebFont(
     family: 'Noto Sans Sundanese',
@@ -25526,7 +25526,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNOHDgT8.ttf',
-    popularityRank: 1773,
+    popularityRank: 1796,
   ),
   WebFont(
     family: 'Noto Sans Sunuwar',
@@ -25543,7 +25543,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssunuwar/v1/FwZB7_04xUkosG2xJo2gm7nF0DTfhr_CsWI.ttf',
-    popularityRank: 1706,
+    popularityRank: 1707,
   ),
   WebFont(
     family: 'Noto Sans Syloti Nagri',
@@ -25560,7 +25560,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssylotinagri/v25/uU9eCAQZ75uhfF9UoWDRiY3q7Sf_VFV3m4dGJVb7Mw.ttf',
-    popularityRank: 1768,
+    popularityRank: 1805,
   ),
   WebFont(
     family: 'Noto Sans Symbols',
@@ -25595,7 +25595,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssymbols/v47/rP2up3q65FkAtHfwd-eIS2brbDN6gxP34F9jRRCe4W3gfQ8Qa_9B.ttf',
-    popularityRank: 404,
+    popularityRank: 403,
   ),
   WebFont(
     family: 'Noto Sans Symbols 2',
@@ -25615,7 +25615,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssymbols2/v25/I_uyMoGduATTei9eI8daxVHDyfisHr71-pLgeQ.ttf',
-    popularityRank: 910,
+    popularityRank: 941,
   ),
   WebFont(
     family: 'Noto Sans Syriac',
@@ -25650,7 +25650,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssyriac/v18/Ktk7AKuMeZjqPnXgyqribqzQqgW0LYiVqV7dXcP0C-VD9PaIw5M.ttf',
-    popularityRank: 1572,
+    popularityRank: 1653,
   ),
   WebFont(
     family: 'Noto Sans Syriac Eastern',
@@ -25685,7 +25685,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssyriaceastern/v3/Noac6Vj_wIWFbTTCrYmvy8AjVU8aslWRHHvRYxS-Ro3yS0FDacnHPi-fgzGB4Q.ttf',
-    popularityRank: 1720,
+    popularityRank: 1724,
   ),
   WebFont(
     family: 'Noto Sans Syriac Western',
@@ -25720,7 +25720,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanssyriacwestern/v2/ke8LOhEEMVFsvCav8hWjbItd6Jf6MP7Z9spJZ6UNIILh-71aJmOWEaw-b8qF3g.ttf',
-    popularityRank: 1860,
+    popularityRank: 1884,
   ),
   WebFont(
     family: 'Noto Sans TC',
@@ -25757,7 +25757,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstc/v39/-nFuOG829Oofr2wohFbTp9ifNAn722rq0MXz76CyzCtEsg.ttf',
-    popularityRank: 31,
+    popularityRank: 34,
   ),
   WebFont(
     family: 'Noto Sans Tagalog',
@@ -25774,7 +25774,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstagalog/v23/J7aFnoNzCnFcV9ZI-sUYuvote1R0wzEBCcw.ttf',
-    popularityRank: 1274,
+    popularityRank: 1295,
   ),
   WebFont(
     family: 'Noto Sans Tagbanwa',
@@ -25791,7 +25791,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstagbanwa/v21/Y4GWYbB8VTEp4t3MKJSMmQdIKjRtt_npRz4A.ttf',
-    popularityRank: 1829,
+    popularityRank: 1827,
   ),
   WebFont(
     family: 'Noto Sans Tai Le',
@@ -25824,7 +25824,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBCUbDgukzQ.ttf',
-    popularityRank: 1714,
+    popularityRank: 1825,
   ),
   WebFont(
     family: 'Noto Sans Tai Viet',
@@ -25841,7 +25841,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstaiviet/v20/8QIUdj3HhN_lv4jf9vsE-9GMOLsaSPZb6oQb.ttf',
-    popularityRank: 1259,
+    popularityRank: 1203,
   ),
   WebFont(
     family: 'Noto Sans Takri',
@@ -25854,7 +25854,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstakri/v25/TuGJUVpzXI5FBtUq5a8bnKIOdTwgNeXS.ttf',
-    popularityRank: 1713,
+    popularityRank: 1725,
   ),
   WebFont(
     family: 'Noto Sans Tamil',
@@ -25885,7 +25885,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstamil/v31/ieVc2YdFI3GCY6SyQy1KfStzYKZgzN1z4LKDbeZce-0429tBManUktuex7vGo40QoqQ.ttf',
-    popularityRank: 176,
+    popularityRank: 182,
   ),
   WebFont(
     family: 'Noto Sans Tamil Supplement',
@@ -25902,7 +25902,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstamilsupplement/v23/DdTz78kEtnooLS5rXF1DaruiCd_bFp_Ph4sGcn7ax8vtC-c.ttf',
-    popularityRank: 1888,
+    popularityRank: 1866,
   ),
   WebFont(
     family: 'Noto Sans Tangsa',
@@ -25922,7 +25922,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkxoQa94.ttf',
-    popularityRank: 1523,
+    popularityRank: 1515,
   ),
   WebFont(
     family: 'Noto Sans Telugu',
@@ -25957,7 +25957,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstelugu/v30/0FlxVOGZlE2Rrtr-HmgkMWJNjJ5_RyT8o8c7fHkeg-esVC5dzHkHIJQqrEntezbaQEzb.ttf',
-    popularityRank: 75,
+    popularityRank: 85,
   ),
   WebFont(
     family: 'Noto Sans Thaana',
@@ -25992,7 +25992,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansthaana/v26/C8c14dM-vnz-s-3jaEsxlxHkBH-WZOETXfoQrfQ9Y4XrbiLglOo.ttf',
-    popularityRank: 1147,
+    popularityRank: 1230,
   ),
   WebFont(
     family: 'Noto Sans Thai',
@@ -26023,7 +26023,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansthai/v29/iJWnBXeUZi_OHPqn4wq6hQ2_hbJ1xyN9wd43SofNWcd1MKVQt_So_9CdU5RtlzB0RQ.ttf',
-    popularityRank: 132,
+    popularityRank: 135,
   ),
   WebFont(
     family: 'Noto Sans Thai Looped',
@@ -26054,7 +26054,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansthailooped/v16/B503F6pOpWTRcGrhOVJJ3-oPfY7WQuFu5R36MIjwurFMX_p0KVmQL3HnxYJ8hCVQ-_gtHiJjSIo.ttf',
-    popularityRank: 829,
+    popularityRank: 846,
   ),
   WebFont(
     family: 'Noto Sans Tifinagh',
@@ -26071,7 +26071,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstifinagh/v21/I_uzMoCduATTei9eI8dawkHIwvmhCvbX67PA.ttf',
-    popularityRank: 1769,
+    popularityRank: 1771,
   ),
   WebFont(
     family: 'Noto Sans Tirhuta',
@@ -26088,7 +26088,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby4uHWh8.ttf',
-    popularityRank: 1840,
+    popularityRank: 1849,
   ),
   WebFont(
     family: 'Noto Sans Ugaritic',
@@ -26105,7 +26105,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansugaritic/v17/3qTwoiqhnSyU8TNFIdhZVCwbjCpkAXXUMxAM.ttf',
-    popularityRank: 1856,
+    popularityRank: 1854,
   ),
   WebFont(
     family: 'Noto Sans Vai',
@@ -26118,7 +26118,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansvai/v19/NaPecZTSBuhTirw6IaFn_UrUdMXmCA.ttf',
-    popularityRank: 1859,
+    popularityRank: 1860,
   ),
   WebFont(
     family: 'Noto Sans Vithkuqi',
@@ -26138,7 +26138,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SsKIxug.ttf',
-    popularityRank: 1676,
+    popularityRank: 1681,
   ),
   WebFont(
     family: 'Noto Sans Wancho',
@@ -26155,7 +26155,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanswancho/v19/zrf-0GXXyfn6Fs0lH9P4cUubP0GBmALiog.ttf',
-    popularityRank: 1785,
+    popularityRank: 1762,
   ),
   WebFont(
     family: 'Noto Sans Warang Citi',
@@ -26172,7 +26172,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanswarangciti/v19/EYqtmb9SzL1YtsZSScyKDXIeOv3w-zgsNvKhpO9G.ttf',
-    popularityRank: 1165,
+    popularityRank: 765,
   ),
   WebFont(
     family: 'Noto Sans Yi',
@@ -26185,7 +26185,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosansyi/v22/sJoD3LFXjsSdcnzn071rO3aZxFrN.ttf',
-    popularityRank: 1670,
+    popularityRank: 1662,
   ),
   WebFont(
     family: 'Noto Sans Zanabazar Square',
@@ -26202,7 +26202,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notosanszanabazarsquare/v20/Cn-jJsuGWQxOjaGwMQ6fOicyxLBEMRfDtkzl4uagQuJwMiU.ttf',
-    popularityRank: 1834,
+    popularityRank: 1701,
   ),
   WebFont(
     family: 'Noto Serif',
@@ -26260,7 +26260,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserif/v33/ga6iaw1J5X9T9RW6j9bNVls-hfgvz8JcMofYTa32J4wsL2JAlAhZqFCTwccP.ttf',
-    popularityRank: 49,
+    popularityRank: 50,
   ),
   WebFont(
     family: 'Noto Serif Ahom',
@@ -26273,7 +26273,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifahom/v21/FeVIS0hfp6cprmEUffAW_fUL_ANOw-wv.ttf',
-    popularityRank: 1359,
+    popularityRank: 1347,
   ),
   WebFont(
     family: 'Noto Serif Armenian',
@@ -26325,7 +26325,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifbalinese/v21/QdVKSS0-JginysQSRvuCmUMB_wVeQAxXdbkDcg.ttf',
-    popularityRank: 1650,
+    popularityRank: 1660,
   ),
   WebFont(
     family: 'Noto Serif Bengali',
@@ -26360,7 +26360,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifbengali/v31/hYkuPvggTvnzO14VSXltirUdnnkt1pwmWrprmO7RjE0a5BtdATYU1crFaM_5JfcAHkqm6rw.ttf',
-    popularityRank: 352,
+    popularityRank: 338,
   ),
   WebFont(
     family: 'Noto Serif Devanagari',
@@ -26395,7 +26395,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-oz-GO0M.ttf',
-    popularityRank: 606,
+    popularityRank: 638,
   ),
   WebFont(
     family: 'Noto Serif Display',
@@ -26452,7 +26452,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifdisplay/v29/buERppa9f8_vkXaZLAgP0G5Wi6QmA1QaeYah2sovLCDq_ZgLyt3idQfktOG-PVpd4ugLYjE.ttf',
-    popularityRank: 396,
+    popularityRank: 392,
   ),
   WebFont(
     family: 'Noto Serif Dives Akuru',
@@ -26469,7 +26469,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifdivesakuru/v8/QldfNSVMqAsHtsJ_TnD3aT03sMgd57ibeeZT20HCzg.ttf',
-    popularityRank: 1783,
+    popularityRank: 1705,
   ),
   WebFont(
     family: 'Noto Serif Dogra',
@@ -26482,7 +26482,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifdogra/v24/MQpP-XquKMC7ROPP3QOOlm7xPu3fKy-9JQ.ttf',
-    popularityRank: 1656,
+    popularityRank: 1634,
   ),
   WebFont(
     family: 'Noto Serif Ethiopic',
@@ -26517,7 +26517,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifethiopic/v32/V8mjoR7-XjwJ8_Au3Ti5tXj5Rd83frpWLK4d-taxqWw2HMWjDxBAg5S_0QsrggxCzSUTkKm5.ttf',
-    popularityRank: 1592,
+    popularityRank: 1609,
   ),
   WebFont(
     family: 'Noto Serif Georgian',
@@ -26552,7 +26552,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifgeorgian/v29/VEMXRpd8s4nv8hG_qOzL7HOAw4nt0Sl_XxyaEduNMvi7T6Y4etRnmGhyLop-R3aSTvovdj70.ttf',
-    popularityRank: 694,
+    popularityRank: 703,
   ),
   WebFont(
     family: 'Noto Serif Grantha',
@@ -26569,7 +26569,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifgrantha/v22/qkBIXuEH5NzDDvc3fLDYxPk9-Wq3WLiaFUlP.ttf',
-    popularityRank: 1832,
+    popularityRank: 1829,
   ),
   WebFont(
     family: 'Noto Serif Gujarati',
@@ -26606,7 +26606,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifgujarati/v29/hESa6WBlOixO-3OJ1FTmTsmqlBRUJBVkcgNLpdsspzP2HuYycLzvOVY.ttf',
-    popularityRank: 1328,
+    popularityRank: 1410,
   ),
   WebFont(
     family: 'Noto Serif Gurmukhi',
@@ -26641,7 +26641,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifgurmukhi/v22/92z-tA9LNqsg7tCYlXdCV1VPnAEeDU0vLoYMbylXk0xTCr6-eSTMkKE.ttf',
-    popularityRank: 1717,
+    popularityRank: 1769,
   ),
   WebFont(
     family: 'Noto Serif HK',
@@ -26667,7 +26667,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifhk/v12/BngdUXBETWXI6LwlBZGcqL-B_KuJFcgfwP_9RMd-K1RnXdA.ttf',
-    popularityRank: 996,
+    popularityRank: 1073,
   ),
   WebFont(
     family: 'Noto Serif Hebrew',
@@ -26702,7 +26702,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwSMG41ug.ttf',
-    popularityRank: 696,
+    popularityRank: 652,
   ),
   WebFont(
     family: 'Noto Serif Hentaigana',
@@ -26726,7 +26726,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifhentaigana/v17/uk-OEHi3o6EruUbj3pGaDj3siVARn-kqgu1eOHk7wYK23O0hzowGmxATXA.ttf',
-    popularityRank: 1810,
+    popularityRank: 1815,
   ),
   WebFont(
     family: 'Noto Serif JP',
@@ -26752,7 +26752,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifjp/v33/xn71YHs72GKoTvER4Gn3b5eMRtWGkp6o7MjQ2bwxOtbBKrc.ttf',
-    popularityRank: 62,
+    popularityRank: 63,
   ),
   WebFont(
     family: 'Noto Serif KR',
@@ -26778,7 +26778,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifkr/v31/3JnoSDn90Gmq2mr3blnHaTZXbOtLJDvui3JOncjmeP53658.ttf',
-    popularityRank: 192,
+    popularityRank: 186,
   ),
   WebFont(
     family: 'Noto Serif Kannada',
@@ -26813,7 +26813,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifkannada/v30/v6-8GZHLJFKIhClqUYqXDiWqpxQxWSPoW6bz-l4hGHiNgcYDQeVD6w.ttf',
-    popularityRank: 1225,
+    popularityRank: 1255,
   ),
   WebFont(
     family: 'Noto Serif Khitan Small Script',
@@ -26830,7 +26830,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TcZsNf.ttf',
-    popularityRank: 1759,
+    popularityRank: 1760,
   ),
   WebFont(
     family: 'Noto Serif Khmer',
@@ -26861,7 +26861,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifkhmer/v29/-F6UfidqLzI2JPCkXAO2hmogq0146FxtbwKEr951z5s6lI40sDRH_AVhUKdN6B8AXUxO.ttf',
-    popularityRank: 1417,
+    popularityRank: 1408,
   ),
   WebFont(
     family: 'Noto Serif Khojki',
@@ -26881,7 +26881,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghfyJcU.ttf',
-    popularityRank: 844,
+    popularityRank: 822,
   ),
   WebFont(
     family: 'Noto Serif Lao',
@@ -26912,7 +26912,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoseriflao/v29/3y9C6bYwcCjmsU8JEzCMxEwQfEBLk3f0rlSqCdaM_LlSNZ59oNw0BWH8VeMKnvKpkg.ttf',
-    popularityRank: 1415,
+    popularityRank: 1394,
   ),
   WebFont(
     family: 'Noto Serif Makasar',
@@ -26929,7 +26929,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifmakasar/v1/memjYbqtyH-NiZpFH_9zcvB_PqkfY9SLjovX.ttf',
-    popularityRank: 1701,
+    popularityRank: 1711,
   ),
   WebFont(
     family: 'Noto Serif Malayalam',
@@ -26964,7 +26964,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifmalayalam/v32/JIAZUU5sdmdP_HMcVcZFcH7DeVBeGVgSMEk2cmVDq1ihUXL1t-xvnFYD.ttf',
-    popularityRank: 1172,
+    popularityRank: 1146,
   ),
   WebFont(
     family: 'Noto Serif Myanmar',
@@ -26995,7 +26995,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifmyanmar/v14/VuJsdM7F2Yv76aBKKs-bHMQfAHUw3jnFpRDs.ttf',
-    popularityRank: 1672,
+    popularityRank: 1668,
   ),
   WebFont(
     family: 'Noto Serif NP Hmong',
@@ -27011,7 +27011,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifnphmong/v5/pONN1gItFMO79E4L1GPUi-2sixKHZyFj9Jy6_KhXPwzdvbjPhGLo1Ok.ttf',
-    popularityRank: 1643,
+    popularityRank: 1799,
   ),
   WebFont(
     family: 'Noto Serif Old Uyghur',
@@ -27028,7 +27028,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifolduyghur/v5/v6-KGZbLJFKIhClqUYqXDiGnrVoFRCW6JdwXK-Oa.ttf',
-    popularityRank: 1841,
+    popularityRank: 1843,
   ),
   WebFont(
     family: 'Noto Serif Oriya',
@@ -27044,7 +27044,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoseriforiya/v6/MjQQmj56u-r69izk_LDqWN7w0cYByutv9qeWYrvLaxrc_Ey_tUk.ttf',
-    popularityRank: 1647,
+    popularityRank: 1732,
   ),
   WebFont(
     family: 'Noto Serif Ottoman Siyaq',
@@ -27061,7 +27061,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoH7J7IE.ttf',
-    popularityRank: 1775,
+    popularityRank: 1786,
   ),
   WebFont(
     family: 'Noto Serif SC',
@@ -27087,7 +27087,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifsc/v35/H4cyBXePl9DZ0Xe7gG9cyOj7uK2-n-D2rd4FY7SCqxWu-Yo.ttf',
-    popularityRank: 177,
+    popularityRank: 180,
   ),
   WebFont(
     family: 'Noto Serif Sinhala',
@@ -27122,7 +27122,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifsinhala/v30/DtVEJwinQqclnZE2CnsPug9lgGC3y2F2nehQ7Eg4EdBKWxPiDxMivFLgRXs_-pGxR2Mtz6Y.ttf',
-    popularityRank: 1436,
+    popularityRank: 1450,
   ),
   WebFont(
     family: 'Noto Serif TC',
@@ -27148,7 +27148,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoseriftc/v36/XLYzIZb5bJNDGYxLBibeHZ0BnHwmuanx8cUaGX9aMNpCM2I.ttf',
-    popularityRank: 180,
+    popularityRank: 181,
   ),
   WebFont(
     family: 'Noto Serif Tamil',
@@ -27197,7 +27197,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoseriftamil/v31/LYjndHr-klIgTfc40komjQ5OObazYp-6H94dBF-RX6nNRJfi-Gf55IgAecattN-h8fbz.ttf',
-    popularityRank: 1017,
+    popularityRank: 1024,
   ),
   WebFont(
     family: 'Noto Serif Tangut',
@@ -27214,7 +27214,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoseriftangut/v19/xn76YGc72GKoTvER4Gn3b4m9Ern7El40d88.ttf',
-    popularityRank: 1603,
+    popularityRank: 1571,
   ),
   WebFont(
     family: 'Noto Serif Telugu',
@@ -27249,7 +27249,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoseriftelugu/v29/tDbl2pCbnkEKmXNVmt2M1q6f4HWbbj6MRbYEeav7Fe9D9TCAuIeb.ttf',
-    popularityRank: 1228,
+    popularityRank: 1271,
   ),
   WebFont(
     family: 'Noto Serif Thai',
@@ -27280,7 +27280,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifthai/v28/k3kyo80MPvpLmixYH7euCxWpSMu3-gcWGj0hHAKGvUQlUv_bCKDUSzB5L0oiF9RQAG8.ttf',
-    popularityRank: 964,
+    popularityRank: 897,
   ),
   WebFont(
     family: 'Noto Serif Tibetan',
@@ -27315,7 +27315,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoseriftibetan/v24/gokGH7nwAEdtF9N45n0Vaz7O-pk0wsvxHeDXMfqguoCmIrYcDS_hcQ.ttf',
-    popularityRank: 1610,
+    popularityRank: 1592,
   ),
   WebFont(
     family: 'Noto Serif Todhri',
@@ -27332,7 +27332,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N0BzVa0.ttf',
-    popularityRank: 1802,
+    popularityRank: 1816,
   ),
   WebFont(
     family: 'Noto Serif Toto',
@@ -27348,7 +27348,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoseriftoto/v7/Ktk6ALSMeZjqPnXk1rCkHYHNtwvtHItpjRP74dHhCy3Ip-ep4w.ttf',
-    popularityRank: 1645,
+    popularityRank: 1633,
   ),
   WebFont(
     family: 'Noto Serif Vithkuqi',
@@ -27368,7 +27368,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifvithkuqi/v3/YA94r1OY7FjTf5szakutkndpw9HH-4a4z9pklvg1IQSNcRWMdV2DoSs.ttf',
-    popularityRank: 1618,
+    popularityRank: 1581,
   ),
   WebFont(
     family: 'Noto Serif Yezidi',
@@ -27388,7 +27388,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/notoserifyezidi/v23/XLYPIYr5bJNDGYxLBibeHZAn3B5KJENnQjbfhMSVZspD2yEUr1uN.ttf',
-    popularityRank: 1674,
+    popularityRank: 1704,
   ),
   WebFont(
     family: 'Noto Traditional Nushu',
@@ -27405,7 +27405,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/nototraditionalnushu/v23/SZcV3EDkJ7q9FaoMPlmF4Su8hlIjoGh5aj67PUZX6ADm6oa8IXus1unOYbA.ttf',
-    popularityRank: 1730,
+    popularityRank: 1755,
   ),
   WebFont(
     family: 'Noto Znamenny Musical Notation',
@@ -27424,7 +27424,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jft5Cu.ttf',
-    popularityRank: 1780,
+    popularityRank: 1802,
   ),
   WebFont(
     family: 'Nova Cut',
@@ -27437,7 +27437,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/novacut/v26/KFOkCnSYu8mL-39LkVxOIzc.ttf',
-    popularityRank: 1176,
+    popularityRank: 1175,
   ),
   WebFont(
     family: 'Nova Flat',
@@ -27451,7 +27451,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/novaflat/v26/QdVUSTc-JgqpytEbVeb0uCFg.ttf',
-    popularityRank: 1060,
+    popularityRank: 1058,
   ),
   WebFont(
     family: 'Nova Mono',
@@ -27465,7 +27465,7 @@ const webfontList = [
     category: WebFontCategory.monospace,
     menu:
         'https://fonts.gstatic.com/s/novamono/v23/Cn-0JtiGWQ5Ajb--MRKvYWZc.ttf',
-    popularityRank: 819,
+    popularityRank: 853,
   ),
   WebFont(
     family: 'Nova Oval',
@@ -27479,7 +27479,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/novaoval/v26/jAnEgHdmANHvPenMaswyMIWl.ttf',
-    popularityRank: 1186,
+    popularityRank: 1100,
   ),
   WebFont(
     family: 'Nova Round',
@@ -27492,7 +27492,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/novaround/v23/flU9Rqquw5UhEnlwTJYTUYbUfQ.ttf',
-    popularityRank: 998,
+    popularityRank: 945,
   ),
   WebFont(
     family: 'Nova Script',
@@ -27505,7 +27505,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/novascript/v27/7Au7p_IpkSWSTWaFWkumvlQMGFk.ttf',
-    popularityRank: 1187,
+    popularityRank: 1195,
   ),
   WebFont(
     family: 'Nova Slim',
@@ -27519,7 +27519,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/novaslim/v26/Z9XUDmZNQAuem8jyZcnOycmM.ttf',
-    popularityRank: 1105,
+    popularityRank: 1120,
   ),
   WebFont(
     family: 'Nova Square',
@@ -27532,7 +27532,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/novasquare/v27/RrQUbo9-9DV7b06QHgSWsahBT4c.ttf',
-    popularityRank: 543,
+    popularityRank: 631,
   ),
   WebFont(
     family: 'Numans',
@@ -27545,7 +27545,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/numans/v16/SlGRmQmGupYAfH84YBIk.ttf',
-    popularityRank: 915,
+    popularityRank: 932,
   ),
   WebFont(
     family: 'Nunito',
@@ -27661,7 +27661,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/nuosusil/v12/8vIK7wM3wmRn_kc4uAjuFWZf.ttf',
-    popularityRank: 1405,
+    popularityRank: 1406,
   ),
   WebFont(
     family: 'Odibee Sans',
@@ -27674,7 +27674,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/odibeesans/v20/neIPzCSooYAho6WvjeToRbkzcJU.ttf',
-    popularityRank: 1036,
+    popularityRank: 1039,
   ),
   WebFont(
     family: 'Odor Mean Chey',
@@ -27687,7 +27687,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/odormeanchey/v31/raxkHiKDttkTe1aOGcJMR1A_4lrZ0T4.ttf',
-    popularityRank: 1166,
+    popularityRank: 1249,
   ),
   WebFont(
     family: 'Offside',
@@ -27700,7 +27700,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/offside/v26/HI_KiYMWKa9QrAykc5DoQg.ttf',
-    popularityRank: 1344,
+    popularityRank: 1351,
   ),
   WebFont(
     family: 'Oi',
@@ -27722,7 +27722,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/oi/v21/w8gXH2EuRptbsNo.ttf',
-    popularityRank: 1481,
+    popularityRank: 1500,
   ),
   WebFont(
     family: 'Ojuju',
@@ -27747,7 +27747,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ojuju/v5/7r3bqXF7v9ApbrMih3jYQBVm9-n_SpkJ5mtV.ttf',
-    popularityRank: 1402,
+    popularityRank: 1525,
   ),
   WebFont(
     family: 'Old Standard TT',
@@ -27768,7 +27768,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVerFq9.ttf',
-    popularityRank: 257,
+    popularityRank: 263,
   ),
   WebFont(
     family: 'Oldenburg',
@@ -27781,7 +27781,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/oldenburg/v24/fC1jPY5JYWzbywv7c4VKUESs.ttf',
-    popularityRank: 1546,
+    popularityRank: 1532,
   ),
   WebFont(
     family: 'Ole',
@@ -27799,7 +27799,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/ole/v6/dFazZf6Z-rdM9PY-.ttf',
-    popularityRank: 1299,
+    popularityRank: 1430,
   ),
   WebFont(
     family: 'Oleo Script',
@@ -27813,7 +27813,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/oleoscript/v15/rax5HieDvtMOe0iICsUccChbu0o.ttf',
-    popularityRank: 337,
+    popularityRank: 349,
   ),
   WebFont(
     family: 'Oleo Script Swash Caps',
@@ -27827,7 +27827,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HAXukTQ.ttf',
-    popularityRank: 760,
+    popularityRank: 756,
   ),
   WebFont(
     family: 'Onest',
@@ -27863,7 +27863,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/onest/v9/gNMZW3F-SZuj7zOT0IfSjTS16cPh9R-psxtI.ttf',
-    popularityRank: 169,
+    popularityRank: 167,
   ),
   WebFont(
     family: 'Oooh Baby',
@@ -27881,7 +27881,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/ooohbaby/v4/2sDcZGJWgJTT2Jf76xQzbmW8.ttf',
-    popularityRank: 571,
+    popularityRank: 566,
   ),
   WebFont(
     family: 'Open Sans',
@@ -27965,7 +27965,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/orbit/v3/_LOCmz7I-uHd2ljFcKM.ttf',
-    popularityRank: 1381,
+    popularityRank: 1403,
   ),
   WebFont(
     family: 'Orbitron',
@@ -27983,7 +27983,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/orbitron/v35/yMJMMIlzdpvBhQQL_SC3X9yhF25-T1nyGy6Bp2g2.ttf',
-    popularityRank: 101,
+    popularityRank: 99,
   ),
   WebFont(
     family: 'Oregano',
@@ -27997,7 +27997,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/oregano/v17/If2IXTPxciS3H4S2oZbVOw.ttf',
-    popularityRank: 956,
+    popularityRank: 973,
   ),
   WebFont(
     family: 'Orelega One',
@@ -28015,7 +28015,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/orelegaone/v14/3qTpojOggD2XtAdFb-QXZFt73kM.ttf',
-    popularityRank: 936,
+    popularityRank: 922,
   ),
   WebFont(
     family: 'Orienta',
@@ -28028,7 +28028,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/orienta/v16/PlI9FlK4Jrl5Y9zNSyai8A.ttf',
-    popularityRank: 1024,
+    popularityRank: 1068,
   ),
   WebFont(
     family: 'Original Surfer',
@@ -28041,7 +28041,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/originalsurfer/v25/RWmQoKGZ9vIirYntXJ3_MbekzNMSDUFr.ttf',
-    popularityRank: 630,
+    popularityRank: 635,
   ),
   WebFont(
     family: 'Oswald',
@@ -28065,7 +28065,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/oswald/v57/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUBiYA.ttf',
-    popularityRank: 13,
+    popularityRank: 12,
   ),
   WebFont(
     family: 'Outfit',
@@ -28096,7 +28096,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/outfit/v15/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4C0Fg.ttf',
-    popularityRank: 25,
+    popularityRank: 24,
   ),
   WebFont(
     family: 'Over the Rainbow',
@@ -28109,7 +28109,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/overtherainbow/v23/11haGoXG1k_HKhMLUWz7Mc7vvW5ulvKs8A.ttf',
-    popularityRank: 771,
+    popularityRank: 781,
   ),
   WebFont(
     family: 'Overlock',
@@ -28128,7 +28128,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/overlock/v19/Z9XVDmdMWRiN1_T9Z7Tf6Ok.ttf',
-    popularityRank: 711,
+    popularityRank: 682,
   ),
   WebFont(
     family: 'Overlock SC',
@@ -28141,7 +28141,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/overlocksc/v25/1cX3aUHKGZrstGAY8nwVzEGBocA.ttf',
-    popularityRank: 1107,
+    popularityRank: 1103,
   ),
   WebFont(
     family: 'Overpass',
@@ -28196,7 +28196,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/overpass/v19/qFda35WCmI96Ajtm83upeyoaX6QPnlo6_PPbOJqP.ttf',
-    popularityRank: 116,
+    popularityRank: 126,
   ),
   WebFont(
     family: 'Overpass Mono',
@@ -28219,7 +28219,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/overpassmono/v21/_Xm5-H86tzKDdAPa-KPQZ-AC_COcRycquHlL6EXUonzyVO4.ttf',
-    popularityRank: 632,
+    popularityRank: 639,
   ),
   WebFont(
     family: 'Ovo',
@@ -28233,7 +28233,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ovo/v18/yYLl0h7WyfzTyo49.ttf',
-    popularityRank: 464,
+    popularityRank: 534,
   ),
   WebFont(
     family: 'Oxanium',
@@ -28252,7 +28252,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/oxanium/v21/RrQPboN_4yJ0JmiMUW7sIGjd1IA9G81JfkiND3A.ttf',
-    popularityRank: 284,
+    popularityRank: 314,
   ),
   WebFont(
     family: 'Oxygen',
@@ -28280,7 +28280,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/oxygenmono/v15/h0GsssGg9FxgDgCjLeAd7hjex-s.ttf',
-    popularityRank: 768,
+    popularityRank: 746,
   ),
   WebFont(
     family: 'PT Mono',
@@ -28298,7 +28298,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/ptmono/v14/9oRONYoBnWILk-9AnCkzNg.ttf',
-    popularityRank: 347,
+    popularityRank: 371,
   ),
   WebFont(
     family: 'PT Sans',
@@ -28319,7 +28319,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ptsans/v18/jizaRExUiTo99u79D0SEwA.ttf',
-    popularityRank: 37,
+    popularityRank: 36,
   ),
   WebFont(
     family: 'PT Sans Caption',
@@ -28338,7 +28338,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ptsanscaption/v20/0FlMVP6Hrxmt7-fsUFhlFXNIlpcafA_0.ttf',
-    popularityRank: 299,
+    popularityRank: 305,
   ),
   WebFont(
     family: 'PT Sans Narrow',
@@ -28357,7 +28357,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ptsansnarrow/v19/BngRUXNadjH0qYEzV7ab-oWlsbCAwRg.ttf',
-    popularityRank: 121,
+    popularityRank: 120,
   ),
   WebFont(
     family: 'PT Serif',
@@ -28378,7 +28378,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ptserif/v19/EJRVQgYoZZY2vCFuvAFQzro.ttf',
-    popularityRank: 57,
+    popularityRank: 61,
   ),
   WebFont(
     family: 'PT Serif Caption',
@@ -28397,7 +28397,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ptserifcaption/v18/ieVl2ZhbGCW-JoW6S34pSDpqYKU019S7CA.ttf',
-    popularityRank: 589,
+    popularityRank: 529,
   ),
   WebFont(
     family: 'Pacifico',
@@ -28417,7 +28417,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/pacifico/v23/FwZY7-Qmy14u9lezJ-6B6Mw.ttf',
-    popularityRank: 113,
+    popularityRank: 115,
   ),
   WebFont(
     family: 'Padauk',
@@ -28435,7 +28435,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/padauk/v17/RrQRboJg-id7OnbxakXk.ttf',
-    popularityRank: 635,
+    popularityRank: 878,
   ),
   WebFont(
     family: 'Padyakke Expanded One',
@@ -28452,7 +28452,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/padyakkeexpandedone/v8/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAoOa5g.ttf',
-    popularityRank: 1798,
+    popularityRank: 1792,
   ),
   WebFont(
     family: 'Palanquin',
@@ -28475,7 +28475,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/palanquin/v17/9XUnlJ90n1fBFg7ceXwcd1tI.ttf',
-    popularityRank: 419,
+    popularityRank: 459,
   ),
   WebFont(
     family: 'Palanquin Dark',
@@ -28495,7 +28495,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/palanquindark/v17/xn75YHgl1nqmANMB-26xC7yuF86PRk4.ttf',
-    popularityRank: 475,
+    popularityRank: 498,
   ),
   WebFont(
     family: 'Palette Mosaic',
@@ -28508,7 +28508,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/palettemosaic/v13/AMOIz4aBvWuBFe3TohdW6YZ9MGiz69g.ttf',
-    popularityRank: 1680,
+    popularityRank: 1661,
   ),
   WebFont(
     family: 'Pangolin',
@@ -28528,7 +28528,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/pangolin/v12/cY9GfjGcW0FPpi-tWMfL79k.ttf',
-    popularityRank: 409,
+    popularityRank: 466,
   ),
   WebFont(
     family: 'Paprika',
@@ -28541,7 +28541,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/paprika/v24/8QIJdijZitv49rDfiIkErw.ttf',
-    popularityRank: 1281,
+    popularityRank: 1266,
   ),
   WebFont(
     family: 'Parastoo',
@@ -28562,7 +28562,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6kFFflg.ttf',
-    popularityRank: 1598,
+    popularityRank: 1352,
   ),
   WebFont(
     family: 'Parisienne',
@@ -28593,7 +28593,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/parkinsans/v3/-W_uXJXvQyPb1QfpBpRrVEgjj0W4zSUk4gTW6S8L8cI.ttf',
-    popularityRank: 553,
+    popularityRank: 556,
   ),
   WebFont(
     family: 'Passero One',
@@ -28606,7 +28606,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/passeroone/v28/JTUTjIko8DOq5FeaeEAjgH5A7g4.ttf',
-    popularityRank: 1497,
+    popularityRank: 1485,
   ),
   WebFont(
     family: 'Passion One',
@@ -28621,7 +28621,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/passionone/v20/PbynFmL8HhTPqbjUzux3JEuX9l4.ttf',
-    popularityRank: 255,
+    popularityRank: 264,
   ),
   WebFont(
     family: 'Passions Conflict',
@@ -28638,7 +28638,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/passionsconflict/v9/kmKnZrcrFhfafnWX9x0GuEC-zowow6NfaxY.ttf',
-    popularityRank: 1254,
+    popularityRank: 1251,
   ),
   WebFont(
     family: 'Pathway Extreme',
@@ -28691,7 +28691,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/pathwayextreme/v7/neI6zCC3pJ0rsaH2_sD-QttXPfDPonvkQ-pxx5gufvP2VmLjiFyxGf8BLymNjYv2Oy6vkLmw4xak2N1FKiYz.ttf',
-    popularityRank: 584,
+    popularityRank: 589,
   ),
   WebFont(
     family: 'Pathway Gothic One',
@@ -28704,7 +28704,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/pathwaygothicone/v16/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-tTVZa.ttf',
-    popularityRank: 348,
+    popularityRank: 339,
   ),
   WebFont(
     family: 'Patrick Hand',
@@ -28721,7 +28721,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/patrickhand/v25/LDI1apSQOAYtSuYWp8ZhfYe8WMLO.ttf',
-    popularityRank: 298,
+    popularityRank: 301,
   ),
   WebFont(
     family: 'Patrick Hand SC',
@@ -28738,7 +28738,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/patrickhandsc/v17/0nkwC9f7MfsBiWcLtY65AWDK873liCK-.ttf',
-    popularityRank: 1009,
+    popularityRank: 914,
   ),
   WebFont(
     family: 'Pattaya',
@@ -28757,7 +28757,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/pattaya/v18/ea8ZadcqV_zkHY-XBdGt8w.ttf',
-    popularityRank: 586,
+    popularityRank: 610,
   ),
   WebFont(
     family: 'Patua One',
@@ -28771,7 +28771,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/patuaone/v22/ZXuke1cDvLCKLDcimxB45flr.ttf',
-    popularityRank: 244,
+    popularityRank: 251,
   ),
   WebFont(
     family: 'Pavanam',
@@ -28784,7 +28784,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/pavanam/v13/BXRrvF_aiezLh0xPPOpa8Q.ttf',
-    popularityRank: 1140,
+    popularityRank: 1159,
   ),
   WebFont(
     family: 'Paytone One',
@@ -28801,7 +28801,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/paytoneone/v25/0nksC9P7MfYHj2oFtYm2ChTrgP4.ttf',
-    popularityRank: 292,
+    popularityRank: 276,
   ),
   WebFont(
     family: 'Peddana',
@@ -28814,7 +28814,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/peddana/v24/aFTU7PBhaX89UcKWthyQAQ.ttf',
-    popularityRank: 1537,
+    popularityRank: 1518,
   ),
   WebFont(
     family: 'Peralta',
@@ -28827,7 +28827,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/peralta/v21/hYkJPu0-RP_9d3kRKxErqg.ttf',
-    popularityRank: 995,
+    popularityRank: 1043,
   ),
   WebFont(
     family: 'Permanent Marker',
@@ -28840,7 +28840,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004LauCeg.ttf',
-    popularityRank: 189,
+    popularityRank: 187,
   ),
   WebFont(
     family: 'Petemoss',
@@ -28857,7 +28857,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/petemoss/v9/A2BZn5tA2xgtGWHZgykfuqI.ttf',
-    popularityRank: 1581,
+    popularityRank: 1629,
   ),
   WebFont(
     family: 'Petit Formal Script',
@@ -28870,7 +28870,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/petitformalscript/v19/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qkHjgOw.ttf',
-    popularityRank: 641,
+    popularityRank: 657,
   ),
   WebFont(
     family: 'Petrona',
@@ -28923,7 +28923,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/petrona/v38/mtGl4_NXL7bZo9XXq35wRLONYyOjFk6NsTRAFYo.ttf',
-    popularityRank: 385,
+    popularityRank: 388,
   ),
   WebFont(
     family: 'Phetsarath',
@@ -28937,7 +28937,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/phetsarath/v3/N0bQ2SpTP-plK0uWayAYMd_3mQ.ttf',
-    popularityRank: 1700,
+    popularityRank: 1664,
   ),
   WebFont(
     family: 'Philosopher',
@@ -28959,7 +28959,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/philosopher/v21/vEFV2_5QCwIS4_Dhez5jcWBoT0g.ttf',
-    popularityRank: 283,
+    popularityRank: 288,
   ),
   WebFont(
     family: 'Phudu',
@@ -28983,7 +28983,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/phudu/v6/0FlJVPSHk0ya-7OUeO_U-Lwm7PkKtWzkSg-q.ttf',
-    popularityRank: 1093,
+    popularityRank: 883,
   ),
   WebFont(
     family: 'Piazzolla',
@@ -29040,7 +29040,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/piazzolla/v42/N0b52SlTPu5rIkWIZjVKKtYtfxYqZ4RJBFzFfYUjkSDdlqZgy7LYxkLz3gU.ttf',
-    popularityRank: 824,
+    popularityRank: 844,
   ),
   WebFont(
     family: 'Piedra',
@@ -29053,7 +29053,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/piedra/v27/ke8kOg8aN0Bn7hTenUaD.ttf',
-    popularityRank: 1385,
+    popularityRank: 1354,
   ),
   WebFont(
     family: 'Pinyon Script',
@@ -29070,7 +29070,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8WOPaPw.ttf',
-    popularityRank: 355,
+    popularityRank: 344,
   ),
   WebFont(
     family: 'Pirata One',
@@ -29083,7 +29083,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/pirataone/v23/I_urMpiDvgLdLh0fAtofhimOqw.ttf',
-    popularityRank: 449,
+    popularityRank: 455,
   ),
   WebFont(
     family: 'Pixelify Sans',
@@ -29103,7 +29103,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0E1ZZZY.ttf',
-    popularityRank: 617,
+    popularityRank: 602,
   ),
   WebFont(
     family: 'Plaster',
@@ -29116,7 +29116,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/plaster/v25/DdTm79QatW80eRh4Ii9DPg.ttf',
-    popularityRank: 1377,
+    popularityRank: 1383,
   ),
   WebFont(
     family: 'Platypi',
@@ -29157,7 +29157,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/platypi/v6/bMromSGU7pMlaX6-PAmuwBQP4Hwe02Jz4q9isRw.ttf',
-    popularityRank: 802,
+    popularityRank: 799,
   ),
   WebFont(
     family: 'Play',
@@ -29179,7 +29179,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/play/v21/6aez4K2oVqwIvtM2Gg.ttf',
-    popularityRank: 150,
+    popularityRank: 147,
   ),
   WebFont(
     family: 'Playball',
@@ -29197,7 +29197,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/playball/v22/TK3gWksYAxQ7jbsKcg8Cne8.ttf',
-    popularityRank: 346,
+    popularityRank: 342,
   ),
   WebFont(
     family: 'Playfair',
@@ -29244,7 +29244,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUeugcqyc.ttf',
-    popularityRank: 250,
+    popularityRank: 246,
   ),
   WebFont(
     family: 'Playfair Display',
@@ -29309,7 +29309,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/playfairdisplaysc/v18/ke85OhoaMkR6-hSn7kbHVoFf7ZfgMPr_lb8MFQ.ttf',
-    popularityRank: 314,
+    popularityRank: 304,
   ),
   WebFont(
     family: 'Playpen Sans',
@@ -29338,7 +29338,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playpensans/v22/dg43_pj1p6gXP0gzAZgm4c8XQArSU7ACQSn4IvRhinU3EQ.ttf',
-    popularityRank: 743,
+    popularityRank: 754,
   ),
   WebFont(
     family: 'Playpen Sans Arabic',
@@ -29364,7 +29364,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playpensansarabic/v8/KtkGAKiSeo38bkPvhIqjU6aCgha2der-Z4VIEhR8sOKet-ZBoIPdDuk.ttf',
-    popularityRank: 1242,
+    popularityRank: 1200,
   ),
   WebFont(
     family: 'Playpen Sans Deva',
@@ -29389,7 +29389,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playpensansdeva/v4/vm8fdQj0UUbMxObnsO17RZ7pPBuJge10OmPLCiz-HCrQ0xkkGvRJ.ttf',
-    popularityRank: 1681,
+    popularityRank: 1391,
   ),
   WebFont(
     family: 'Playpen Sans Hebrew',
@@ -29415,7 +29415,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playpensanshebrew/v8/lJws-okuj29wT-AN6RvLx8QqjkKhL7eAjoL9jK7L4vstDnnp56C711U.ttf',
-    popularityRank: 1558,
+    popularityRank: 1312,
   ),
   WebFont(
     family: 'Playpen Sans Thai',
@@ -29457,7 +29457,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritear/v6/VEMjRohisJz5pTCzruCNjWbfp_N-aNWqYgKS-ftfmf6OTw.ttf',
-    popularityRank: 1790,
+    popularityRank: 1780,
   ),
   WebFont(
     family: 'Playwrite AR Guides',
@@ -29470,7 +29470,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritearguides/v5/iJWYBWqKZTrYS9uv-Ry6kDf-q_0Xq67mQGQQXw.ttf',
-    popularityRank: 1917,
+    popularityRank: 1928,
   ),
   WebFont(
     family: 'Playwrite AT',
@@ -29499,7 +29499,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76R0zGKA.ttf',
-    popularityRank: 1554,
+    popularityRank: 1569,
   ),
   WebFont(
     family: 'Playwrite AT Guides',
@@ -29513,7 +29513,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBdbkDcg.ttf',
-    popularityRank: 1940,
+    popularityRank: 1938,
   ),
   WebFont(
     family: 'Playwrite AU NSW',
@@ -29529,7 +29529,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMY97Rjk.ttf',
-    popularityRank: 1492,
+    popularityRank: 1478,
   ),
   WebFont(
     family: 'Playwrite AU NSW Guides',
@@ -29542,7 +29542,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteaunswguides/v1/LDIiao-QNRMmVPcU8-sgUraMF7GZs_1Emk3v8uPab-A.ttf',
-    popularityRank: 1941,
+    popularityRank: 1942,
   ),
   WebFont(
     family: 'Playwrite AU QLD',
@@ -29558,7 +29558,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteauqld/v11/SlGGmR-Yo5oYZX5BFVcEwSFSOXBRWADAWbgjmLBhA6-yML2eoGk.ttf',
-    popularityRank: 1582,
+    popularityRank: 1555,
   ),
   WebFont(
     family: 'Playwrite AU QLD Guides',
@@ -29571,7 +29571,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteauqldguides/v1/TuGBUUJtX5tTUfQi_7kbiZZFVhl0FIKnvy00LAxkKTY.ttf',
-    popularityRank: 1950,
+    popularityRank: 1935,
   ),
   WebFont(
     family: 'Playwrite AU SA',
@@ -29587,7 +29587,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgRQuRpDg.ttf',
-    popularityRank: 1534,
+    popularityRank: 1529,
   ),
   WebFont(
     family: 'Playwrite AU SA Guides',
@@ -29600,7 +29600,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteausaguides/v1/3JnsSCLj03y8jUv7aFWBCCglBaFjl54aVBAojckOOw.ttf',
-    popularityRank: 1923,
+    popularityRank: 1913,
   ),
   WebFont(
     family: 'Playwrite AU TAS',
@@ -29616,7 +29616,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteautas/v11/GftT7u9QuxsdI_QuuctXue3ElxxmcBb3ih0opvWiLLUEH5K7FFs.ttf',
-    popularityRank: 1708,
+    popularityRank: 1758,
   ),
   WebFont(
     family: 'Playwrite AU TAS Guides',
@@ -29629,7 +29629,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNgbLJYE.ttf',
-    popularityRank: 1932,
+    popularityRank: 1940,
   ),
   WebFont(
     family: 'Playwrite AU VIC',
@@ -29645,7 +29645,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteauvic/v11/bWtu7enUfwn0Hf1zjprKOJdcDy8rxwC1ltAeNDAAd4fTaYK1AhY.ttf',
-    popularityRank: 1767,
+    popularityRank: 1801,
   ),
   WebFont(
     family: 'Playwrite AU VIC Guides',
@@ -29658,7 +29658,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteauvicguides/v1/ll8sK3mEVy6nEMXMskXIZv8owEdZpVIWaQEnuA6E0z4.ttf',
-    popularityRank: 1833,
+    popularityRank: 1840,
   ),
   WebFont(
     family: 'Playwrite BE VLG',
@@ -29674,7 +29674,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritebevlg/v6/GFD8WBdug3mQSvrAT9AL6fd4ZkB-a2sDmg3dy2W0blL8vMCNOCg.ttf',
-    popularityRank: 1718,
+    popularityRank: 1682,
   ),
   WebFont(
     family: 'Playwrite BE VLG Guides',
@@ -29687,7 +29687,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritebevlgguides/v2/EYqjmb1Mz6hO4edaU9qKGFZMDd_Q-zwwK__U1t9HIX0.ttf',
-    popularityRank: 1921,
+    popularityRank: 1939,
   ),
   WebFont(
     family: 'Playwrite BE WAL',
@@ -29703,7 +29703,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGMuhFRg.ttf',
-    popularityRank: 1751,
+    popularityRank: 1749,
   ),
   WebFont(
     family: 'Playwrite BE WAL Guides',
@@ -29716,7 +29716,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUwHkXpI.ttf',
-    popularityRank: 1916,
+    popularityRank: 1921,
   ),
   WebFont(
     family: 'Playwrite BR',
@@ -29732,7 +29732,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritebr/v11/kJEhBuMK4Q07lDHc2Xp9vYgIp-6D3QEGCpthmFOPJsbpBA.ttf',
-    popularityRank: 1844,
+    popularityRank: 1869,
   ),
   WebFont(
     family: 'Playwrite BR Guides',
@@ -29745,7 +29745,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritebrguides/v1/tssxAohQaiQS-wrnJz-F5CqW4dOezRwpy9YIPw.ttf',
-    popularityRank: 1919,
+    popularityRank: 1930,
   ),
   WebFont(
     family: 'Playwrite CA',
@@ -29761,7 +29761,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteca/v11/z7NGdR_4cT0NOrEAIElil93uR_VhfhYaYOijHiqvUpyw0A.ttf',
-    popularityRank: 1571,
+    popularityRank: 1568,
   ),
   WebFont(
     family: 'Playwrite CA Guides',
@@ -29774,7 +29774,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritecaguides/v1/MjQamj1kuP_soQ3o-rysO9Ci_8oJlIUUEnYr2Q.ttf',
-    popularityRank: 1942,
+    popularityRank: 1949,
   ),
   WebFont(
     family: 'Playwrite CL',
@@ -29790,7 +29790,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritecl/v6/-zk391m7wssz_XLkGgu8hy3tqrcOhnbf6ForU8JajLu9Cw.ttf',
-    popularityRank: 1847,
+    popularityRank: 1836,
   ),
   WebFont(
     family: 'Playwrite CL Guides',
@@ -29803,7 +29803,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteclguides/v2/Z9XKDnxTQxyGzOn3eMH-i6Ws0czqkE-hnNtfvw.ttf',
-    popularityRank: 1929,
+    popularityRank: 1924,
   ),
   WebFont(
     family: 'Playwrite CO',
@@ -29819,7 +29819,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteco/v13/0FlGVP2Hl1iH-fv2BH4kJkgb8vH-rbJPTDqqx7ZIk-ZEFg.ttf',
-    popularityRank: 1822,
+    popularityRank: 1834,
   ),
   WebFont(
     family: 'Playwrite CO Guides',
@@ -29832,7 +29832,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritecoguides/v5/AYCXpWvtftIVXepC5AzjAx1KgYPugOK0fq1ZIw.ttf',
-    popularityRank: 1830,
+    popularityRank: 1826,
   ),
   WebFont(
     family: 'Playwrite CU',
@@ -29848,7 +29848,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmxVeXxnw.ttf',
-    popularityRank: 1260,
+    popularityRank: 1196,
   ),
   WebFont(
     family: 'Playwrite CU Guides',
@@ -29861,7 +29861,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritecuguides/v1/c4m81mZtG8v6p3iAoFBJ2dJdu9fWPSaOJosCCQ.ttf',
-    popularityRank: 1911,
+    popularityRank: 1918,
   ),
   WebFont(
     family: 'Playwrite CZ',
@@ -29877,7 +29877,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bfqX1Ug.ttf',
-    popularityRank: 1824,
+    popularityRank: 1813,
   ),
   WebFont(
     family: 'Playwrite CZ Guides',
@@ -29890,7 +29890,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteczguides/v1/6qLcKY0NtxD-qVlIPUIPeH4lUQa6B3ZZckoUvg.ttf',
-    popularityRank: 1949,
+    popularityRank: 1948,
   ),
   WebFont(
     family: 'Playwrite DE Grund',
@@ -29906,7 +29906,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedegrund/v11/EJR-QhwoXdccriFurnRxqv-1MFyKy696-4VufrEGGbTZz2qHVwGePQ.ttf',
-    popularityRank: 1297,
+    popularityRank: 1311,
   ),
   WebFont(
     family: 'Playwrite DE Grund Guides',
@@ -29919,7 +29919,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexndub94ZIg.ttf',
-    popularityRank: 1906,
+    popularityRank: 1912,
   ),
   WebFont(
     family: 'Playwrite DE LA',
@@ -29935,7 +29935,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedela/v11/oY1J8e3fprboJ2HN4ogXTpFVJ8QjJV9p0P4yukst2FnqDgYohA.ttf',
-    popularityRank: 1761,
+    popularityRank: 1798,
   ),
   WebFont(
     family: 'Playwrite DE LA Guides',
@@ -29948,7 +29948,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedelaguides/v2/1q2XY42fB0V64O4aSe1OjKs_yAXBOfDI5wE52gyG7w.ttf',
-    popularityRank: 1936,
+    popularityRank: 1933,
   ),
   WebFont(
     family: 'Playwrite DE SAS',
@@ -29964,7 +29964,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgt6kQSE.ttf',
-    popularityRank: 1695,
+    popularityRank: 1700,
   ),
   WebFont(
     family: 'Playwrite DE SAS Guides',
@@ -29977,7 +29977,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedesasguides/v1/8At5GtCjPp-GWR2h9cC6ePzz2l6LJ3VZaPNi16BFfNQ.ttf',
-    popularityRank: 1947,
+    popularityRank: 1945,
   ),
   WebFont(
     family: 'Playwrite DE VA',
@@ -29993,7 +29993,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySj28pHw.ttf',
-    popularityRank: 1907,
+    popularityRank: 1888,
   ),
   WebFont(
     family: 'Playwrite DE VA Guides',
@@ -30006,7 +30006,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28YB5YMQ.ttf',
-    popularityRank: 1918,
+    popularityRank: 1931,
   ),
   WebFont(
     family: 'Playwrite DK Loopet',
@@ -30022,7 +30022,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwdgQsw4.ttf',
-    popularityRank: 1601,
+    popularityRank: 1616,
   ),
   WebFont(
     family: 'Playwrite DK Loopet Guides',
@@ -30035,7 +30035,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb6tnGFw.ttf',
-    popularityRank: 1931,
+    popularityRank: 1908,
   ),
   WebFont(
     family: 'Playwrite DK Uloopet',
@@ -30051,7 +30051,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedkuloopet/v6/bWtS7e3Ufwn0Hf1zjprKPYlcDAoHknvYFjqIh8PF6jwcP5K06lUbKOPk.ttf',
-    popularityRank: 1736,
+    popularityRank: 1720,
   ),
   WebFont(
     family: 'Playwrite DK Uloopet Guides',
@@ -30064,7 +30064,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHkFb4Vf.ttf',
-    popularityRank: 1924,
+    popularityRank: 1929,
   ),
   WebFont(
     family: 'Playwrite ES',
@@ -30080,7 +30080,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritees/v11/kJEhBuMK4Q07lDHc2Xp9uokIp-6D3QEGCpthmFOPJsbpBA.ttf',
-    popularityRank: 1698,
+    popularityRank: 1690,
   ),
   WebFont(
     family: 'Playwrite ES Deco',
@@ -30096,7 +30096,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdBOAVt.ttf',
-    popularityRank: 1842,
+    popularityRank: 1853,
   ),
   WebFont(
     family: 'Playwrite ES Deco Guides',
@@ -30138,7 +30138,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritefrmoderne/v11/3y9L6awucz3w5m4FFTzKolJRXhUk_u1yWtWmFCJcqUBvK5aJuAKfA1T8.ttf',
-    popularityRank: 1770,
+    popularityRank: 1768,
   ),
   WebFont(
     family: 'Playwrite FR Moderne Guides',
@@ -30151,7 +30151,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritefrmoderneguides/v2/CSRr4yxOn-mMWCgLPl16KrUKBbwa2ZZLdkrvXllIP223nYbP.ttf',
-    popularityRank: 1925,
+    popularityRank: 1916,
   ),
   WebFont(
     family: 'Playwrite FR Trad',
@@ -30167,7 +30167,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritefrtrad/v13/sJot3KxJjdGLJV3vyatrJE2pkQisWWMBP23HSIVI5tvAogv9d9Wb.ttf',
-    popularityRank: 1904,
+    popularityRank: 1902,
   ),
   WebFont(
     family: 'Playwrite FR Trad Guides',
@@ -30180,7 +30180,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritefrtradguides/v1/l7gMbit5yM62ycwevWCt133rT2kpYpEKjyfqRWL1f7KT.ttf',
-    popularityRank: 1922,
+    popularityRank: 1934,
   ),
   WebFont(
     family: 'Playwrite GB J',
@@ -30209,7 +30209,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritegbj/v11/k3kEo8wSPe9dzQ1UGbvobAPhY5iG-fsubxedDheGdc93adTT.ttf',
-    popularityRank: 1741,
+    popularityRank: 1748,
   ),
   WebFont(
     family: 'Playwrite GB J Guides',
@@ -30223,7 +30223,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KhAs.ttf',
-    popularityRank: 1909,
+    popularityRank: 1915,
   ),
   WebFont(
     family: 'Playwrite GB S',
@@ -30252,7 +30252,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritegbs/v12/oPWb_kFkk-s1Xclhmlemy7jsNQR8TohGU_DTHWU6uhDMxp2I.ttf',
-    popularityRank: 1434,
+    popularityRank: 1119,
   ),
   WebFont(
     family: 'Playwrite GB S Guides',
@@ -30266,7 +30266,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xl4L.ttf',
-    popularityRank: 1898,
+    popularityRank: 1909,
   ),
   WebFont(
     family: 'Playwrite HR',
@@ -30282,7 +30282,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoBxYDdBA.ttf',
-    popularityRank: 1641,
+    popularityRank: 1680,
   ),
   WebFont(
     family: 'Playwrite HR Guides',
@@ -30295,7 +30295,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritehrguides/v1/6NUK8EedKwOcfRjj8ukv_L4kjqAoGrjdamE-9g.ttf',
-    popularityRank: 1934,
+    popularityRank: 1943,
   ),
   WebFont(
     family: 'Playwrite HR Lijeva',
@@ -30311,7 +30311,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritehrlijeva/v6/gNMvW2dhS5-p7HvxrBYiWN2SsKqLWCrYiDBAvbRl82ZY0d4zBvaVwYs.ttf',
-    popularityRank: 1745,
+    popularityRank: 1763,
   ),
   WebFont(
     family: 'Playwrite HR Lijeva Guides',
@@ -30324,7 +30324,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QNbgijw.ttf',
-    popularityRank: 1935,
+    popularityRank: 1941,
   ),
   WebFont(
     family: 'Playwrite HU',
@@ -30340,7 +30340,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritehu/v6/A2BIn59A0g0xA3zDhFw-0vfPWJtlaFKmrETx1PL6fOyXGw.ttf',
-    popularityRank: 1667,
+    popularityRank: 1649,
   ),
   WebFont(
     family: 'Playwrite HU Guides',
@@ -30353,7 +30353,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritehuguides/v1/AYCXpWvtftIVXepC5AzjCAdKgYPugOK0fq1ZIw.ttf',
-    popularityRank: 1945,
+    popularityRank: 1911,
   ),
   WebFont(
     family: 'Playwrite ID',
@@ -30369,7 +30369,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteid/v11/Cn-kJt2YWhlY2oC4KxifKQJmrtrRm-sKkQqUl0-RN_NREg.ttf',
-    popularityRank: 1515,
+    popularityRank: 1557,
   ),
   WebFont(
     family: 'Playwrite ID Guides',
@@ -30382,7 +30382,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteidguides/v1/MjQamj1kuP_soQ3o-rysMdWi_8oJlIUUEnYr2Q.ttf',
-    popularityRank: 1933,
+    popularityRank: 1944,
   ),
   WebFont(
     family: 'Playwrite IE',
@@ -30398,7 +30398,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteie/v11/fC1zPYtWYWnH0hvndYd6GCGWXCAxfsUebXFMyzioNpMk2w.ttf',
-    popularityRank: 1498,
+    popularityRank: 1519,
   ),
   WebFont(
     family: 'Playwrite IE Guides',
@@ -30411,7 +30411,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteieguides/v1/LhW5MULFNP8PI-1UADw_Kbp9daTx5ovUWNspMw.ttf',
-    popularityRank: 1891,
+    popularityRank: 1873,
   ),
   WebFont(
     family: 'Playwrite IN',
@@ -30427,7 +30427,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritein/v11/uk-xEGGpoLQ97mfv2J3cZzuz7CyEJhPw65lkM7mMAR4t2w.ttf',
-    popularityRank: 1292,
+    popularityRank: 1290,
   ),
   WebFont(
     family: 'Playwrite IN Guides',
@@ -30440,7 +30440,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteinguides/v1/GFD2WBRug3mQSvrAT9AL4vx4d3lQNQV4ftxgcA.ttf',
-    popularityRank: 1913,
+    popularityRank: 1917,
   ),
   WebFont(
     family: 'Playwrite IS',
@@ -30456,7 +30456,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteis/v10/JTUFjI4o_SGg9lecLGptrD17xQYXK0vOoz6jq6R9WX50ow.ttf',
-    popularityRank: 1286,
+    popularityRank: 1269,
   ),
   WebFont(
     family: 'Playwrite IS Guides',
@@ -30469,7 +30469,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteisguides/v1/5aUp9-GkphaVExwxdX6SwWF-uigk3Cglnm5jsw.ttf',
-    popularityRank: 1944,
+    popularityRank: 1947,
   ),
   WebFont(
     family: 'Playwrite IT Moderna',
@@ -30485,7 +30485,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5WihMuLzb.ttf',
-    popularityRank: 1689,
+    popularityRank: 1676,
   ),
   WebFont(
     family: 'Playwrite IT Moderna Guides',
@@ -30498,7 +30498,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteitmodernaguides/v1/2sDKZHBJg5rCj6fz_QgDJhGcTtJ5AVu-1w5jRQjRv9q_pe9p.ttf',
-    popularityRank: 1920,
+    popularityRank: 1901,
   ),
   WebFont(
     family: 'Playwrite IT Trad',
@@ -30514,7 +30514,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteittrad/v11/SlG5mR6Yo5oYZX5BFVcEySBSPE50BjHDpZxuvgxzFq96u-6PgUlJ.ttf',
-    popularityRank: 1905,
+    popularityRank: 1904,
   ),
   WebFont(
     family: 'Playwrite IT Trad Guides',
@@ -30527,7 +30527,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRkAo96.ttf',
-    popularityRank: 1927,
+    popularityRank: 1925,
   ),
   WebFont(
     family: 'Playwrite MX',
@@ -30543,7 +30543,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd1xcVWA.ttf',
-    popularityRank: 1710,
+    popularityRank: 1727,
   ),
   WebFont(
     family: 'Playwrite MX Guides',
@@ -30556,7 +30556,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritemxguides/v1/k3kMo9ESPe9dzQ1UGbvoZhnhbtfklWqN4q26Gw.ttf',
-    popularityRank: 1696,
+    popularityRank: 1708,
   ),
   WebFont(
     family: 'Playwrite NG Modern',
@@ -30572,7 +30572,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritengmodern/v11/ijw-s4b2R9Qve5V5lNJb_yRhEfSep5NbFCKmKgoEeCA4V17tPDbj7m8.ttf',
-    popularityRank: 1789,
+    popularityRank: 1809,
   ),
   WebFont(
     family: 'Playwrite NG Modern Guides',
@@ -30585,7 +30585,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritengmodernguides/v1/6qLVKYQNtxD-qVlIPUIPdWMlWxy3BmFEQgxB1xvFhAaqUp8.ttf',
-    popularityRank: 1943,
+    popularityRank: 1932,
   ),
   WebFont(
     family: 'Playwrite NL',
@@ -30601,7 +30601,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritenl/v10/k3kCo84SPe9dzQ1UGbvoZQ37Iqp5IZJF9bmaG9_FrY1HaA.ttf',
-    popularityRank: 1726,
+    popularityRank: 1689,
   ),
   WebFont(
     family: 'Playwrite NL Guides',
@@ -30614,7 +30614,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritenlguides/v1/FwZH7_8mxlw-50y5PJughoCL4jbXkMqwgWOMOw.ttf',
-    popularityRank: 1938,
+    popularityRank: 1927,
   ),
   WebFont(
     family: 'Playwrite NO',
@@ -30630,7 +30630,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteno/v10/nuFrD_fYSZviRJYb-P2TrQO1DRpazaZDgnw-49wgLKat_g.ttf',
-    popularityRank: 1173,
+    popularityRank: 1215,
   ),
   WebFont(
     family: 'Playwrite NO Guides',
@@ -30643,7 +30643,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHS26T3g.ttf',
-    popularityRank: 1948,
+    popularityRank: 1914,
   ),
   WebFont(
     family: 'Playwrite NZ',
@@ -30659,7 +30659,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritenz/v12/d6lakaOxRsyr_zZDmUYvh2TW3NCQVvjKPjPjngAUSRpzhA.ttf',
-    popularityRank: 1404,
+    popularityRank: 1733,
   ),
   WebFont(
     family: 'Playwrite NZ Basic',
@@ -30675,7 +30675,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritenzbasic/v1/YcmesYdNS1SdgmHbGgtRtk4ljD2L-0t3tsFaQT-eokVSUi0KHoxVdQ.ttf',
-    popularityRank: 1659,
+    popularityRank: 1642,
   ),
   WebFont(
     family: 'Playwrite NZ Basic Guides',
@@ -30688,7 +30688,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritenzbasicguides/v1/R70Ijzkdl_2TLaCpQB6Y1nC0FVKKJvaZ2hDyljkrqGGKcQ.ttf',
-    popularityRank: 1879,
+    popularityRank: 1922,
   ),
   WebFont(
     family: 'Playwrite NZ Guides',
@@ -30701,7 +30701,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritenzguides/v2/t5t8IQQPN4uFDRepJwiX4vzIikyGzv71ah47rw.ttf',
-    popularityRank: 1903,
+    popularityRank: 1537,
   ),
   WebFont(
     family: 'Playwrite PE',
@@ -30717,7 +30717,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritepe/v6/FwZJ7-Amxlw-50y5PJugmImRrktKJDJ4lnesO2ltfPDPcg.ttf',
-    popularityRank: 1639,
+    popularityRank: 1531,
   ),
   WebFont(
     family: 'Playwrite PE Guides',
@@ -30730,7 +30730,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritepeguides/v1/AMONz5uBsGadFuvf9j8ZyqI0FA3br70w8y2Kkg.ttf',
-    popularityRank: 1897,
+    popularityRank: 1887,
   ),
   WebFont(
     family: 'Playwrite PL',
@@ -30746,7 +30746,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritepl/v10/0QIyMXVf_4C2VH-yUr5uz72U-LQiKJ_9tb1WmRfbxZ2RTw.ttf',
-    popularityRank: 1632,
+    popularityRank: 1604,
   ),
   WebFont(
     family: 'Playwrite PL Guides',
@@ -30759,7 +30759,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteplguides/v1/jVyW7m_lCm7G5CZyQCAu8mgkGLk-kmibaRzQQQ.ttf',
-    popularityRank: 1889,
+    popularityRank: 1899,
   ),
   WebFont(
     family: 'Playwrite PT',
@@ -30775,7 +30775,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritept/v10/6NUE8FidKwOcfRjj8ukv5Lg-wt21rkAVfXUe9qDiffNnug.ttf',
-    popularityRank: 1727,
+    popularityRank: 1743,
   ),
   WebFont(
     family: 'Playwrite PT Guides',
@@ -30788,7 +30788,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteptguides/v2/sJoY3K5JjdGLJV3vyatrMkupgg-kWTx5J5g31Q.ttf',
-    popularityRank: 1893,
+    popularityRank: 1900,
   ),
   WebFont(
     family: 'Playwrite RO',
@@ -30804,7 +30804,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritero/v10/gok8H6fuA1J7QPJ04HFTGSWdk_S0czhwEf0j4a9YrZSGIg.ttf',
-    popularityRank: 1511,
+    popularityRank: 1533,
   ),
   WebFont(
     family: 'Playwrite RO Guides',
@@ -30817,7 +30817,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteroguides/v1/wlptgx7ZCE50snmWiOExiylvL10_b5YmzLFnfw.ttf',
-    popularityRank: 1939,
+    popularityRank: 1950,
   ),
   WebFont(
     family: 'Playwrite SK',
@@ -30833,7 +30833,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritesk/v10/9XU3lJp0klrZDw3AZHcsJTByz7latrF9yDIlf-2cjsK5cA.ttf',
-    popularityRank: 1757,
+    popularityRank: 1777,
   ),
   WebFont(
     family: 'Playwrite SK Guides',
@@ -30862,7 +30862,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritetz/v11/RLptK5rs6au7bzABmVQAOwnUbvHMbzSUU27JDWwTiexIPw.ttf',
-    popularityRank: 1808,
+    popularityRank: 1818,
   ),
   WebFont(
     family: 'Playwrite TZ Guides',
@@ -30875,7 +30875,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritetzguides/v1/SLXUc0_L5XEkcjBPGvusk4lULgsM9U5_UQ232A.ttf',
-    popularityRank: 1902,
+    popularityRank: 1896,
   ),
   WebFont(
     family: 'Playwrite US Modern',
@@ -30891,7 +30891,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteusmodern/v11/H4cMBWmRlMXPhla3hmMaveiYz8nSDkIFLNIYl2TXUwK62YohNj2CYUY.ttf',
-    popularityRank: 1372,
+    popularityRank: 1428,
   ),
   WebFont(
     family: 'Playwrite US Modern Guides',
@@ -30904,7 +30904,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9poywbw8.ttf',
-    popularityRank: 1928,
+    popularityRank: 1919,
   ),
   WebFont(
     family: 'Playwrite US Trad',
@@ -30920,7 +30920,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tQjqib.ttf',
-    popularityRank: 1221,
+    popularityRank: 1338,
   ),
   WebFont(
     family: 'Playwrite US Trad Guides',
@@ -30933,7 +30933,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteustradguides/v1/-zk29027wssz_XLkGgu8kTL39c2bMssjmiZPNnkJnZqd.ttf',
-    popularityRank: 1850,
+    popularityRank: 1867,
   ),
   WebFont(
     family: 'Playwrite VN',
@@ -30949,7 +30949,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritevn/v11/mtGo4_hXJqPSu8nf5RBY5i0q0yxCxtP-9TFBNUI9I-5NOQ.ttf',
-    popularityRank: 1747,
+    popularityRank: 1753,
   ),
   WebFont(
     family: 'Playwrite VN Guides',
@@ -30962,7 +30962,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritevnguides/v1/JIAvUUlydXJZq1IQU8oDBn2CUkROHFEATXIdeg.ttf',
-    popularityRank: 1457,
+    popularityRank: 1438,
   ),
   WebFont(
     family: 'Playwrite ZA',
@@ -30978,7 +30978,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwriteza/v11/Noag6Uzhw5CTOhXKt5-vwvhrNyaNQo1LaBq0EbLHXYQmmw.ttf',
-    popularityRank: 1625,
+    popularityRank: 1626,
   ),
   WebFont(
     family: 'Playwrite ZA Guides',
@@ -30991,7 +30991,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/playwritezaguides/v1/O4ZOFHPsmxlhCg3-iycDyEwy0BT1ribk6HHiDA.ttf',
-    popularityRank: 1930,
+    popularityRank: 1936,
   ),
   WebFont(
     family: 'Pliant',
@@ -31047,7 +31047,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/pliant/v1/R70xjyYdl_WLNKb6P3NQcLsvUCb5T137p26TBozFA2e_cZudopNxVX4.ttf',
-    popularityRank: 1509,
+    popularityRank: 1535,
   ),
   WebFont(
     family: 'Plus Jakarta Sans',
@@ -31093,7 +31093,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79Sx_Q.ttf',
-    popularityRank: 43,
+    popularityRank: 42,
   ),
   WebFont(
     family: 'Pochaevsk',
@@ -31111,7 +31111,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/pochaevsk/v5/55xuey9_OdX_Om7ReYgVoZ18.ttf',
-    popularityRank: 1862,
+    popularityRank: 1845,
   ),
   WebFont(
     family: 'Podkova',
@@ -31134,7 +31134,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzfU5GI4.ttf',
-    popularityRank: 588,
+    popularityRank: 560,
   ),
   WebFont(
     family: 'Poetsen One',
@@ -31147,7 +31147,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/poetsenone/v3/ke8hOgIaMUB37xCgvCntWuIuofY.ttf',
-    popularityRank: 747,
+    popularityRank: 707,
   ),
   WebFont(
     family: 'Poiret One',
@@ -31164,7 +31164,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/poiretone/v18/UqyVK80NJXN4zfRgbdfbo5hcUg.ttf',
-    popularityRank: 342,
+    popularityRank: 353,
   ),
   WebFont(
     family: 'Poller One',
@@ -31177,7 +31177,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/pollerone/v25/ahccv82n0TN3gia5E4BuR-hRhQ.ttf',
-    popularityRank: 482,
+    popularityRank: 502,
   ),
   WebFont(
     family: 'Poltawski Nowy',
@@ -31210,7 +31210,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/poltawskinowy/v5/flUsRq6ww480U1xsUpFXD-iDBNlSAOLkKCLnWq8KqCWXDCSR.ttf',
-    popularityRank: 1131,
+    popularityRank: 1084,
   ),
   WebFont(
     family: 'Poly',
@@ -31226,7 +31226,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/poly/v18/MQpb-W6wKNitdLGKrw.ttf',
-    popularityRank: 892,
+    popularityRank: 854,
   ),
   WebFont(
     family: 'Pompiere',
@@ -31240,7 +31240,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/pompiere/v21/VEMyRoxis5Dwuyeov5Ws7DQ.ttf',
-    popularityRank: 927,
+    popularityRank: 934,
   ),
   WebFont(
     family: 'Ponnala',
@@ -31253,7 +31253,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/ponnala/v3/w8gaH2QxQOU08bbbnQqn3A.ttf',
-    popularityRank: 1821,
+    popularityRank: 1808,
   ),
   WebFont(
     family: 'Ponomar',
@@ -31270,7 +31270,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/ponomar/v5/or3iQ6zp3fKD2wImXJXXBg.ttf',
-    popularityRank: 1491,
+    popularityRank: 1492,
   ),
   WebFont(
     family: 'Pontano Sans',
@@ -31287,7 +31287,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOXLMrceGow.ttf',
-    popularityRank: 483,
+    popularityRank: 510,
   ),
   WebFont(
     family: 'Poor Story',
@@ -31300,7 +31300,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd0OitKA.ttf',
-    popularityRank: 848,
+    popularityRank: 1183,
   ),
   WebFont(
     family: 'Poppins',
@@ -31366,7 +31366,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/portlligatsans/v24/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7J-Sw.ttf',
-    popularityRank: 897,
+    popularityRank: 957,
   ),
   WebFont(
     family: 'Port Lligat Slab',
@@ -31379,7 +31379,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/portlligatslab/v27/LDIpaoiQNgArA8kR7ulhZ8P_NYOsg7sR8w.ttf',
-    popularityRank: 1289,
+    popularityRank: 1315,
   ),
   WebFont(
     family: 'Potta One',
@@ -31398,7 +31398,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/pottaone/v19/FeVSS05Bp6cy7xI-Yfxg3JRj.ttf',
-    popularityRank: 473,
+    popularityRank: 451,
   ),
   WebFont(
     family: 'Pragati Narrow',
@@ -31416,7 +31416,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/pragatinarrow/v15/vm8vdRf0T0bS1ffgsPB7WZ-mD27-wNc.ttf',
-    popularityRank: 467,
+    popularityRank: 474,
   ),
   WebFont(
     family: 'Praise',
@@ -31433,7 +31433,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/praise/v9/qkBUXvUZ-cnFXcFCD_m-.ttf',
-    popularityRank: 1446,
+    popularityRank: 1441,
   ),
   WebFont(
     family: 'Prata',
@@ -31452,7 +31452,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-sWJCms.ttf',
-    popularityRank: 245,
+    popularityRank: 242,
   ),
   WebFont(
     family: 'Preahvihear',
@@ -31465,7 +31465,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/preahvihear/v32/6NUS8F-dNQeEYhzj7uluxvwF6dU.ttf',
-    popularityRank: 1505,
+    popularityRank: 1503,
   ),
   WebFont(
     family: 'Press Start 2P',
@@ -31484,7 +31484,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/pressstart2p/v16/e3t4euO8T-267oIAQAu6jDQyK3nTivY.ttf',
-    popularityRank: 211,
+    popularityRank: 197,
   ),
   WebFont(
     family: 'Pridi',
@@ -31508,7 +31508,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/pridi/v15/2sDQZG5JnZLfkcWbqW0.ttf',
-    popularityRank: 425,
+    popularityRank: 432,
   ),
   WebFont(
     family: 'Princess Sofia',
@@ -31521,7 +31521,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/princesssofia/v27/qWczB6yguIb8DZ_GXZst16n7GSz6kjE.ttf',
-    popularityRank: 1538,
+    popularityRank: 1523,
   ),
   WebFont(
     family: 'Prociono',
@@ -31535,7 +31535,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/prociono/v28/r05YGLlR-KxAf9GGO_uowjI.ttf',
-    popularityRank: 1050,
+    popularityRank: 923,
   ),
   WebFont(
     family: 'Prompt',
@@ -31589,7 +31589,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/prompt/v12/-W__XJnvUD7dzB2KZtoY.ttf',
-    popularityRank: 32,
+    popularityRank: 30,
   ),
   WebFont(
     family: 'Prosto One',
@@ -31606,7 +31606,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/prostoone/v21/OpNJno4VhNfK-RgpwWWxlitVXg.ttf',
-    popularityRank: 885,
+    popularityRank: 863,
   ),
   WebFont(
     family: 'Protest Guerrilla',
@@ -31625,7 +31625,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/protestguerrilla/v2/Qw3HZR5PDSL6K3irtrY-VJB2YzARHW0lqps.ttf',
-    popularityRank: 1586,
+    popularityRank: 1572,
   ),
   WebFont(
     family: 'Protest Revolution',
@@ -31644,7 +31644,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/protestrevolution/v2/11hcGofZ0kXBbxQXFB7MJsjtqnVw6Z2c8fg3.ttf',
-    popularityRank: 495,
+    popularityRank: 491,
   ),
   WebFont(
     family: 'Protest Riot',
@@ -31663,7 +31663,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/protestriot/v2/d6lPkaOxWMKm7TdezXFmpkr81vhk.ttf',
-    popularityRank: 1001,
+    popularityRank: 1023,
   ),
   WebFont(
     family: 'Protest Strike',
@@ -31682,7 +31682,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/proteststrike/v2/0QI5MXdf4Y67Rn6vBog67ZjFlqzX2AI.ttf',
-    popularityRank: 993,
+    popularityRank: 1017,
   ),
   WebFont(
     family: 'Proza Libre',
@@ -31715,7 +31715,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/prozalibre/v9/LYjGdGHgj0k1DIQRyUEyyEoudN8.ttf',
-    popularityRank: 572,
+    popularityRank: 563,
   ),
   WebFont(
     family: 'Public Sans',
@@ -31768,7 +31768,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpmJwgct.ttf',
-    popularityRank: 84,
+    popularityRank: 76,
   ),
   WebFont(
     family: 'Puppies Play',
@@ -31785,7 +31785,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/puppiesplay/v11/wlp2gwHZEV99rG6M3NR9uB9faQhW.ttf',
-    popularityRank: 1712,
+    popularityRank: 1709,
   ),
   WebFont(
     family: 'Puritan',
@@ -31801,7 +31801,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/puritan/v25/845YNMgkAJ2VTtIoxJv6QQ.ttf',
-    popularityRank: 809,
+    popularityRank: 961,
   ),
   WebFont(
     family: 'Purple Purse',
@@ -31814,7 +31814,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/purplepurse/v25/qWctB66gv53iAp-Vfs4My6qCeRz7.ttf',
-    popularityRank: 1430,
+    popularityRank: 1356,
   ),
   WebFont(
     family: 'Qahiri',
@@ -31827,7 +31827,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/qahiri/v11/tsssAp1RZy0C_hGeUnql.ttf',
-    popularityRank: 1023,
+    popularityRank: 998,
   ),
   WebFont(
     family: 'Quando',
@@ -31840,7 +31840,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/quando/v18/xMQVuFNaVa6YuW0ZCq-3.ttf',
-    popularityRank: 818,
+    popularityRank: 823,
   ),
   WebFont(
     family: 'Quantico',
@@ -31857,7 +31857,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/quantico/v19/rax-HiSdp9cPL3KIF7xtJDg.ttf',
-    popularityRank: 363,
+    popularityRank: 295,
   ),
   WebFont(
     family: 'Quattrocento',
@@ -31871,7 +31871,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/quattrocento/v24/OZpEg_xvsDZQL_LKIF7q4jP3xWj_.ttf',
-    popularityRank: 310,
+    popularityRank: 299,
   ),
   WebFont(
     family: 'Quattrocento Sans',
@@ -31887,7 +31887,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/quattrocentosans/v22/va9c4lja2NVIDdIAAoMR5MfuElaRB0zPt0o.ttf',
-    popularityRank: 358,
+    popularityRank: 326,
   ),
   WebFont(
     family: 'Questrial',
@@ -31904,7 +31904,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/questrial/v19/QdVUSTchPBm7nuUeVf70uCFg.ttf',
-    popularityRank: 151,
+    popularityRank: 150,
   ),
   WebFont(
     family: 'Quicksand',
@@ -31938,7 +31938,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/quintessential/v24/fdNn9sOGq31Yjnh3qWU14Ddtjb5xQb0.ttf',
-    popularityRank: 610,
+    popularityRank: 576,
   ),
   WebFont(
     family: 'Qwigley',
@@ -31955,7 +31955,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/qwigley/v20/1cXzaU3UGJb5tGoCiV1mjw.ttf',
-    popularityRank: 924,
+    popularityRank: 919,
   ),
   WebFont(
     family: 'Qwitcher Grypen',
@@ -31973,7 +31973,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/qwitchergrypen/v8/pxicypclp9tDilN9RrC5BSI1dZmbSWlE.ttf',
-    popularityRank: 715,
+    popularityRank: 724,
   ),
   WebFont(
     family: 'REM',
@@ -32026,7 +32026,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPMLqnTseaA.ttf',
-    popularityRank: 442,
+    popularityRank: 452,
   ),
   WebFont(
     family: 'Racing Sans One',
@@ -32039,7 +32039,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/racingsansone/v17/sykr-yRtm7EvTrXNxkv5jfKKyDCALnDi.ttf',
-    popularityRank: 407,
+    popularityRank: 383,
   ),
   WebFont(
     family: 'Radio Canada',
@@ -32077,7 +32077,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/radiocanada/v26/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkTPJLuM.ttf',
-    popularityRank: 335,
+    popularityRank: 321,
   ),
   WebFont(
     family: 'Radio Canada Big',
@@ -32106,7 +32106,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/radiocanadabig/v3/LYjUdHrinEImAoQewU0hyTsPFra4Yp-6A-YRBF-RX6nNRb3o0JM.ttf',
-    popularityRank: 620,
+    popularityRank: 629,
   ),
   WebFont(
     family: 'Radley',
@@ -32120,7 +32120,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/radley/v24/LYjDdGzinEIjCN1NoQNA.ttf',
-    popularityRank: 548,
+    popularityRank: 538,
   ),
   WebFont(
     family: 'Rajdhani',
@@ -32142,7 +32142,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/rajdhani/v17/LDIxapCSOBg7S-QT7p4BM-M.ttf',
-    popularityRank: 93,
+    popularityRank: 88,
   ),
   WebFont(
     family: 'Rakkas',
@@ -32159,7 +32159,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rakkas/v22/Qw3cZQlNHiblL3jPl9FL.ttf',
-    popularityRank: 565,
+    popularityRank: 794,
   ),
   WebFont(
     family: 'Raleway',
@@ -32214,7 +32214,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/raleway/v37/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCOPrQ.ttf',
-    popularityRank: 15,
+    popularityRank: 14,
   ),
   WebFont(
     family: 'Raleway Dots',
@@ -32227,7 +32227,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/ralewaydots/v19/6NUR8FifJg6AfQvzpshgwJ8UyPVB.ttf',
-    popularityRank: 1115,
+    popularityRank: 1121,
   ),
   WebFont(
     family: 'Ramabhadra',
@@ -32240,7 +32240,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ramabhadra/v17/EYq2maBOwqRW9P1SQ83LShJMWw.ttf',
-    popularityRank: 76,
+    popularityRank: 86,
   ),
   WebFont(
     family: 'Ramaraja',
@@ -32254,7 +32254,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/ramaraja/v17/SlGTmQearpYAYG1CACIloHQ.ttf',
-    popularityRank: 1270,
+    popularityRank: 1276,
   ),
   WebFont(
     family: 'Rambla',
@@ -32270,7 +32270,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/rambla/v14/snfrs0ip98hx6mrEIrgK.ttf',
-    popularityRank: 817,
+    popularityRank: 798,
   ),
   WebFont(
     family: 'Rammetto One',
@@ -32283,7 +32283,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rammettoone/v21/LhWiMV3HOfMbMetJG3lQDppNM_GY.ttf',
-    popularityRank: 317,
+    popularityRank: 332,
   ),
   WebFont(
     family: 'Rampart One',
@@ -32301,7 +32301,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rampartone/v13/K2F1fZFGl_JSR1tAWNG9R5qhJyo.ttf',
-    popularityRank: 558,
+    popularityRank: 595,
   ),
   WebFont(
     family: 'Ramsina',
@@ -32314,7 +32314,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ramsina/v3/daaYSTE-LGmCbhP9yL8_Rw.ttf',
-    popularityRank: 1908,
+    popularityRank: 1878,
   ),
   WebFont(
     family: 'Ranchers',
@@ -32328,7 +32328,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/ranchers/v19/zrfm0H3Lx-P2Xvs2ArDZBio.ttf',
-    popularityRank: 1154,
+    popularityRank: 1094,
   ),
   WebFont(
     family: 'Rancho',
@@ -32341,7 +32341,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/rancho/v22/46kulbzmXjLaqZRVbG_k.ttf',
-    popularityRank: 704,
+    popularityRank: 683,
   ),
   WebFont(
     family: 'Ranga',
@@ -32360,7 +32360,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/ranga/v22/C8ct4cYisGb28q6DJjg.ttf',
-    popularityRank: 1414,
+    popularityRank: 1419,
   ),
   WebFont(
     family: 'Rasa',
@@ -32398,7 +32398,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/rasa/v27/xn76YHIn1mWmVKl8ZtAM9NrJfN5GJV40d88.ttf',
-    popularityRank: 800,
+    popularityRank: 806,
   ),
   WebFont(
     family: 'Rationale',
@@ -32411,7 +32411,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/rationale/v30/9XUnlJ92n0_JFxHIfHccd1tI.ttf',
-    popularityRank: 1117,
+    popularityRank: 1130,
   ),
   WebFont(
     family: 'Ravi Prakash',
@@ -32424,7 +32424,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/raviprakash/v21/gokpH6fsDkVrF9Bv9X8SOAK3mdxA.ttf',
-    popularityRank: 1304,
+    popularityRank: 1292,
   ),
   WebFont(
     family: 'Readex Pro',
@@ -32447,7 +32447,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/readexpro/v27/SLXnc1bJ7HE5YDoGPuzj_dh8uc7wUy8ZQQyX2KY8TL0kGZN6blTC4USWg2Ek.ttf',
-    popularityRank: 222,
+    popularityRank: 238,
   ),
   WebFont(
     family: 'Recursive',
@@ -32471,7 +32471,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/recursive/v44/8vJN7wMr0mhh-RQChyHEH06TlXhq_gukbYrFMk1QuAIcyEwG_X-dpEfaE5YaERmK-CImKsvxvU-MXGX2fSqasNfUvz2xbXfn1uEQadCCk319tQg.ttf',
-    popularityRank: 834,
+    popularityRank: 717,
   ),
   WebFont(
     family: 'Red Hat Display',
@@ -32512,7 +32512,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/redhatdisplay/v21/8vIf7wUr0m80wwYf0QCXZzYzUoTK8RZQvRd-D1NYbmyWQkkz_Q.ttf',
-    popularityRank: 98,
+    popularityRank: 93,
   ),
   WebFont(
     family: 'Red Hat Mono',
@@ -32545,7 +32545,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/redhatmono/v16/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQV3Iy7DHvQ.ttf',
-    popularityRank: 655,
+    popularityRank: 622,
   ),
   WebFont(
     family: 'Red Hat Text',
@@ -32578,7 +32578,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwZrfQdQ.ttf',
-    popularityRank: 242,
+    popularityRank: 241,
   ),
   WebFont(
     family: 'Red Rose',
@@ -32599,7 +32599,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfszcz6o.ttf',
-    popularityRank: 772,
+    popularityRank: 760,
   ),
   WebFont(
     family: 'Redacted',
@@ -32613,7 +32613,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/redacted/v11/Z9XVDmdRShme2O_7aLTf6Ok.ttf',
-    popularityRank: 1212,
+    popularityRank: 951,
   ),
   WebFont(
     family: 'Redacted Script',
@@ -32628,7 +32628,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/redactedscript/v12/ypvBbXGRglhokR7dcC3d1-R6zmxisG71.ttf',
-    popularityRank: 1657,
+    popularityRank: 1632,
   ),
   WebFont(
     family: 'Reddit Mono',
@@ -32652,7 +32652,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/redditmono/v5/oPWc_kRmmu4oQ88oo13o48DHbsqn28eR20vUwCYqc3Pc.ttf',
-    popularityRank: 1069,
+    popularityRank: 1086,
   ),
   WebFont(
     family: 'Reddit Sans',
@@ -32701,7 +32701,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxbYxWAF3F.ttf',
-    popularityRank: 391,
+    popularityRank: 397,
   ),
   WebFont(
     family: 'Reddit Sans Condensed',
@@ -32725,7 +32725,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/redditsanscondensed/v5/m8J_jepOc6WYkkm2Dey9A5QGAQXmuL3va5IfZsq2gyKtWVJro1kKYpQyvw.ttf',
-    popularityRank: 975,
+    popularityRank: 860,
   ),
   WebFont(
     family: 'Redressed',
@@ -32738,7 +32738,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/redressed/v32/x3dickHUbrmJ7wMy9MsxffoG.ttf',
-    popularityRank: 930,
+    popularityRank: 921,
   ),
   WebFont(
     family: 'Reem Kufi',
@@ -32759,7 +32759,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/reemkufi/v28/2sDPZGJLip7W2J7v7wQZZE1I0yCmYzzQtuZnIGCV2g.ttf',
-    popularityRank: 460,
+    popularityRank: 476,
   ),
   WebFont(
     family: 'Reem Kufi Fun',
@@ -32780,7 +32780,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYj3kChpP4.ttf',
-    popularityRank: 1346,
+    popularityRank: 1374,
   ),
   WebFont(
     family: 'Reem Kufi Ink',
@@ -32798,7 +32798,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/reemkufiink/v11/oPWJ_kJmmu8hCvB9iFumxZSndj9XRg.ttf',
-    popularityRank: 1474,
+    popularityRank: 1461,
   ),
   WebFont(
     family: 'Reenie Beanie',
@@ -32811,7 +32811,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/reeniebeanie/v22/z7NSdR76eDkaJKZJFkkjuvWxXPy1rg.ttf',
-    popularityRank: 399,
+    popularityRank: 400,
   ),
   WebFont(
     family: 'Reggae One',
@@ -32829,7 +32829,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/reggaeone/v19/7r3DqX5msMIkeuwJwOJtza9B4g.ttf',
-    popularityRank: 974,
+    popularityRank: 937,
   ),
   WebFont(
     family: 'Rethink Sans',
@@ -32862,7 +32862,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/rethinksans/v7/AMODz4SDuXOMCPfdoglY9JQuWHBGG0X45DmqkmFROE_snQ.ttf',
-    popularityRank: 161,
+    popularityRank: 153,
   ),
   WebFont(
     family: 'Revalia',
@@ -32875,7 +32875,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/revalia/v24/WwkexPimBE2-4ZPESVvkMA.ttf',
-    popularityRank: 1486,
+    popularityRank: 1471,
   ),
   WebFont(
     family: 'Rhodium Libre',
@@ -32892,7 +32892,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/rhodiumlibre/v21/1q2AY5adA0tn_ukeHcQHqpx6lEXBfg.ttf',
-    popularityRank: 1533,
+    popularityRank: 1513,
   ),
   WebFont(
     family: 'Ribeye',
@@ -32905,7 +32905,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/ribeye/v27/L0x8DFMxk1MP9R3hvfqi.ttf',
-    popularityRank: 1029,
+    popularityRank: 1025,
   ),
   WebFont(
     family: 'Ribeye Marrow',
@@ -32918,7 +32918,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/ribeyemarrow/v26/GFDsWApshnqMRO2JdtRZ2d0vIA0ZUQ.ttf',
-    popularityRank: 1439,
+    popularityRank: 1459,
   ),
   WebFont(
     family: 'Righteous',
@@ -32931,7 +32931,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/righteous/v18/1cXxaUPXBpj2rGoU7C9WjnGA.ttf',
-    popularityRank: 162,
+    popularityRank: 175,
   ),
   WebFont(
     family: 'Risque',
@@ -32944,7 +32944,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/risque/v24/VdGfAZUfHosahXxYCEwR.ttf',
-    popularityRank: 1373,
+    popularityRank: 1299,
   ),
   WebFont(
     family: 'Road Rage',
@@ -32962,7 +32962,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/roadrage/v9/6NUU8F2fKAOBKjjr4ekftcwE.ttf',
-    popularityRank: 881,
+    popularityRank: 894,
   ),
   WebFont(
     family: 'Roboto',
@@ -33098,7 +33098,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/robotoflex/v30/NaNnepOXO_NexZs0b5QrzlOHb8wCikXpYqmZsWI-__OGbt8jZktqc2V3Zs0KvDLdBP8SBZtOs2IifRuUZQMsPJtUsR4DEK6cULNeUx9XgTnH37Ha_FIAp4Fm0PP1hw45DntW2x0wZGzhPmr1YNMYKYn9_1IQXGwJAiUJVUMdN5YUW4O8HtSoXjC1z3QSabshNFVe3e0O5j3ZjrZCu23Qd4G0EBysQNK-QKavMl1cKq3tHXtXi8mzLjaAcbCkmA.ttf',
-    popularityRank: 90,
+    popularityRank: 89,
   ),
   WebFont(
     family: 'Roboto Mono',
@@ -33201,7 +33201,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/robotoserif/v17/R71RjywflP6FLr3gZx7K8UyuXDs9zVwDmXCb8lxYgmuii32UGoVldX6UgfjL4-3sMM_kB_qXSEXTJQCFLH5-_bcEliotl6Z8BQ.ttf',
-    popularityRank: 188,
+    popularityRank: 198,
   ),
   WebFont(
     family: 'Roboto Slab',
@@ -33253,7 +33253,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/rochester/v24/6ae-4KCqVa4Zy6Fif-UC3lHS.ttf',
-    popularityRank: 837,
+    popularityRank: 816,
   ),
   WebFont(
     family: 'Rock 3D',
@@ -33266,7 +33266,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rock3d/v13/yYLp0hrL0PCo651553WtxQ.ttf',
-    popularityRank: 1688,
+    popularityRank: 1692,
   ),
   WebFont(
     family: 'Rock Salt',
@@ -33280,7 +33280,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/rocksalt/v24/MwQ0bhv11fWD6QsAVOZrsUM_.ttf',
-    popularityRank: 329,
+    popularityRank: 307,
   ),
   WebFont(
     family: 'RocknRoll One',
@@ -33297,7 +33297,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/rocknrollone/v16/kmK7ZqspGAfCeUiW6FFlmEC9suRrtw.ttf',
-    popularityRank: 634,
+    popularityRank: 636,
   ),
   WebFont(
     family: 'Rokkitt',
@@ -33350,7 +33350,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/rokkitt/v39/qFdb35qfgYFjGy5hukqqhw5XeRgdi1ryd6DKGbo.ttf',
-    popularityRank: 295,
+    popularityRank: 306,
   ),
   WebFont(
     family: 'Romanesco',
@@ -33363,7 +33363,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/romanesco/v22/w8gYH2ozQOY7_r_J7mSX3XYP.ttf',
-    popularityRank: 1350,
+    popularityRank: 1375,
   ),
   WebFont(
     family: 'Ropa Sans',
@@ -33378,7 +33378,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/ropasans/v16/EYqxmaNOzLlWtsZSScy6WzNs.ttf',
-    popularityRank: 430,
+    popularityRank: 420,
   ),
   WebFont(
     family: 'Rosario',
@@ -33415,7 +33415,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/rosario/v35/xfuu0WDhWW_fOEoY8l_VPNZfB7jPM68YCVcyfeI.ttf',
-    popularityRank: 717,
+    popularityRank: 719,
   ),
   WebFont(
     family: 'Rosarivo',
@@ -33430,7 +33430,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/rosarivo/v24/PlI-Fl2lO6N9f8HaNDeD0Hw.ttf',
-    popularityRank: 1041,
+    popularityRank: 1044,
   ),
   WebFont(
     family: 'Rouge Script',
@@ -33443,7 +33443,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/rougescript/v20/LYjFdGbiklMoCIQOw1Ep3S4_Vf_f.ttf',
-    popularityRank: 684,
+    popularityRank: 753,
   ),
   WebFont(
     family: 'Rowdies',
@@ -33480,7 +33480,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/rozhaone/v17/AlZy_zVFtYP12Zncg2kRdH38.ttf',
-    popularityRank: 526,
+    popularityRank: 550,
   ),
   WebFont(
     family: 'Rubik',
@@ -33547,7 +33547,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubik80sfade/v2/U9MF6dW37nLSmnwZXyoV-uPXUiHxm7Y.ttf',
-    popularityRank: 1539,
+    popularityRank: 1501,
   ),
   WebFont(
     family: 'Rubik Beastly',
@@ -33566,7 +33566,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X4732-A.ttf',
-    popularityRank: 1607,
+    popularityRank: 1623,
   ),
   WebFont(
     family: 'Rubik Broken Fax',
@@ -33587,7 +33587,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikbrokenfax/v1/NGSvv4rXG042O-GzH9sg1cUgl8w8UW6ccg.ttf',
-    popularityRank: 1716,
+    popularityRank: 1718,
   ),
   WebFont(
     family: 'Rubik Bubbles',
@@ -33606,7 +33606,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikbubbles/v3/JIA1UVdwbHFJtwA7Us1BPFbRBTAHeA.ttf',
-    popularityRank: 1039,
+    popularityRank: 992,
   ),
   WebFont(
     family: 'Rubik Burned',
@@ -33625,7 +33625,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqnSHAGe.ttf',
-    popularityRank: 1506,
+    popularityRank: 1612,
   ),
   WebFont(
     family: 'Rubik Dirt',
@@ -33644,7 +33644,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikdirt/v2/DtVmJxC7WLEj1uIXEWAdil0s7g.ttf',
-    popularityRank: 838,
+    popularityRank: 849,
   ),
   WebFont(
     family: 'Rubik Distressed',
@@ -33663,7 +33663,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikdistressed/v1/GFDxWBdsmnqAVqjtUsZf2dcrQ2ldQWErbg.ttf',
-    popularityRank: 1496,
+    popularityRank: 1484,
   ),
   WebFont(
     family: 'Rubik Doodle Shadow',
@@ -33684,7 +33684,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikdoodleshadow/v1/rP2bp3im_k8G_wTVdvvMdHqmXTR3lEaL-KqT2A.ttf',
-    popularityRank: 832,
+    popularityRank: 810,
   ),
   WebFont(
     family: 'Rubik Doodle Triangles',
@@ -33724,7 +33724,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikgemstones/v1/zrf90HrL0-_8Xb4DFM2rUkWbOVr-iSPC.ttf',
-    popularityRank: 1479,
+    popularityRank: 1497,
   ),
   WebFont(
     family: 'Rubik Glitch',
@@ -33743,7 +33743,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikglitch/v2/qkBSXv8b_srFRYQVYrDKh9ZfmSTD.ttf',
-    popularityRank: 934,
+    popularityRank: 850,
   ),
   WebFont(
     family: 'Rubik Glitch Pop',
@@ -33764,7 +33764,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikglitchpop/v1/tDbX2pGHhFcM0gB3hN2elZLa3G-MCwWnTQ.ttf',
-    popularityRank: 1536,
+    popularityRank: 1599,
   ),
   WebFont(
     family: 'Rubik Iso',
@@ -33805,7 +33805,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubiklines/v1/_gP81R3vsjYzVW2Y6xFF-FSwav4.ttf',
-    popularityRank: 1799,
+    popularityRank: 1773,
   ),
   WebFont(
     family: 'Rubik Maps',
@@ -33826,7 +33826,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikmaps/v1/Gw6_wcjl80TZK9XxtbbevSceDg.ttf',
-    popularityRank: 1743,
+    popularityRank: 1750,
   ),
   WebFont(
     family: 'Rubik Marker Hatch',
@@ -33845,7 +33845,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHgDbQm.ttf',
-    popularityRank: 1584,
+    popularityRank: 1679,
   ),
   WebFont(
     family: 'Rubik Maze',
@@ -33864,7 +33864,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikmaze/v2/xMQRuF9ZVa2ftiJEavXSMX_omQ.ttf',
-    popularityRank: 1651,
+    popularityRank: 1574,
   ),
   WebFont(
     family: 'Rubik Microbe',
@@ -33883,7 +33883,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikmicrobe/v2/UqyWK8oPP3hjw6ANS9rM3PsZQs4QbA.ttf',
-    popularityRank: 1590,
+    popularityRank: 1684,
   ),
   WebFont(
     family: 'Rubik Mono One',
@@ -33900,7 +33900,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/rubikmonoone/v20/UqyJK8kPP3hjw6ANTdfRk9YSN98xTKA.ttf',
-    popularityRank: 249,
+    popularityRank: 256,
   ),
   WebFont(
     family: 'Rubik Moonrocks',
@@ -33919,7 +33919,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikmoonrocks/v7/845ANMAmAI2VUZMLu_W0M7HqlDHXXMr_.ttf',
-    popularityRank: 1319,
+    popularityRank: 1350,
   ),
   WebFont(
     family: 'Rubik Pixels',
@@ -33938,7 +33938,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikpixels/v3/SlGXmQOaupkIeSx4CEpB7AdiaRwV.ttf',
-    popularityRank: 1488,
+    popularityRank: 1495,
   ),
   WebFont(
     family: 'Rubik Puddles',
@@ -33957,7 +33957,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikpuddles/v2/1Ptog8bYX_qGnkLkrU5MJsQcFfG-xQ.ttf',
-    popularityRank: 1567,
+    popularityRank: 1564,
   ),
   WebFont(
     family: 'Rubik Scribble',
@@ -33978,7 +33978,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikscribble/v1/snfzs0Cp48d67SuHQOpjXLsQpYqaQDc.ttf',
-    popularityRank: 1247,
+    popularityRank: 1259,
   ),
   WebFont(
     family: 'Rubik Spray Paint',
@@ -33997,7 +33997,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikspraypaint/v1/WnzhHBAoeBPUDTB4EWR82y6EXWPH-So_SII.ttf',
-    popularityRank: 1542,
+    popularityRank: 1543,
   ),
   WebFont(
     family: 'Rubik Storm',
@@ -34016,7 +34016,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaotL8RWE.ttf',
-    popularityRank: 1758,
+    popularityRank: 1775,
   ),
   WebFont(
     family: 'Rubik Vinyl',
@@ -34035,7 +34035,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikvinyl/v1/iJWABXKIfDnIV4mQ5BfjvXXfzIg.ttf',
-    popularityRank: 1563,
+    popularityRank: 1542,
   ),
   WebFont(
     family: 'Rubik Wet Paint',
@@ -34054,7 +34054,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rubikwetpaint/v2/HTx0L20uMDGHgdULcpTF3Oe4d_-1-jbz.ttf',
-    popularityRank: 1345,
+    popularityRank: 1357,
   ),
   WebFont(
     family: 'Ruda',
@@ -34077,7 +34077,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ruda/v30/k3kKo8YQJOpFgHQ1mQ5VkEbUKaJFsh__0qw.ttf',
-    popularityRank: 480,
+    popularityRank: 468,
   ),
   WebFont(
     family: 'Rufina',
@@ -34108,7 +34108,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/rugeboogie/v30/JIA3UVFwbHRF_GIWSMhKNSOjNTE.ttf',
-    popularityRank: 1692,
+    popularityRank: 1697,
   ),
   WebFont(
     family: 'Ruluko',
@@ -34121,7 +34121,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ruluko/v22/xMQVuFNZVaODtm0ZCq-3.ttf',
-    popularityRank: 1437,
+    popularityRank: 1435,
   ),
   WebFont(
     family: 'Rum Raisin',
@@ -34134,7 +34134,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/rumraisin/v24/nwpRtKu3Ih8D5avB4h2uF36Czw.ttf',
-    popularityRank: 1218,
+    popularityRank: 1223,
   ),
   WebFont(
     family: 'Ruslan Display',
@@ -34153,7 +34153,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/ruslandisplay/v27/Gw6jwczl81XcIZuckK_e3Upfdwxqn9g.ttf',
-    popularityRank: 783,
+    popularityRank: 809,
   ),
   WebFont(
     family: 'Russo One',
@@ -34171,7 +34171,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/russoone/v18/Z9XUDmZRWg6M1LvRYsHOycmM.ttf',
-    popularityRank: 205,
+    popularityRank: 212,
   ),
   WebFont(
     family: 'Ruthie',
@@ -34188,7 +34188,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/ruthie/v28/gokvH63sGkdqXuUNlTRz.ttf',
-    popularityRank: 1110,
+    popularityRank: 1115,
   ),
   WebFont(
     family: 'Ruwudu',
@@ -34208,7 +34208,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ruwudu/v4/syky-y1tj6UzRKf9lAqX.ttf',
-    popularityRank: 1613,
+    popularityRank: 1596,
   ),
   WebFont(
     family: 'Rye',
@@ -34222,7 +34222,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/rye/v17/r05XGLJT86YzF57o.ttf',
-    popularityRank: 562,
+    popularityRank: 528,
   ),
   WebFont(
     family: 'SN Pro',
@@ -34273,7 +34273,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/snpro/v1/NGSov5zWIAwPIq7LZry_YDa71rhEQaf_YmiDxw.ttf',
-    popularityRank: 1393,
+    popularityRank: 1392,
   ),
   WebFont(
     family: 'STIX Two Math',
@@ -34286,7 +34286,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/stixtwomath/v12/pONg1hwwL_6M9EkZySr_yteUu1vKCA.ttf',
-    popularityRank: 867,
+    popularityRank: 880,
   ),
   WebFont(
     family: 'STIX Two Text',
@@ -34322,7 +34322,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yihg2ROZURU.ttf',
-    popularityRank: 302,
+    popularityRank: 281,
   ),
   WebFont(
     family: 'SUSE',
@@ -34375,7 +34375,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbGG7mq8bHY.ttf',
-    popularityRank: 801,
+    popularityRank: 838,
   ),
   WebFont(
     family: 'SUSE Mono',
@@ -34424,7 +34424,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/susemono/v1/y83KW4wN6yi9x2mTxJI2Lzk1yOJRC-VB656w6gpWpQ.ttf',
-    popularityRank: 1606,
+    popularityRank: 1619,
   ),
   WebFont(
     family: 'Sacramento',
@@ -34437,7 +34437,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/sacramento/v17/buEzpo6gcdjy0EiZMBUG4Csf-A.ttf',
-    popularityRank: 280,
+    popularityRank: 296,
   ),
   WebFont(
     family: 'Sahitya',
@@ -34451,7 +34451,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sahitya/v22/6qLAKZkOuhnuqlJAWSYPOw.ttf',
-    popularityRank: 1375,
+    popularityRank: 1378,
   ),
   WebFont(
     family: 'Sail',
@@ -34465,7 +34465,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sail/v17/DPEjYwiBxwYJJBXJBA.ttf',
-    popularityRank: 899,
+    popularityRank: 916,
   ),
   WebFont(
     family: 'Saira',
@@ -34518,7 +34518,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/saira/v23/memWYa2wxmKQyPMrZX79wwYZQMhsyuShhKMjjbU9uXuA71rCkskxkw.ttf',
-    popularityRank: 30,
+    popularityRank: 33,
   ),
   WebFont(
     family: 'Saira Condensed',
@@ -34553,7 +34553,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sairacondensed/v12/EJROQgErUN8XuHNEtX81i9TmEkrvpOtA.ttf',
-    popularityRank: 143,
+    popularityRank: 149,
   ),
   WebFont(
     family: 'Saira Extra Condensed',
@@ -34588,7 +34588,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sairaextracondensed/v15/-nFiOHYr-vcC7h8MklGBkrvmUG9rbpkisrTj7kjx.ttf',
-    popularityRank: 318,
+    popularityRank: 352,
   ),
   WebFont(
     family: 'Saira Semi Condensed',
@@ -34623,7 +34623,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sairasemicondensed/v15/U9MD6c-2-nnJkHxyCjRcnMHcWVWV1cWRRX8KaOM.ttf',
-    popularityRank: 368,
+    popularityRank: 362,
   ),
   WebFont(
     family: 'Saira Stencil',
@@ -34676,7 +34676,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sairastencil/v2/8AtJGsqgM5eNT0-b9cD0X9C_sxTQ79q9upASpLCMHu5jNWGXvaZKLoB0PzmYBkpE.ttf',
-    popularityRank: 1597,
+    popularityRank: 1698,
   ),
   WebFont(
     family: 'Salsa',
@@ -34690,7 +34690,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/salsa/v23/gNMKW3FiRpKj-hmZ-HM.ttf',
-    popularityRank: 1019,
+    popularityRank: 1030,
   ),
   WebFont(
     family: 'Sanchez',
@@ -34704,7 +34704,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sanchez/v17/Ycm2sZJORluHnXbIfm9R-A.ttf',
-    popularityRank: 356,
+    popularityRank: 320,
   ),
   WebFont(
     family: 'Sancreek',
@@ -34718,7 +34718,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/sancreek/v27/pxiHypAnsdxUm159X4D_V1s.ttf',
-    popularityRank: 1056,
+    popularityRank: 1040,
   ),
   WebFont(
     family: 'Sankofa Display',
@@ -34735,7 +34735,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sankofadisplay/v2/Ktk1ALSRd4LucUDghJ2rTqXOoh3HFqOd.ttf',
-    popularityRank: 1786,
+    popularityRank: 1779,
   ),
   WebFont(
     family: 'Sansation',
@@ -34759,7 +34759,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/sansation/v1/LYjAdGPjnEg8DNA0z01QrHov.ttf',
-    popularityRank: 751,
+    popularityRank: 910,
   ),
   WebFont(
     family: 'Sansita',
@@ -34788,7 +34788,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sansita/v12/QldONTRRphEb_-V7LBixSQ.ttf',
-    popularityRank: 486,
+    popularityRank: 497,
   ),
   WebFont(
     family: 'Sansita Swashed',
@@ -34811,7 +34811,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sansitaswashed/v23/BXR8vFfZifTZgFlDDLgNkBydPKTt3pVCeYWqJnZSW7RpXTsffg.ttf',
-    popularityRank: 841,
+    popularityRank: 832,
   ),
   WebFont(
     family: 'Sarabun',
@@ -34861,7 +34861,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sarabun/v17/DtVjJx26TKEr37c9aBNJmg.ttf',
-    popularityRank: 190,
+    popularityRank: 188,
   ),
   WebFont(
     family: 'Sarala',
@@ -34879,7 +34879,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sarala/v16/uK_y4riEZv4o1w9hCxcX.ttf',
-    popularityRank: 601,
+    popularityRank: 572,
   ),
   WebFont(
     family: 'Sarina',
@@ -34892,7 +34892,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sarina/v25/-F6wfjF3ITQwasLRL0rQ.ttf',
-    popularityRank: 662,
+    popularityRank: 660,
   ),
   WebFont(
     family: 'Sarpanch',
@@ -34915,7 +34915,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/sarpanch/v15/hESy6Xt4NCpRuk6Pzi2BTo4.ttf',
-    popularityRank: 994,
+    popularityRank: 1035,
   ),
   WebFont(
     family: 'Sassy Frass',
@@ -34932,7 +34932,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/sassyfrass/v9/LhWhMVrGOe0FLb97BjhsE-9cEtE.ttf',
-    popularityRank: 1593,
+    popularityRank: 1420,
   ),
   WebFont(
     family: 'Satisfy',
@@ -34945,7 +34945,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/satisfy/v22/rP2Hp2yn6lkG50LoCZWIGA.ttf',
-    popularityRank: 185,
+    popularityRank: 184,
   ),
   WebFont(
     family: 'Savate',
@@ -34990,7 +34990,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/savate/v5/QdVKSTgjKAqpnvJNP5oQaZzblHkwJbdxdbkDcg.ttf',
-    popularityRank: 1679,
+    popularityRank: 1683,
   ),
   WebFont(
     family: 'Sawarabi Gothic',
@@ -35009,7 +35009,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sawarabigothic/v16/x3d4ckfVaqqa-BEj-I9mE65u3k39BCMz.ttf',
-    popularityRank: 241,
+    popularityRank: 248,
   ),
   WebFont(
     family: 'Sawarabi Mincho',
@@ -35027,7 +35027,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sawarabimincho/v20/8QIRdiDaitzr7brc8ahpxt6GcIJjLKJL.ttf',
-    popularityRank: 233,
+    popularityRank: 221,
   ),
   WebFont(
     family: 'Scada',
@@ -35049,7 +35049,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/scada/v16/RLpxK5Pv5qumeVJpzTE.ttf',
-    popularityRank: 810,
+    popularityRank: 802,
   ),
   WebFont(
     family: 'Scheherazade New',
@@ -35069,7 +35069,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/scheherazadenew/v21/4UaZrFhTvxVnHDvUkUiHg8jprP4DOwJmPg.ttf',
-    popularityRank: 875,
+    popularityRank: 813,
   ),
   WebFont(
     family: 'Schibsted Grotesk',
@@ -35106,7 +35106,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/schibstedgrotesk/v7/JqzK5SSPQuCQF3t8uOwiUL-taUTtarVKQ9vZ6pJJWlMNIsEwTshq.ttf',
-    popularityRank: 94,
+    popularityRank: 82,
   ),
   WebFont(
     family: 'Schoolbell',
@@ -35119,7 +35119,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIZxMa7g.ttf',
-    popularityRank: 691,
+    popularityRank: 689,
   ),
   WebFont(
     family: 'Science Gothic',
@@ -35156,7 +35156,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sciencegothic/v5/CHzuV-7EH1X7aiQh5jPNDTJnVUAvhrL0sQdjzDQhk11iTp6mX-ANuf1d_83dPfZJ7Lvcvg8EGYzcW57mXiXiVX33c92fNgiY9aHn.ttf',
-    popularityRank: 1098,
+    popularityRank: 1069,
   ),
   WebFont(
     family: 'Scope One',
@@ -35170,7 +35170,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/scopeone/v15/WBLnrEXKYFlGHrOKmGDFWkXI.ttf',
-    popularityRank: 1102,
+    popularityRank: 1116,
   ),
   WebFont(
     family: 'Seaweed Script',
@@ -35183,7 +35183,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/seaweedscript/v17/bx6cNx6Tne2pxOATYE8C_Rsoe3WI8qM.ttf',
-    popularityRank: 685,
+    popularityRank: 666,
   ),
   WebFont(
     family: 'Secular One',
@@ -35200,7 +35200,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/secularone/v14/8QINdiTajsj_87rMuMdKyqDkOO0.ttf',
-    popularityRank: 523,
+    popularityRank: 483,
   ),
   WebFont(
     family: 'Sedan',
@@ -35215,7 +35215,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-dOTgz4.ttf',
-    popularityRank: 1540,
+    popularityRank: 1379,
   ),
   WebFont(
     family: 'Sedan SC',
@@ -35228,7 +35228,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sedansc/v2/yMJRMIlvYZ3Jn1Y30Aq9dyg.ttf',
-    popularityRank: 1442,
+    popularityRank: 1371,
   ),
   WebFont(
     family: 'Sedgwick Ave',
@@ -35262,7 +35262,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/sedgwickavedisplay/v23/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM1cyfeI.ttf',
-    popularityRank: 628,
+    popularityRank: 647,
   ),
   WebFont(
     family: 'Sekuya',
@@ -35292,7 +35292,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISCq5L4_AkA.ttf',
-    popularityRank: 288,
+    popularityRank: 285,
   ),
   WebFont(
     family: 'Send Flowers',
@@ -35309,7 +35309,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/sendflowers/v7/If2PXTjtZS-0Xqy13uCQSULfxgLn.ttf',
-    popularityRank: 1399,
+    popularityRank: 1397,
   ),
   WebFont(
     family: 'Sevillana',
@@ -35322,7 +35322,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sevillana/v25/KFOlCnWFscmDt1Bfiy1fAhc9.ttf',
-    popularityRank: 1071,
+    popularityRank: 1089,
   ),
   WebFont(
     family: 'Seymour One',
@@ -35339,7 +35339,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/seymourone/v25/4iCp6Khla9xbjQpoWGGd0lyJN4Q.ttf',
-    popularityRank: 1219,
+    popularityRank: 1238,
   ),
   WebFont(
     family: 'Shadows Into Light',
@@ -35352,7 +35352,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/shadowsintolight/v22/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQzc8D8.ttf',
-    popularityRank: 153,
+    popularityRank: 157,
   ),
   WebFont(
     family: 'Shadows Into Light Two',
@@ -35365,7 +35365,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/shadowsintolighttwo/v19/4iC86LVlZsRSjQhpWGedwyOoW-0A6_kpsyNmpArHHA.ttf',
-    popularityRank: 579,
+    popularityRank: 568,
   ),
   WebFont(
     family: 'Shafarik',
@@ -35384,7 +35384,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/shafarik/v3/RWmLoKaF7PojpZXlW62tZMU.ttf',
-    popularityRank: 1776,
+    popularityRank: 1764,
   ),
   WebFont(
     family: 'Shalimar',
@@ -35401,7 +35401,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/shalimar/v9/uU9MCBoE6I6iNWFUvQPw-vQ.ttf',
-    popularityRank: 1388,
+    popularityRank: 1366,
   ),
   WebFont(
     family: 'Shantell Sans',
@@ -35444,7 +35444,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/shantellsans/v13/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S1i3wvg.ttf',
-    popularityRank: 923,
+    popularityRank: 891,
   ),
   WebFont(
     family: 'Shanti',
@@ -35457,7 +35457,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/shanti/v25/t5thIREMM4uSDgzQUk23.ttf',
-    popularityRank: 1032,
+    popularityRank: 1037,
   ),
   WebFont(
     family: 'Share',
@@ -35474,7 +35474,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/share/v20/i7dEIFliZjKNF6VMFr4.ttf',
-    popularityRank: 611,
+    popularityRank: 623,
   ),
   WebFont(
     family: 'Share Tech',
@@ -35500,7 +35500,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/sharetechmono/v16/J7aHnp1uDWRBEqV98dVQztYldFcLpQEA.ttf',
-    popularityRank: 259,
+    popularityRank: 230,
   ),
   WebFont(
     family: 'Shippori Antique',
@@ -35517,7 +35517,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/shipporiantique/v11/-F6qfid3KC8pdMyzR0qRyFUht11vwlZFhw.ttf',
-    popularityRank: 887,
+    popularityRank: 900,
   ),
   WebFont(
     family: 'Shippori Antique B1',
@@ -35534,7 +35534,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/shipporiantiqueb1/v11/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40gnRBIiw.ttf',
-    popularityRank: 1233,
+    popularityRank: 1226,
   ),
   WebFont(
     family: 'Shippori Mincho',
@@ -35555,7 +35555,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/shipporimincho/v17/VdGGAZweH5EbgHY6YExcZfDoj0Bw2vWG.ttf',
-    popularityRank: 220,
+    popularityRank: 214,
   ),
   WebFont(
     family: 'Shippori Mincho B1',
@@ -35576,7 +35576,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/shipporiminchob1/v24/wXK2E2wCr44tulPdnn-xbIpJ9RgT9-nCj6pv.ttf',
-    popularityRank: 418,
+    popularityRank: 417,
   ),
   WebFont(
     family: 'Shizuru',
@@ -35589,7 +35589,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/shizuru/v13/O4ZSFGfvnxFiCA3i70MDkg.ttf',
-    popularityRank: 1541,
+    popularityRank: 1530,
   ),
   WebFont(
     family: 'Shojumaru',
@@ -35602,7 +35602,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/shojumaru/v16/rax_HiWfutkLLnaKCtl8BRha.ttf',
-    popularityRank: 1014,
+    popularityRank: 996,
   ),
   WebFont(
     family: 'Short Stack',
@@ -35615,7 +35615,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/shortstack/v16/bMrzmS2X6p0jZC6EcmPFX9STe3s.ttf',
-    popularityRank: 1199,
+    popularityRank: 1225,
   ),
   WebFont(
     family: 'Shrikhand',
@@ -35632,7 +35632,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/shrikhand/v17/a8IbNovtLWfR7T7bMJwrBYKU.ttf',
-    popularityRank: 465,
+    popularityRank: 469,
   ),
   WebFont(
     family: 'Siemreap',
@@ -35646,7 +35646,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/siemreap/v30/Gg82N5oFbgLvHAfNl1Yalgs.ttf',
-    popularityRank: 1222,
+    popularityRank: 1314,
   ),
   WebFont(
     family: 'Sigmar',
@@ -35663,7 +35663,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sigmar/v9/hv-XlzJgIE8a85pkbGwz.ttf',
-    popularityRank: 1087,
+    popularityRank: 1139,
   ),
   WebFont(
     family: 'Sigmar One',
@@ -35680,7 +35680,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sigmarone/v20/co3DmWZ8kjZuErj9Ta3do6Lpow.ttf',
-    popularityRank: 707,
+    popularityRank: 696,
   ),
   WebFont(
     family: 'Signika',
@@ -35701,7 +35701,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/signika/v29/vEF72_JTCgwQ5ejvMV0Ox_Kg1UwJ0tKfX4zNpD8E4ASzH1r9gTuozDkj.ttf',
-    popularityRank: 206,
+    popularityRank: 207,
   ),
   WebFont(
     family: 'Signika Negative',
@@ -35722,7 +35722,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/signikanegative/v26/E21x_cfngu7HiRpPX3ZpNE4kY5zKSPmJXkF0VDD2RAqnS43tvdw.ttf',
-    popularityRank: 275,
+    popularityRank: 282,
   ),
   WebFont(
     family: 'Silkscreen',
@@ -35736,7 +35736,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/silkscreen/v6/m8JXjfVPf62XiF7kO-i9YLVlbg.ttf',
-    popularityRank: 683,
+    popularityRank: 675,
   ),
   WebFont(
     family: 'Simonetta',
@@ -35752,7 +35752,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/simonetta/v29/x3dickHVYrCU5BU15c4xffoG.ttf',
-    popularityRank: 1370,
+    popularityRank: 1353,
   ),
   WebFont(
     family: 'Single Day',
@@ -35765,7 +35765,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/singleday/v19/LYjHdGDjlEgoAcF95EI5vVsPVA.ttf',
-    popularityRank: 1291,
+    popularityRank: 1163,
   ),
   WebFont(
     family: 'Sintony',
@@ -35779,7 +35779,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sintony/v17/XoHm2YDqR7-98cVUETUtvw.ttf',
-    popularityRank: 564,
+    popularityRank: 587,
   ),
   WebFont(
     family: 'Sirin Stencil',
@@ -35792,7 +35792,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sirinstencil/v27/mem4YaWwznmLx-lzGfN7MdRyRclMAg.ttf',
-    popularityRank: 1337,
+    popularityRank: 1305,
   ),
   WebFont(
     family: 'Sirivennela',
@@ -35805,7 +35805,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sirivennela/v2/kmK5Zq0oHhbAYX-X6lgptj7ZguU.ttf',
-    popularityRank: 1764,
+    popularityRank: 1767,
   ),
   WebFont(
     family: 'Six Caps',
@@ -35818,7 +35818,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sixcaps/v23/6ae_4KGrU7VR7bNmaYcT_3E.ttf',
-    popularityRank: 436,
+    popularityRank: 421,
   ),
   WebFont(
     family: 'Sixtyfour',
@@ -35836,7 +35836,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/sixtyfour/v3/OD5vuMCT1numDm3nakXtp2h4jg463t9haG_3mBkVsV20uFT3BAE5f43ZlSA.ttf',
-    popularityRank: 1424,
+    popularityRank: 1235,
   ),
   WebFont(
     family: 'Sixtyfour Convergence',
@@ -35854,7 +35854,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102topulw.ttf',
-    popularityRank: 1532,
+    popularityRank: 1517,
   ),
   WebFont(
     family: 'Skranji',
@@ -35868,7 +35868,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/skranji/v14/OZpDg_dtriVFNerMUzqklg.ttf',
-    popularityRank: 805,
+    popularityRank: 634,
   ),
   WebFont(
     family: 'Slabo 13px',
@@ -35881,7 +35881,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/slabo13px/v17/11hEGp_azEvXZUdSBzzRQKah3w.ttf',
-    popularityRank: 900,
+    popularityRank: 735,
   ),
   WebFont(
     family: 'Slabo 27px',
@@ -35894,7 +35894,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/slabo27px/v16/mFT0WbgBwKPR_Z4hGN2qgxkD0A.ttf',
-    popularityRank: 112,
+    popularityRank: 116,
   ),
   WebFont(
     family: 'Slackey',
@@ -35907,7 +35907,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/slackey/v29/N0bV2SdQO-5yM0-dGlVQIQ.ttf',
-    popularityRank: 822,
+    popularityRank: 785,
   ),
   WebFont(
     family: 'Slackside One',
@@ -35924,7 +35924,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/slacksideone/v14/EJRQQgMrXdcGsiBuvnRxodTwZy_fpQ.ttf',
-    popularityRank: 1634,
+    popularityRank: 1674,
   ),
   WebFont(
     family: 'Smokum',
@@ -35937,7 +35937,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/smokum/v30/TK3iWkUbAhopmrd2Hz8D.ttf',
-    popularityRank: 1387,
+    popularityRank: 1368,
   ),
   WebFont(
     family: 'Smooch',
@@ -35954,7 +35954,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUxj6B7.ttf',
-    popularityRank: 1267,
+    popularityRank: 1247,
   ),
   WebFont(
     family: 'Smooch Sans',
@@ -36002,7 +36002,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/smythe/v24/MwQ3bhT01--coT1xObJ7.ttf',
-    popularityRank: 1120,
+    popularityRank: 1099,
   ),
   WebFont(
     family: 'Sniglet',
@@ -36016,7 +36016,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sniglet/v18/cIf9MaFLtkE3UjaJ9CihZA.ttf',
-    popularityRank: 675,
+    popularityRank: 676,
   ),
   WebFont(
     family: 'Snippet',
@@ -36029,7 +36029,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/snippet/v21/bWt47f7XfQH9Gupu6v7KeQ.ttf',
-    popularityRank: 1562,
+    popularityRank: 1556,
   ),
   WebFont(
     family: 'Snowburst One',
@@ -36042,7 +36042,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/snowburstone/v21/MQpS-WezKdujBsXY3B7I-UT7SZ6eOw.ttf',
-    popularityRank: 1658,
+    popularityRank: 1654,
   ),
   WebFont(
     family: 'Sofadi One',
@@ -36055,7 +36055,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sofadione/v22/JIA2UVBxdnVBuElZaMFGQDKCFQ.ttf',
-    popularityRank: 1413,
+    popularityRank: 1512,
   ),
   WebFont(
     family: 'Sofia',
@@ -36069,7 +36069,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/sofia/v15/8QIHdirahM3j_su_uIg.ttf',
-    popularityRank: 448,
+    popularityRank: 462,
   ),
   WebFont(
     family: 'Sofia Sans',
@@ -36124,7 +36124,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sofiasans/v20/Yq6E-LCVXSLy9uPBwlAThu1SY8Cx8rlT69B6sJ3spPY.ttf',
-    popularityRank: 158,
+    popularityRank: 160,
   ),
   WebFont(
     family: 'Sofia Sans Condensed',
@@ -36179,7 +36179,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sofiasanscondensed/v6/r05xGKVS5aVKd567NYXawnFKJaTtoAuLnK0EjiAN5s9CZwUqh-Gcls4K.ttf',
-    popularityRank: 294,
+    popularityRank: 271,
   ),
   WebFont(
     family: 'Sofia Sans Extra Condensed',
@@ -36234,7 +36234,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sofiasansextracondensed/v6/raxdHjafvdAIOju4GcIfJH0i7zi50X3zRtuLNiMS0d6iDr-MD5Si9NGLmmi0fjOI.ttf',
-    popularityRank: 387,
+    popularityRank: 375,
   ),
   WebFont(
     family: 'Sofia Sans Semi Condensed',
@@ -36289,7 +36289,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sofiasanssemicondensed/v8/46kOlaPnUDrQoNsWDCGXXxYlujh5Wv0nwP4RwxURm28cA7YLHsIVvoobEd9SE6w.ttf',
-    popularityRank: 649,
+    popularityRank: 597,
   ),
   WebFont(
     family: 'Solitreo',
@@ -36306,7 +36306,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/solitreo/v2/r05YGLlS5a9KYsyNO_uowjI.ttf',
-    popularityRank: 1283,
+    popularityRank: 1184,
   ),
   WebFont(
     family: 'Solway',
@@ -36323,7 +36323,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/solway/v19/AMOQz46Cs2uTAOCmg3o5.ttf',
-    popularityRank: 973,
+    popularityRank: 975,
   ),
   WebFont(
     family: 'Sometype Mono',
@@ -36352,7 +36352,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/sometypemono/v4/70lGu745KGk_R3uxyq0WrROhAJiJsJ_eTWllpTAMGH9biwQ.ttf',
-    popularityRank: 744,
+    popularityRank: 705,
   ),
   WebFont(
     family: 'Song Myung',
@@ -36365,7 +36365,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/songmyung/v22/1cX2aUDWAJH5-EIC7DIhn1CggQ.ttf',
-    popularityRank: 1045,
+    popularityRank: 1074,
   ),
   WebFont(
     family: 'Sono',
@@ -36388,7 +36388,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVtkWtE358.ttf',
-    popularityRank: 1265,
+    popularityRank: 1287,
   ),
   WebFont(
     family: 'Sonsie One',
@@ -36401,7 +36401,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/sonsieone/v22/PbymFmP_EAnPqbKaoc18UVq21g.ttf',
-    popularityRank: 1234,
+    popularityRank: 1306,
   ),
   WebFont(
     family: 'Sora',
@@ -36421,7 +36421,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sora/v17/xMQOuFFYT72X5wkB_18qmnndmSdSnk-LKQc.ttf',
-    popularityRank: 85,
+    popularityRank: 81,
   ),
   WebFont(
     family: 'Sorts Mill Goudy',
@@ -36435,7 +36435,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3GZR9MED_6PSuS_50nEaVrfzgEbHwEig.ttf',
-    popularityRank: 382,
+    popularityRank: 384,
   ),
   WebFont(
     family: 'Sour Gummy',
@@ -36484,7 +36484,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sourgummy/v3/8AtGGs2gPYuNDii97MjjBrLbYfdJvDU5AZfP5opPVCC4oC5ANR1N88Nk9lqI.ttf',
-    popularityRank: 1022,
+    popularityRank: 1019,
   ),
   WebFont(
     family: 'Source Code Pro',
@@ -36537,7 +36537,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/sourcecodepro/v31/HI_diYsKILxRpg3hIP6sJ7fM7PqPMcMnZFqUwX28DMyQtM9rSQ.ttf',
-    popularityRank: 74,
+    popularityRank: 62,
   ),
   WebFont(
     family: 'Source Sans 3',
@@ -36642,7 +36642,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sourceserif4/v14/vEFy2_tTDB4M7-auWDN0ahZJW3IX2ih5nk3AucvUHf6OAVIJmeUDygwjihdqnh1dCw.ttf',
-    popularityRank: 119,
+    popularityRank: 117,
   ),
   WebFont(
     family: 'Space Grotesk',
@@ -36663,7 +36663,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/spacegrotesk/v22/V8mQoQDjQSkFtoMM3T6r8E7mF71Q-gOoraIAEj7oUXsiPMU.ttf',
-    popularityRank: 69,
+    popularityRank: 52,
   ),
   WebFont(
     family: 'Space Mono',
@@ -36683,7 +36683,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/spacemono/v17/i7dPIFZifjKcF5UAWdDRYEd8QA.ttf',
-    popularityRank: 159,
+    popularityRank: 155,
   ),
   WebFont(
     family: 'Special Elite',
@@ -36696,7 +36696,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/specialelite/v20/XLYgIZbkc4JPUL5CVArUVL0ntnYOTQ.ttf',
-    popularityRank: 251,
+    popularityRank: 229,
   ),
   WebFont(
     family: 'Special Gothic',
@@ -36712,7 +36712,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4bF8ySkBOA.ttf',
-    popularityRank: 479,
+    popularityRank: 440,
   ),
   WebFont(
     family: 'Special Gothic Condensed One',
@@ -36725,7 +36725,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/specialgothiccondensedone/v2/R70Njzwei_mJM7OsFDzX7EL9NBO6IPvd-Avolzh49w7PYZp14Q.ttf',
-    popularityRank: 471,
+    popularityRank: 441,
   ),
   WebFont(
     family: 'Special Gothic Expanded One',
@@ -36738,7 +36738,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/specialgothicexpandedone/v2/IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5QnpF6.ttf',
-    popularityRank: 700,
+    popularityRank: 656,
   ),
   WebFont(
     family: 'Spectral',
@@ -36786,7 +36786,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/spectral/v15/rnCr-xNNww_2s0amA9M_kn0.ttf',
-    popularityRank: 170,
+    popularityRank: 176,
   ),
   WebFont(
     family: 'Spectral SC',
@@ -36833,7 +36833,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/spectralsc/v15/KtkpALCRZonmalTgyPmRfsWj42Q.ttf',
-    popularityRank: 756,
+    popularityRank: 858,
   ),
   WebFont(
     family: 'Spicy Rice',
@@ -36846,7 +36846,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/spicyrice/v28/uK_24rSEd-Uqwk4jY1RyKv68Xg.ttf',
-    popularityRank: 1026,
+    popularityRank: 1112,
   ),
   WebFont(
     family: 'Spinnaker',
@@ -36859,7 +36859,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/spinnaker/v21/w8gYH2oyX-I0_rvR6HmX3XYP.ttf',
-    popularityRank: 602,
+    popularityRank: 582,
   ),
   WebFont(
     family: 'Spirax',
@@ -36872,7 +36872,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/spirax/v22/buE3poKgYNLy0F3sX0Fp.ttf',
-    popularityRank: 1269,
+    popularityRank: 1301,
   ),
   WebFont(
     family: 'Splash',
@@ -36889,7 +36889,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/splash/v8/KtksAL2RZoDkbU6RpfnC.ttf',
-    popularityRank: 1595,
+    popularityRank: 1586,
   ),
   WebFont(
     family: 'Spline Sans',
@@ -36906,7 +36906,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnoE9Hh.ttf',
-    popularityRank: 501,
+    popularityRank: 494,
   ),
   WebFont(
     family: 'Spline Sans Mono',
@@ -36939,7 +36939,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/splinesansmono/v13/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGBiMotUwYM.ttf',
-    popularityRank: 759,
+    popularityRank: 699,
   ),
   WebFont(
     family: 'Squada One',
@@ -36952,7 +36952,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/squadaone/v20/BCasqZ8XsOrx4mcOk6MtaaE2XA.ttf',
-    popularityRank: 394,
+    popularityRank: 391,
   ),
   WebFont(
     family: 'Square Peg',
@@ -36969,7 +36969,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/squarepeg/v7/y83eW48Nzw6ZlUHc-phrNDDhGA.ttf',
-    popularityRank: 877,
+    popularityRank: 906,
   ),
   WebFont(
     family: 'Sree Krushnadevaraya',
@@ -36982,7 +36982,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sreekrushnadevaraya/v23/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_HWa0lw.ttf',
-    popularityRank: 1362,
+    popularityRank: 1250,
   ),
   WebFont(
     family: 'Sriracha',
@@ -37001,7 +37001,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/sriracha/v16/0nkrC9D4IuYBgWcI9NbZTwQ.ttf',
-    popularityRank: 458,
+    popularityRank: 479,
   ),
   WebFont(
     family: 'Srisakdi',
@@ -37021,7 +37021,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/srisakdi/v18/yMJRMIlvdpDbkB0A-gq9dyg.ttf',
-    popularityRank: 1206,
+    popularityRank: 1257,
   ),
   WebFont(
     family: 'Staatliches',
@@ -37034,7 +37034,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/staatliches/v15/HI_OiY8KO6hCsQSoAPmtMYedvpU.ttf',
-    popularityRank: 311,
+    popularityRank: 337,
   ),
   WebFont(
     family: 'Stack Sans Headline',
@@ -37052,7 +37052,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/stacksansheadline/v1/1PtFg9jZXvmMnkLnuURbaukKZJTyrDV326uH6mSinjBIwc5tIjFGoAE.ttf',
-    popularityRank: 1348,
+    popularityRank: 1285,
   ),
   WebFont(
     family: 'Stack Sans Notch',
@@ -37070,7 +37070,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/stacksansnotch/v5/TwMY-JcVXlQd3ooGEx9EbUzgioTr5BY5lEpidqlSR8fiuS2YEmM.ttf',
-    popularityRank: 1589,
+    popularityRank: 1528,
   ),
   WebFont(
     family: 'Stack Sans Text',
@@ -37088,7 +37088,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/stacksanstext/v1/kJEkBuAJ-Q0hiGPmzHEu345X1JJNBpRJ3RPan47MNg-KFOx4Hg.ttf',
-    popularityRank: 1211,
+    popularityRank: 1191,
   ),
   WebFont(
     family: 'Stalemate',
@@ -37101,7 +37101,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/stalemate/v24/taiIGmZ_EJq97-UfkZRZu66o.ttf',
-    popularityRank: 1240,
+    popularityRank: 1234,
   ),
   WebFont(
     family: 'Stalinist One',
@@ -37118,7 +37118,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/stalinistone/v58/MQpS-WezM9W4Dd7D3B7I-UT7SZ6eOw.ttf',
-    popularityRank: 1329,
+    popularityRank: 1457,
   ),
   WebFont(
     family: 'Stardos Stencil',
@@ -37132,7 +37132,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2Th7l5z.ttf',
-    popularityRank: 539,
+    popularityRank: 561,
   ),
   WebFont(
     family: 'Stick',
@@ -37151,7 +37151,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/stick/v20/Qw3TZQpMCyTtJRvetvE.ttf',
-    popularityRank: 1064,
+    popularityRank: 1051,
   ),
   WebFont(
     family: 'Stick No Bills',
@@ -37174,7 +37174,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sticknobills/v17/bWts7ffXZwHuAa9Uld-oEK4QKlxj9f9t_7uEmjcVv8QLK7K0.ttf',
-    popularityRank: 918,
+    popularityRank: 875,
   ),
   WebFont(
     family: 'Stint Ultra Condensed',
@@ -37187,7 +37187,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/stintultracondensed/v25/-W_gXIrsVjjeyEnPC45qD2NoFPtBE0xCh2AOqx8K.ttf',
-    popularityRank: 1293,
+    popularityRank: 1291,
   ),
   WebFont(
     family: 'Stint Ultra Expanded',
@@ -37200,7 +37200,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/stintultraexpanded/v24/CSRg4yNNh-GbW3o3JkwoDcdvMKMf0oBAd3qpCzA.ttf',
-    popularityRank: 1361,
+    popularityRank: 1334,
   ),
   WebFont(
     family: 'Stoke',
@@ -37215,7 +37215,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/stoke/v26/z7NadRb7aTMfKNNodCw.ttf',
-    popularityRank: 1065,
+    popularityRank: 1231,
   ),
   WebFont(
     family: 'Story Script',
@@ -37232,7 +37232,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/storyscript/v3/mem5YaSw02SQ0OlzDuR8IskOVOhs.ttf',
-    popularityRank: 1416,
+    popularityRank: 1376,
   ),
   WebFont(
     family: 'Strait',
@@ -37245,7 +37245,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/strait/v19/DtViJxy6WaEr1LZDeTJp.ttf',
-    popularityRank: 1191,
+    popularityRank: 1236,
   ),
   WebFont(
     family: 'Strichpunkt Sans',
@@ -37263,7 +37263,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/strichpunktsans/v1/JqzG5SWPVfqQFmB4qOZpY-2RfE_tO4RJo8eYzC5bT1PFqLgrRxy6yeuKLS3tOhXKDJyv.ttf',
-    popularityRank: 1703,
+    popularityRank: 1741,
   ),
   WebFont(
     family: 'Style Script',
@@ -37280,7 +37280,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/stylescript/v13/vm8xdRX3SV7Z0aPa88xzW5nZeV7_.ttf',
-    popularityRank: 646,
+    popularityRank: 648,
   ),
   WebFont(
     family: 'Stylish',
@@ -37293,7 +37293,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/stylish/v25/m8JSjfhPYriQkk7-TozzcA.ttf',
-    popularityRank: 1132,
+    popularityRank: 1140,
   ),
   WebFont(
     family: 'Sue Ellen Francisco',
@@ -37306,7 +37306,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/sueellenfrancisco/v22/wXK3E20CsoJ9j1DDkjHcQ5ZL8xRaxru9notP3g.ttf',
-    popularityRank: 839,
+    popularityRank: 857,
   ),
   WebFont(
     family: 'Suez One',
@@ -37323,7 +37323,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/suezone/v15/taiJGmd_EZ6rqscQgOFImo4.ttf',
-    popularityRank: 256,
+    popularityRank: 317,
   ),
   WebFont(
     family: 'Sulphur Point',
@@ -37338,7 +37338,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sulphurpoint/v16/RLp5K5vv8KaycDcazWFPBj2adfgYvw.ttf',
-    popularityRank: 929,
+    popularityRank: 1060,
   ),
   WebFont(
     family: 'Sumana',
@@ -37356,7 +37356,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sumana/v12/4UaDrE5TqRBjGj-28RLm.ttf',
-    popularityRank: 1077,
+    popularityRank: 1059,
   ),
   WebFont(
     family: 'Sunflower',
@@ -37371,7 +37371,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/sunflower/v18/RWmPoKeF8fUjqIj7Vc-06MfSqIEC.ttf',
-    popularityRank: 845,
+    popularityRank: 901,
   ),
   WebFont(
     family: 'Sunshiney',
@@ -37384,7 +37384,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/sunshiney/v24/LDIwapGTLBwsS-wT4vcQEsOs.ttf',
-    popularityRank: 938,
+    popularityRank: 943,
   ),
   WebFont(
     family: 'Supermercado One',
@@ -37397,7 +37397,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/supermercadoone/v29/OpNXnpQWg8jc_xps_Gi14kVVEXOn20f9NA.ttf',
-    popularityRank: 764,
+    popularityRank: 807,
   ),
   WebFont(
     family: 'Sura',
@@ -37416,7 +37416,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/sura/v21/SZc23FL5PbyzJf9eXw.ttf',
-    popularityRank: 1189,
+    popularityRank: 1258,
   ),
   WebFont(
     family: 'Suranna',
@@ -37429,7 +37429,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/suranna/v15/gokuH6ztGkFjWe58hBVTSw.ttf',
-    popularityRank: 933,
+    popularityRank: 1000,
   ),
   WebFont(
     family: 'Suravaram',
@@ -37442,7 +37442,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/suravaram/v23/_gP61R_usiY7SCym4xIwimSx.ttf',
-    popularityRank: 1596,
+    popularityRank: 1584,
   ),
   WebFont(
     family: 'Suwannaphum',
@@ -37459,7 +37459,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/suwannaphum/v33/jAnCgHV7GtDvc8jbe8hXXLWk9cQ.ttf',
-    popularityRank: 1197,
+    popularityRank: 1206,
   ),
   WebFont(
     family: 'Swanky and Moo Moo',
@@ -37472,7 +37472,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/swankyandmoomoo/v24/flUlRrKz24IuWVI_WJYTYcqbEsMUZ3kktLng.ttf',
-    popularityRank: 1058,
+    popularityRank: 1050,
   ),
   WebFont(
     family: 'Syncopate',
@@ -37486,7 +37486,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/syncopate/v24/pe0sMIuPIYBCpEV5eFdCA_e6.ttf',
-    popularityRank: 421,
+    popularityRank: 399,
   ),
   WebFont(
     family: 'Syne',
@@ -37503,7 +37503,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_04uQ6lTYo.ttf',
-    popularityRank: 186,
+    popularityRank: 177,
   ),
   WebFont(
     family: 'Syne Mono',
@@ -37517,7 +37517,7 @@ const webfontList = [
     category: WebFontCategory.monospace,
     menu:
         'https://fonts.gstatic.com/s/synemono/v16/K2FzfZNHj_FHBmRbFvHDI6qg.ttf',
-    popularityRank: 793,
+    popularityRank: 774,
   ),
   WebFont(
     family: 'Syne Tactile',
@@ -37530,7 +37530,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/synetactile/v16/11hGGpna2UTQKjMCVzjAPMKR3iEZ.ttf',
-    popularityRank: 1552,
+    popularityRank: 1691,
   ),
   WebFont(
     family: 'TASA Explorer',
@@ -37547,7 +37547,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tasaexplorer/v2/K2FkfZdAt8xjBmxMCPK8UO_SPSH6kbsQNeItOI6o7ynHgLI.ttf',
-    popularityRank: 1526,
+    popularityRank: 1493,
   ),
   WebFont(
     family: 'TASA Orbiter',
@@ -37564,7 +37564,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVH4Cwp2-8w.ttf',
-    popularityRank: 1180,
+    popularityRank: 1202,
   ),
   WebFont(
     family: 'Tac One',
@@ -37583,7 +37583,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tacone/v5/ahcZv8Cj3zw7qDr8TO8rVw.ttf',
-    popularityRank: 1272,
+    popularityRank: 1273,
   ),
   WebFont(
     family: 'Tagesschrift',
@@ -37596,7 +37596,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/tagesschrift/v2/pe0pMI6IOYlEuEZ7ZEA7ZKOqAv5q.ttf',
-    popularityRank: 1614,
+    popularityRank: 1610,
   ),
   WebFont(
     family: 'Tai Heritage Pro',
@@ -37615,7 +37615,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/taiheritagepro/v9/sZlfdQid-zgaNiNIYcUzJMU3IYyNkH1YFA.ttf',
-    popularityRank: 1011,
+    popularityRank: 1031,
   ),
   WebFont(
     family: 'Tajawal',
@@ -37634,7 +37634,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tajawal/v12/Iura6YBj_oCad4k1nzeBDg.ttf',
-    popularityRank: 107,
+    popularityRank: 109,
   ),
   WebFont(
     family: 'Tangerine',
@@ -37648,7 +37648,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/tangerine/v18/IurY6Y5j_oScZZow4VOxD5ZJ.ttf',
-    popularityRank: 331,
+    popularityRank: 336,
   ),
   WebFont(
     family: 'Tapestry',
@@ -37665,7 +37665,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/tapestry/v6/SlGTmQecrosEYXhaGCIloHQ.ttf',
-    popularityRank: 1579,
+    popularityRank: 1655,
   ),
   WebFont(
     family: 'Taprom',
@@ -37678,7 +37678,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/taprom/v29/UcCn3F82JHycULb1QiMz.ttf',
-    popularityRank: 1612,
+    popularityRank: 1613,
   ),
   WebFont(
     family: 'Tauri',
@@ -37692,7 +37692,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tauri/v20/TwMA-IISS0AM3LpUUnE.ttf',
-    popularityRank: 1152,
+    popularityRank: 1162,
   ),
   WebFont(
     family: 'Taviraj',
@@ -37746,7 +37746,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/taviraj/v15/ahcZv8Cj3ylylTXzTO8rVw.ttf',
-    popularityRank: 403,
+    popularityRank: 422,
   ),
   WebFont(
     family: 'Teachers',
@@ -37783,7 +37783,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/teachers/v6/H4c5BXKVncXVmUGsgTwx4E9oHx2xfjBr3poAYpRK.ttf',
-    popularityRank: 872,
+    popularityRank: 870,
   ),
   WebFont(
     family: 'Teko',
@@ -37804,7 +37804,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN8XG4Sz1zY.ttf',
-    popularityRank: 128,
+    popularityRank: 127,
   ),
   WebFont(
     family: 'Tektur',
@@ -37829,7 +37829,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/tektur/v6/XoHN2YHtS7q969kXCjzlV0aSkS_o8OacmTe0TYlYFot8TrwuVbtPacc.ttf',
-    popularityRank: 556,
+    popularityRank: 540,
   ),
   WebFont(
     family: 'Telex',
@@ -37843,7 +37843,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/telex/v20/ieVw2Y1fKWmIO-fSDV4.ttf',
-    popularityRank: 668,
+    popularityRank: 671,
   ),
   WebFont(
     family: 'Tenali Ramakrishna',
@@ -37856,7 +37856,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tenaliramakrishna/v14/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-MKZ_u.ttf',
-    popularityRank: 858,
+    popularityRank: 841,
   ),
   WebFont(
     family: 'Tenor Sans',
@@ -37873,7 +37873,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tenorsans/v21/bx6ANxqUneKx06UkIXISn3N4Dw.ttf',
-    popularityRank: 237,
+    popularityRank: 247,
   ),
   WebFont(
     family: 'Text Me One',
@@ -37886,7 +37886,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/textmeone/v26/i7dOIFdlayuLUvgoFvHQFVZdYFI.ttf',
-    popularityRank: 1323,
+    popularityRank: 1274,
   ),
   WebFont(
     family: 'Texturina',
@@ -37939,7 +37939,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/texturina/v32/c4mM1nxpEtL3pXiAulRTkY-HGmNEX1b9NspjMwhAgliHhVrXy2eYGsUh0Z4.ttf',
-    popularityRank: 1340,
+    popularityRank: 1332,
   ),
   WebFont(
     family: 'Thasadith',
@@ -37960,7 +37960,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/thasadith/v13/mtG44_1TIqPYrd_f5R1osUMQ.ttf',
-    popularityRank: 955,
+    popularityRank: 986,
   ),
   WebFont(
     family: 'The Girl Next Door',
@@ -37973,7 +37973,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/thegirlnextdoor/v25/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCY4VrF_.ttf',
-    popularityRank: 943,
+    popularityRank: 963,
   ),
   WebFont(
     family: 'The Nautigal',
@@ -37991,7 +37991,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/thenautigal/v8/VdGZAZ8ZH51Lvng9fQV2bfKb5g9g.ttf',
-    popularityRank: 1053,
+    popularityRank: 1078,
   ),
   WebFont(
     family: 'Tienne',
@@ -38006,7 +38006,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tienne/v21/AYCKpX7pe9YCRP07kUnD.ttf',
-    popularityRank: 812,
+    popularityRank: 748,
   ),
   WebFont(
     family: 'TikTok Sans',
@@ -38032,7 +38032,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tiktoksans/v8/70kbu7g-Lm8OXGnh_Ow1sUfFMmlnhbRF425wxXH-UGeud7XItbaHtxhggMrrmAvSNAHtMV6x5PpBL2J5Rgbj-Bo7COHFpVDs.ttf',
-    popularityRank: 787,
+    popularityRank: 792,
   ),
   WebFont(
     family: 'Tillana',
@@ -38053,7 +38053,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/tillana/v15/VuJxdNvf35P4qJ1OSKfdPA.ttf',
-    popularityRank: 1321,
+    popularityRank: 1304,
   ),
   WebFont(
     family: 'Tilt Neon',
@@ -38070,7 +38070,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/tiltneon/v12/E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquUK8UOI.ttf',
-    popularityRank: 750,
+    popularityRank: 749,
   ),
   WebFont(
     family: 'Tilt Prism',
@@ -38087,7 +38087,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/tiltprism/v16/5h11iZgyPHoZ3YikNzWGfWey2dCAZXT-bH9V4VGn-FJ7tLI25oc_rIbAoD6v.ttf',
-    popularityRank: 1383,
+    popularityRank: 1382,
   ),
   WebFont(
     family: 'Tilt Warp',
@@ -38104,7 +38104,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/tiltwarp/v18/AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZQBwC1M.ttf',
-    popularityRank: 437,
+    popularityRank: 443,
   ),
   WebFont(
     family: 'Timmana',
@@ -38117,7 +38117,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/timmana/v14/6xKvdShfL9yK-rvpOmrRLA.ttf',
-    popularityRank: 1163,
+    popularityRank: 1186,
   ),
   WebFont(
     family: 'Tinos',
@@ -38143,7 +38143,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tinos/v26/buE4poGnedXvwjX9fmE.ttf',
-    popularityRank: 232,
+    popularityRank: 228,
   ),
   WebFont(
     family: 'Tiny5',
@@ -38163,7 +38163,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tiny5/v3/KFOpCnmCvdGT7iw_xUw.ttf',
-    popularityRank: 1243,
+    popularityRank: 1219,
   ),
   WebFont(
     family: 'Tiro Bangla',
@@ -38181,7 +38181,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tirobangla/v8/IFSgHe1Tm95E3O8b5i2V8PG880c.ttf',
-    popularityRank: 568,
+    popularityRank: 579,
   ),
   WebFont(
     family: 'Tiro Devanagari Hindi',
@@ -38199,7 +38199,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tirodevanagarihindi/v7/55xyezN7P8T4e0_CfIJrwdodg9HoYw0i-M9vSeMK.ttf',
-    popularityRank: 735,
+    popularityRank: 687,
   ),
   WebFont(
     family: 'Tiro Devanagari Marathi',
@@ -38217,7 +38217,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tirodevanagarimarathi/v7/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDqBpI.ttf',
-    popularityRank: 1358,
+    popularityRank: 1188,
   ),
   WebFont(
     family: 'Tiro Devanagari Sanskrit',
@@ -38235,7 +38235,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tirodevanagarisanskrit/v7/MCoAzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59ZE4su.ttf',
-    popularityRank: 1250,
+    popularityRank: 1065,
   ),
   WebFont(
     family: 'Tiro Gurmukhi',
@@ -38253,7 +38253,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tirogurmukhi/v8/x3dmckXSYq-Uqjc048JUF7Jvpy_NBQ.ttf',
-    popularityRank: 1384,
+    popularityRank: 1344,
   ),
   WebFont(
     family: 'Tiro Kannada',
@@ -38271,7 +38271,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tirokannada/v6/CSR44ztKmvqaDxEDJFY7CIY6SfN-.ttf',
-    popularityRank: 1409,
+    popularityRank: 1464,
   ),
   WebFont(
     family: 'Tiro Tamil',
@@ -38285,7 +38285,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tirotamil/v11/m8JXjfVIf7OT22n3M-S_YLVlbg.ttf',
-    popularityRank: 1535,
+    popularityRank: 1549,
   ),
   WebFont(
     family: 'Tiro Telugu',
@@ -38303,7 +38303,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdJSMSK0.ttf',
-    popularityRank: 1468,
+    popularityRank: 1490,
   ),
   WebFont(
     family: 'Tirra',
@@ -38326,7 +38326,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tirra/v2/WBLrrEnNakREGoPE1gU.ttf',
-    popularityRank: 1749,
+    popularityRank: 1677,
   ),
   WebFont(
     family: 'Titan One',
@@ -38340,7 +38340,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/titanone/v17/mFTzWbsGxbbS_J5cQcjCkjgj.ttf',
-    popularityRank: 236,
+    popularityRank: 244,
   ),
   WebFont(
     family: 'Titillium Web',
@@ -38425,7 +38425,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/tomorrow/v19/WBLmrETNbFtZCeGqgRXUe2U.ttf',
-    popularityRank: 580,
+    popularityRank: 543,
   ),
   WebFont(
     family: 'Tourney',
@@ -38478,7 +38478,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/tourney/v16/AlZa_ztDtYzv1tzq1wcJnbVt7xseomk-tNs7qrzTWbyt8n7GOQFCZDBx.ttf',
-    popularityRank: 1335,
+    popularityRank: 1208,
   ),
   WebFont(
     family: 'Trade Winds',
@@ -38491,7 +38491,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/tradewinds/v18/AYCPpXPpYNIIT7h8-QenM0Jr5vY.ttf',
-    popularityRank: 1044,
+    popularityRank: 836,
   ),
   WebFont(
     family: 'Train One',
@@ -38510,7 +38510,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/trainone/v16/gyB-hwkiNtc6KnxUVjW3O6zd.ttf',
-    popularityRank: 952,
+    popularityRank: 982,
   ),
   WebFont(
     family: 'Triodion',
@@ -38527,7 +38527,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5lr4seE.ttf',
-    popularityRank: 1516,
+    popularityRank: 1505,
   ),
   WebFont(
     family: 'Trirong',
@@ -38581,7 +38581,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/trirong/v17/7r3GqXNgp8wxdOdOn40o3Q.ttf',
-    popularityRank: 619,
+    popularityRank: 617,
   ),
   WebFont(
     family: 'Trispace',
@@ -38605,7 +38605,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/trispace/v27/Yq65-LKSQC3o56LxxgRrtA6yBqsrXL5GI5KI-IUZVGsxWFIlbH9rkQh-yA.ttf',
-    popularityRank: 1106,
+    popularityRank: 1145,
   ),
   WebFont(
     family: 'Trocchi',
@@ -38618,7 +38618,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/trocchi/v19/qWcqB6WkuIDxDZLcPrpeuA.ttf',
-    popularityRank: 754,
+    popularityRank: 773,
   ),
   WebFont(
     family: 'Trochut',
@@ -38633,7 +38633,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/trochut/v24/CHyjV-fDDlP9bDIw1nWCeQ.ttf',
-    popularityRank: 1522,
+    popularityRank: 1526,
   ),
   WebFont(
     family: 'Truculenta',
@@ -38668,7 +38668,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/truculenta/v27/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMlAigwYPGg.ttf',
-    popularityRank: 999,
+    popularityRank: 1033,
   ),
   WebFont(
     family: 'Trykker',
@@ -38681,7 +38681,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/trykker/v22/KtktALyWZJXudUPztNjiPQ.ttf',
-    popularityRank: 1426,
+    popularityRank: 1402,
   ),
   WebFont(
     family: 'Tsukimi Rounded',
@@ -38702,7 +38702,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7dPHkK.ttf',
-    popularityRank: 1485,
+    popularityRank: 1498,
   ),
   WebFont(
     family: 'Tuffy',
@@ -38727,7 +38727,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7oxyHYg.ttf',
-    popularityRank: 1792,
+    popularityRank: 1791,
   ),
   WebFont(
     family: 'Tulpen One',
@@ -38740,7 +38740,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/tulpenone/v26/dFa6ZfeC474skLgesc0Cajw6-A.ttf',
-    popularityRank: 1469,
+    popularityRank: 1470,
   ),
   WebFont(
     family: 'Turret Road',
@@ -38775,7 +38775,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/twinklestar/v8/pe0pMI6IL4dPoFl9LGEmY6WqAv5q.ttf',
-    popularityRank: 1556,
+    popularityRank: 1547,
   ),
   WebFont(
     family: 'Ubuntu',
@@ -38811,7 +38811,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ubuntu/v21/4iCs6KVjbNBYlgoKeQ7z.ttf',
-    popularityRank: 23,
+    popularityRank: 25,
   ),
   WebFont(
     family: 'Ubuntu Condensed',
@@ -38831,7 +38831,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ubuntucondensed/v17/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-bfrg.ttf',
-    popularityRank: 330,
+    popularityRank: 341,
   ),
   WebFont(
     family: 'Ubuntu Mono',
@@ -38854,7 +38854,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/ubuntumono/v19/KFOjCneDtsqEr0keqCMhbCc8CsE.ttf',
-    popularityRank: 422,
+    popularityRank: 412,
   ),
   WebFont(
     family: 'Ubuntu Sans',
@@ -38906,7 +38906,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ubuntusans/v4/co3omWd6mSRtB7_9UaLWwJnCq5ALePfPu1tPcW235R53LqrCPWbujzt6OfuBUA.ttf',
-    popularityRank: 334,
+    popularityRank: 343,
   ),
   WebFont(
     family: 'Ubuntu Sans Mono',
@@ -38942,7 +38942,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/ubuntusansmono/v3/jVyc7mzgBHrR5yE7ZyRg0QRJMKI4zAbgjc1t-pKe27Ev_nYQgKM.ttf',
-    popularityRank: 1504,
+    popularityRank: 1551,
   ),
   WebFont(
     family: 'Uchen',
@@ -38956,7 +38956,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/uchen/v11/nKKZ-GokGZ1baLaTGwU.ttf',
-    popularityRank: 1235,
+    popularityRank: 1506,
   ),
   WebFont(
     family: 'Ultra',
@@ -38970,7 +38970,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/ultra/v25/zOLy4prXmrtY-uT7wrc.ttf',
-    popularityRank: 415,
+    popularityRank: 431,
   ),
   WebFont(
     family: 'Unbounded',
@@ -38996,7 +38996,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6xjx44zNhA.ttf',
-    popularityRank: 183,
+    popularityRank: 174,
   ),
   WebFont(
     family: 'Uncial Antiqua',
@@ -39009,7 +39009,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/uncialantiqua/v22/N0bM2S5WOex4OUbESzoESK-i-MfQQZE.ttf',
-    popularityRank: 716,
+    popularityRank: 702,
   ),
   WebFont(
     family: 'Underdog',
@@ -39027,7 +39027,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/underdog/v24/CHygV-jCElj7diMroWSjWVo.ttf',
-    popularityRank: 1207,
+    popularityRank: 1098,
   ),
   WebFont(
     family: 'Unica One',
@@ -39045,7 +39045,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/unicaone/v20/DPEuYwWHyAYGVTSmalsRd93b.ttf',
-    popularityRank: 289,
+    popularityRank: 270,
   ),
   WebFont(
     family: 'UnifrakturCook',
@@ -39058,7 +39058,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/unifrakturcook/v25/IurA6Yli8YOdcoky-0PTTdkm56n05Xw01oY.ttf',
-    popularityRank: 1054,
+    popularityRank: 1053,
   ),
   WebFont(
     family: 'UnifrakturMaguntia',
@@ -39071,7 +39071,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/unifrakturmaguntia/v22/WWXPlieVYwiGNomYU-ciRLRvEmK7oaVenmZJ.ttf',
-    popularityRank: 554,
+    popularityRank: 496,
   ),
   WebFont(
     family: 'Unkempt',
@@ -39085,7 +39085,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/unkempt/v22/2EbnL-Z2DFZue0DSeYcV9w.ttf',
-    popularityRank: 939,
+    popularityRank: 948,
   ),
   WebFont(
     family: 'Unlock',
@@ -39098,7 +39098,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/unlock/v28/7Au-p_8ykD-cDl72KQLW.ttf',
-    popularityRank: 1349,
+    popularityRank: 1341,
   ),
   WebFont(
     family: 'Unna',
@@ -39116,7 +39116,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/unna/v25/AYCEpXzofN0NOpkLkA.ttf',
-    popularityRank: 254,
+    popularityRank: 240,
   ),
   WebFont(
     family: 'UoqMunThenKhung',
@@ -39134,7 +39134,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/uoqmunthenkhung/v3/Y4GTYa1nVTQLt-D5LoLChg5aJjITwbj5.ttf',
-    popularityRank: 1640,
+    popularityRank: 1645,
   ),
   WebFont(
     family: 'Updock',
@@ -39151,7 +39151,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/updock/v7/nuF4D_3dVZ70UI9ijbiz.ttf',
-    popularityRank: 1473,
+    popularityRank: 1475,
   ),
   WebFont(
     family: 'Urbanist',
@@ -39200,7 +39200,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/urbanist/v18/L0xjDF02iFML4hGCyOCpRdycFsGxSrqDyx4vF5mv.ttf',
-    popularityRank: 100,
+    popularityRank: 106,
   ),
   WebFont(
     family: 'VT323',
@@ -39218,7 +39218,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/vt323/v18/pxiKyp0ihIEF2isZFJA.ttf',
-    popularityRank: 293,
+    popularityRank: 255,
   ),
   WebFont(
     family: 'Vampiro One',
@@ -39231,7 +39231,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/vampiroone/v19/gokqH6DoDl5yXvJytFsdLnqmuPw.ttf',
-    popularityRank: 1185,
+    popularityRank: 1211,
   ),
   WebFont(
     family: 'Varela',
@@ -39244,7 +39244,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/varela/v17/DPEtYwqExx0AWHX5BR4B.ttf',
-    popularityRank: 411,
+    popularityRank: 427,
   ),
   WebFont(
     family: 'Varela Round',
@@ -39283,7 +39283,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9tD40i7s6.ttf',
-    popularityRank: 1052,
+    popularityRank: 1182,
   ),
   WebFont(
     family: 'Vast Shadow',
@@ -39296,7 +39296,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/vastshadow/v21/pe0qMImKOZ1V62ZwbVY9dce7I94.ttf',
-    popularityRank: 836,
+    popularityRank: 833,
   ),
   WebFont(
     family: 'Vazirmatn',
@@ -39331,7 +39331,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/vazirmatn/v16/Dxx78j6PP2D_kU2muijPEe1n2vVbfJRklWgzCRaT6w.ttf',
-    popularityRank: 353,
+    popularityRank: 340,
   ),
   WebFont(
     family: 'Vend Sans',
@@ -39364,7 +39364,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqlmq_zbDRA.ttf',
-    popularityRank: 1444,
+    popularityRank: 1418,
   ),
   WebFont(
     family: 'Vesper Libre',
@@ -39384,7 +39384,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/vesperlibre/v21/bx6CNxyWnf-uxPdXDHUD_RdIDkWJ.ttf',
-    popularityRank: 782,
+    popularityRank: 819,
   ),
   WebFont(
     family: 'Viaoda Libre',
@@ -39403,7 +39403,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/viaodalibre/v20/vEFW2_lWCgoR6OKuRz9kcRV5bmgc.ttf',
-    popularityRank: 815,
+    popularityRank: 817,
   ),
   WebFont(
     family: 'Vibes',
@@ -39417,7 +39417,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/vibes/v16/QdVYSTsmIB6tmYd2FJI.ttf',
-    popularityRank: 1620,
+    popularityRank: 1625,
   ),
   WebFont(
     family: 'Vibur',
@@ -39431,7 +39431,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/vibur/v24/DPEiYwmEzw0QRgToJD4.ttf',
-    popularityRank: 873,
+    popularityRank: 896,
   ),
   WebFont(
     family: 'Victor Mono',
@@ -39479,7 +39479,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO879hdaK.ttf',
-    popularityRank: 1128,
+    popularityRank: 1118,
   ),
   WebFont(
     family: 'Vidaloka',
@@ -39493,7 +39493,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/vidaloka/v19/7cHrv4c3ipenMKlEavs9wHo.ttf',
-    popularityRank: 402,
+    popularityRank: 395,
   ),
   WebFont(
     family: 'Viga',
@@ -39525,7 +39525,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/vinasans/v8/m8JQjfZKf6-d2273MP7DcZRF.ttf',
-    popularityRank: 551,
+    popularityRank: 562,
   ),
   WebFont(
     family: 'Voces',
@@ -39539,7 +39539,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/voces/v24/-F6_fjJyLyU8d7PADmo.ttf',
-    popularityRank: 827,
+    popularityRank: 1034,
   ),
   WebFont(
     family: 'Volkhov',
@@ -39555,7 +39555,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/volkhov/v18/SlGQmQieoJcKemNecTMEgA.ttf',
-    popularityRank: 383,
+    popularityRank: 382,
   ),
   WebFont(
     family: 'Vollkorn',
@@ -39599,7 +39599,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/vollkorn/v30/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeGGmZ.ttf',
-    popularityRank: 191,
+    popularityRank: 192,
   ),
   WebFont(
     family: 'Vollkorn SC',
@@ -39621,7 +39621,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/vollkornsc/v12/j8_v6-zQ3rXpceZj9cqnViF4Pns.ttf',
-    popularityRank: 741,
+    popularityRank: 876,
   ),
   WebFont(
     family: 'Voltaire',
@@ -39639,7 +39639,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/voltaire/v23/1Pttg8PcRfSblAvGvTopaqE.ttf',
-    popularityRank: 860,
+    popularityRank: 842,
   ),
   WebFont(
     family: 'Vujahday Script',
@@ -39656,7 +39656,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/vujahdayscript/v10/RWmQoKGA8fEkrIPtSZ3_J7er2dUSDUFr.ttf',
-    popularityRank: 871,
+    popularityRank: 940,
   ),
   WebFont(
     family: 'WDXL Lubrifont JP N',
@@ -39675,7 +39675,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/wdxllubrifontjpn/v2/8At1GtSkFqazDiO949fzWta9_T-SVxJiEZYnpA.ttf',
-    popularityRank: 1353,
+    popularityRank: 1324,
   ),
   WebFont(
     family: 'WDXL Lubrifont SC',
@@ -39694,7 +39694,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/wdxllubrifontsc/v2/gNMeW2VmY6acu0XtugFrduDciOOyfky4kjs.ttf',
-    popularityRank: 1529,
+    popularityRank: 1552,
   ),
   WebFont(
     family: 'WDXL Lubrifont TC',
@@ -39713,7 +39713,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/wdxllubrifonttc/v6/nKKN-H4mPq1yJurnWXfJE8svQHonWf__GKg.ttf',
-    popularityRank: 1624,
+    popularityRank: 1580,
   ),
   WebFont(
     family: 'Waiting for the Sunrise',
@@ -39726,7 +39726,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/waitingforthesunrise/v23/WBL1rFvOYl9CEv2i1mO6KUW8RKWJ2zoXoz5JsbZR_Bs.ttf',
-    popularityRank: 724,
+    popularityRank: 729,
   ),
   WebFont(
     family: 'Wallpoet',
@@ -39740,7 +39740,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/wallpoet/v21/f0X10em2_8RnXVVdUObv58E.ttf',
-    popularityRank: 623,
+    popularityRank: 584,
   ),
   WebFont(
     family: 'Walter Turncoat',
@@ -39753,7 +39753,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/walterturncoat/v24/snfys0Gs98ln43n0d-14ULoToe6LYReZ.ttf',
-    popularityRank: 826,
+    popularityRank: 862,
   ),
   WebFont(
     family: 'Warnes',
@@ -39766,7 +39766,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/warnes/v29/pONn1hc0GsW6sW5-pyqy.ttf',
-    popularityRank: 1771,
+    popularityRank: 1789,
   ),
   WebFont(
     family: 'Water Brush',
@@ -39783,7 +39783,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/waterbrush/v6/AYCPpXPqc8cJWLhp4hywKEJr5vY.ttf',
-    popularityRank: 1336,
+    popularityRank: 1316,
   ),
   WebFont(
     family: 'Waterfall',
@@ -39801,7 +39801,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/waterfall/v8/MCoRzAfo293fACdFKcwo27v4.ttf',
-    popularityRank: 896,
+    popularityRank: 924,
   ),
   WebFont(
     family: 'Wavefont',
@@ -39832,7 +39832,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V04DGVq8.ttf',
-    popularityRank: 1812,
+    popularityRank: 1563,
   ),
   WebFont(
     family: 'Wellfleet',
@@ -39845,7 +39845,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/wellfleet/v25/nuF7D_LfQJb3VYgX6eyj4myP.ttf',
-    popularityRank: 1371,
+    popularityRank: 1372,
   ),
   WebFont(
     family: 'Wendy One',
@@ -39859,7 +39859,7 @@ const webfontList = [
     category: WebFontCategory.sansSerif,
     menu:
         'https://fonts.gstatic.com/s/wendyone/v20/2sDcZGJOipXfgfXV5wgzbmW8.ttf',
-    popularityRank: 972,
+    popularityRank: 971,
   ),
   WebFont(
     family: 'Whisper',
@@ -39876,7 +39876,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/whisper/v7/q5uHsoqtKftx74K9qihIAw.ttf',
-    popularityRank: 1072,
+    popularityRank: 1047,
   ),
   WebFont(
     family: 'WindSong',
@@ -39895,7 +39895,7 @@ const webfontList = [
     category: WebFontCategory.handwriting,
     menu:
         'https://fonts.gstatic.com/s/windsong/v13/KR1WBsyu-P-GFEW57o94F9U.ttf',
-    popularityRank: 1051,
+    popularityRank: 1016,
   ),
   WebFont(
     family: 'Winky Rough',
@@ -39936,7 +39936,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/winkyrough/v4/t5tzIRwIMoSXA0WSPBjQxJzjxc0_NyCBbx8bZyVeNrhF.ttf',
-    popularityRank: 1564,
+    popularityRank: 1527,
   ),
   WebFont(
     family: 'Winky Sans',
@@ -39977,7 +39977,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/winkysans/v3/ll8sK2SDUiG1Hpf2p06bHaEAYt6HPhJ2AGWKiA6E0z4.ttf',
-    popularityRank: 1264,
+    popularityRank: 1252,
   ),
   WebFont(
     family: 'Wire One',
@@ -39990,7 +39990,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/wireone/v30/qFdH35Wah5htUhV75VGjU94.ttf',
-    popularityRank: 1000,
+    popularityRank: 987,
   ),
   WebFont(
     family: 'Wittgenstein',
@@ -40027,7 +40027,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/wittgenstein/v4/WBL3rEDOakJCHParhXGwMgvyJ8hdWNLC1kI61G4TzBrxYw.ttf',
-    popularityRank: 1380,
+    popularityRank: 1415,
   ),
   WebFont(
     family: 'Wix Madefor Display',
@@ -40050,7 +40050,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/wixmadefordisplay/v12/SZcS3EX9IbbyeJ8aOluD52KXgUA_7Ed1I13G853Cp9duUYFhYmtltfk.ttf',
-    popularityRank: 476,
+    popularityRank: 472,
   ),
   WebFont(
     family: 'Wix Madefor Text',
@@ -40089,7 +40089,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/wixmadefortext/v17/-W_oXI_oSymQ8Qj-Apx3HGN_Hu1RTCk5FtSDETgf0cK_NNeEiJA.ttf',
-    popularityRank: 502,
+    popularityRank: 486,
   ),
   WebFont(
     family: 'Work Sans',
@@ -40142,7 +40142,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/worksans/v24/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBikJow.ttf',
-    popularityRank: 33,
+    popularityRank: 31,
   ),
   WebFont(
     family: 'Workbench',
@@ -40155,7 +40155,7 @@ const webfontList = [
     },
     category: WebFontCategory.monospace,
     menu: 'https://fonts.gstatic.com/s/workbench/v3/FeV8S05Gp6Et7FcfbPFK1rynGd_MxtkvNFmoUDFhgF2VKTGQk6vapeOK2mY.ttf',
-    popularityRank: 1520,
+    popularityRank: 1593,
   ),
   WebFont(
     family: 'Xanh Mono',
@@ -40174,7 +40174,7 @@ const webfontList = [
     category: WebFontCategory.monospace,
     menu:
         'https://fonts.gstatic.com/s/xanhmono/v19/R70YjykVmvKCep-vWhSomQqU.ttf',
-    popularityRank: 761,
+    popularityRank: 751,
   ),
   WebFont(
     family: 'Yaldevi',
@@ -40196,7 +40196,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/yaldevi/v17/cY9afj6VW0NMrDWtDNzCOwlPMq9SLpdxJwvpZRY.ttf',
-    popularityRank: 1338,
+    popularityRank: 1325,
   ),
   WebFont(
     family: 'Yanone Kaffeesatz',
@@ -40222,7 +40222,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/yanonekaffeesatz/v34/3y9I6aknfjLm_3lMKjiMgmUUYBs04aUXNxt9gW2LIfto9tWZcWGP.ttf',
-    popularityRank: 173,
+    popularityRank: 183,
   ),
   WebFont(
     family: 'Yantramanav',
@@ -40244,7 +40244,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/yantramanav/v15/flU8Rqu5zY00QEpyWJYWN5f1XeM.ttf',
-    popularityRank: 286,
+    popularityRank: 292,
   ),
   WebFont(
     family: 'Yarndings 12',
@@ -40257,7 +40257,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/yarndings12/v4/55xreyp2N8T5P2LJbZAlkY9s8JjI.ttf',
-    popularityRank: 1910,
+    popularityRank: 1895,
   ),
   WebFont(
     family: 'Yarndings 12 Charted',
@@ -40270,7 +40270,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/yarndings12charted/v4/eLGDP_DlKhO-DUfeqM4I_vDdJgmIh7hAvsbI2Ns.ttf',
-    popularityRank: 1914,
+    popularityRank: 1923,
   ),
   WebFont(
     family: 'Yarndings 20',
@@ -40283,7 +40283,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/yarndings20/v4/TuGWUVlkUohEQu8l7K8b-vN1BnUw.ttf',
-    popularityRank: 1869,
+    popularityRank: 1870,
   ),
   WebFont(
     family: 'Yarndings 20 Charted',
@@ -40296,7 +40296,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/yarndings20charted/v4/QldRNSdbpg0G8vh0W2qxe0l-hcUPtY2VaIQn60A.ttf',
-    popularityRank: 1868,
+    popularityRank: 1820,
   ),
   WebFont(
     family: 'Yatra One',
@@ -40314,7 +40314,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/yatraone/v16/C8ch4copsHzj8p7NaF0BwlmF.ttf',
-    popularityRank: 594,
+    popularityRank: 614,
   ),
   WebFont(
     family: 'Yellowtail',
@@ -40327,7 +40327,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/yellowtail/v25/OZpGg_pnoDtINPfRIlLohl3HxA.ttf',
-    popularityRank: 217,
+    popularityRank: 222,
   ),
   WebFont(
     family: 'Yeon Sung',
@@ -40341,7 +40341,7 @@ const webfontList = [
     category: WebFontCategory.display,
     menu:
         'https://fonts.gstatic.com/s/yeonsung/v22/QldMNTpbohAGtsJvUn6BSFle.ttf',
-    popularityRank: 1231,
+    popularityRank: 1212,
   ),
   WebFont(
     family: 'Yeseva One',
@@ -40360,7 +40360,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/yesevaone/v24/OpNJno4ck8vc-xYpwWWxlitVXg.ttf',
-    popularityRank: 375,
+    popularityRank: 367,
   ),
   WebFont(
     family: 'Yesteryear',
@@ -40373,7 +40373,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/yesteryear/v21/dg4g_p78rroaKl8kRKo1n70NSw.ttf',
-    popularityRank: 693,
+    popularityRank: 744,
   ),
   WebFont(
     family: 'Yomogi',
@@ -40392,7 +40392,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/yomogi/v13/VuJwdNrS2ZL7rpo_WYb9.ttf',
-    popularityRank: 1084,
+    popularityRank: 1077,
   ),
   WebFont(
     family: 'Young Serif',
@@ -40405,7 +40405,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/youngserif/v2/3qTpojO2nS2VtkB3KtkQZ1t73kM.ttf',
-    popularityRank: 563,
+    popularityRank: 628,
   ),
   WebFont(
     family: 'Yrsa',
@@ -40442,7 +40442,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/yrsa/v25/wlprgwnQFlxs_wD3CFSMYmFaaCieSONU_LA.ttf',
-    popularityRank: 545,
+    popularityRank: 532,
   ),
   WebFont(
     family: 'Ysabeau',
@@ -40500,7 +40500,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ysabeau/v5/kmKiZqEiBAXLcnuMvjZNI_5FGeJet7OWCAYxKcU.ttf',
-    popularityRank: 1263,
+    popularityRank: 1185,
   ),
   WebFont(
     family: 'Ysabeau Infant',
@@ -40558,7 +40558,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ysabeauinfant/v4/hv-ClzpqOkkV94kBTQVdX1EWI9B0V-HEmd9JmTQYFo83Kpql.ttf',
-    popularityRank: 1354,
+    popularityRank: 1359,
   ),
   WebFont(
     family: 'Ysabeau Office',
@@ -40616,7 +40616,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ysabeauoffice/v4/LDImapaZKhM9RuQIp8FmdYrPPNjFm07hbpKNlPPbh6MvYC3t.ttf',
-    popularityRank: 888,
+    popularityRank: 867,
   ),
   WebFont(
     family: 'Ysabeau SC',
@@ -40656,7 +40656,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/ysabeausc/v4/Noai6Uro3JCIKAbW46nMorJZyP7kKRflbw98UmqFbYU.ttf',
-    popularityRank: 1075,
+    popularityRank: 1093,
   ),
   WebFont(
     family: 'Yuji Boku',
@@ -40675,7 +40675,7 @@ const webfontList = [
     category: WebFontCategory.serif,
     menu:
         'https://fonts.gstatic.com/s/yujiboku/v8/P5sAzZybeNzXsA9xj1FUjLev.ttf',
-    popularityRank: 1290,
+    popularityRank: 1275,
   ),
   WebFont(
     family: 'Yuji Hentaigana Akari',
@@ -40692,7 +40692,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/yujihentaiganaakari/v14/cY9bfiyVT0VB6QuhWKOrpr6z58lnb_zYFnL4RDbK.ttf',
-    popularityRank: 1686,
+    popularityRank: 1736,
   ),
   WebFont(
     family: 'Yuji Hentaigana Akebono',
@@ -40709,7 +40709,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/yujihentaiganaakebono/v15/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wTy8PqE.ttf',
-    popularityRank: 1892,
+    popularityRank: 1885,
   ),
   WebFont(
     family: 'Yuji Mai',
@@ -40727,7 +40727,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/yujimai/v8/ZgNQjPxdJ7DEHrS0gB39jGU.ttf',
-    popularityRank: 510,
+    popularityRank: 478,
   ),
   WebFont(
     family: 'Yuji Syuku',
@@ -40745,7 +40745,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/yujisyuku/v8/BngNUXdTV3vO6Lw5ApOPmPbqxg.ttf',
-    popularityRank: 699,
+    popularityRank: 747,
   ),
   WebFont(
     family: 'Yusei Magic',
@@ -40762,7 +40762,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/yuseimagic/v17/yYLt0hbAyuCmoo5wlhPkpgHQ8NM.ttf',
-    popularityRank: 658,
+    popularityRank: 665,
   ),
   WebFont(
     family: 'Yuyu',
@@ -40776,7 +40776,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/yuyu/v1/cY9Kfj2VT1Zd2ULkNg.ttf',
-    popularityRank: 1368,
+    popularityRank: 1639,
   ),
   WebFont(
     family: 'Yuyu Short',
@@ -40789,7 +40789,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/yuyushort/v1/LDI3apKZLAsqA9YV6Px0A-KMWQ.ttf',
-    popularityRank: 1237,
+    popularityRank: 1575,
   ),
   WebFont(
     family: 'ZCOOL KuaiLe',
@@ -40802,7 +40802,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zcoolkuaile/v22/tssqApdaRQokwFjFJjvM6h2mp4b3.ttf',
-    popularityRank: 660,
+    popularityRank: 654,
   ),
   WebFont(
     family: 'ZCOOL QingKe HuangYou',
@@ -40815,7 +40815,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zcoolqingkehuangyou/v16/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mR4ive4.ttf',
-    popularityRank: 665,
+    popularityRank: 649,
   ),
   WebFont(
     family: 'ZCOOL XiaoWei',
@@ -40828,7 +40828,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zcoolxiaowei/v15/i7dMIFFrTRywPpUVX9_RJyM1UFOaGw.ttf',
-    popularityRank: 679,
+    popularityRank: 669,
   ),
   WebFont(
     family: 'Zain',
@@ -40864,7 +40864,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zain/v4/syk8-y9lm7soMNPNlQ.ttf',
-    popularityRank: 861,
+    popularityRank: 886,
   ),
   WebFont(
     family: 'Zalando Sans',
@@ -40913,7 +40913,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zalandosans/v3/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT87PwkSa0c.ttf',
-    popularityRank: 949,
+    popularityRank: 944,
   ),
   WebFont(
     family: 'Zalando Sans Expanded',
@@ -40962,7 +40962,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zalandosansexpanded/v3/JTU6jJci8Cy470GaeFwsix1hi3aTmrgRwU-ZoGTKmeLvpK-4OHGIp4xrdw.ttf',
-    popularityRank: 767,
+    popularityRank: 766,
   ),
   WebFont(
     family: 'Zalando Sans SemiExpanded',
@@ -41011,7 +41011,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zalandosanssemiexpanded/v3/6qLhKYcHuh3msE9OaXROVVclRRa-ClZSEipa2hrEzR2jhk_n3T6ACkDbEkP8HMo.ttf',
-    popularityRank: 880,
+    popularityRank: 885,
   ),
   WebFont(
     family: 'Zen Antique',
@@ -41030,7 +41030,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/zenantique/v14/AYCPpXPnd91Ma_Zf-Ri2JUJr5vY.ttf',
-    popularityRank: 720,
+    popularityRank: 733,
   ),
   WebFont(
     family: 'Zen Antique Soft',
@@ -41049,7 +41049,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/zenantiquesoft/v14/DtV4JwqzSL1q_KwnEWMc_3xfgW6itwFslg.ttf',
-    popularityRank: 831,
+    popularityRank: 837,
   ),
   WebFont(
     family: 'Zen Dots',
@@ -41062,7 +41062,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/zendots/v14/XRXX3ICfm00IGoesQdaFRss.ttf',
-    popularityRank: 682,
+    popularityRank: 673,
   ),
   WebFont(
     family: 'Zen Kaku Gothic Antique',
@@ -41084,7 +41084,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zenkakugothicantique/v18/6qLQKYkHvh-nlUpKPAdoVFBtfxDzIn1eCzpB22-h1xY.ttf',
-    popularityRank: 413,
+    popularityRank: 419,
   ),
   WebFont(
     family: 'Zen Kaku Gothic New',
@@ -41106,7 +41106,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zenkakugothicnew/v18/gNMYW2drQpDw0GjzrVNFf_valaDBcznOojpoSQ.ttf',
-    popularityRank: 141,
+    popularityRank: 139,
   ),
   WebFont(
     family: 'Zen Kurenaido',
@@ -41125,7 +41125,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zenkurenaido/v19/3XFsEr0515BK2u6UUptu_gWJVf383A.ttf',
-    popularityRank: 823,
+    popularityRank: 828,
   ),
   WebFont(
     family: 'Zen Loop',
@@ -41139,7 +41139,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/zenloop/v11/h0GrssK16UsnJwHsEJ9yoQg.ttf',
-    popularityRank: 1521,
+    popularityRank: 1602,
   ),
   WebFont(
     family: 'Zen Maru Gothic',
@@ -41162,7 +41162,7 @@ const webfontList = [
     },
     category: WebFontCategory.sansSerif,
     menu: 'https://fonts.gstatic.com/s/zenmarugothic/v19/o-0SIpIxzW5b-RxT-6A8jWAtCp-U7Ehi.ttf',
-    popularityRank: 178,
+    popularityRank: 179,
   ),
   WebFont(
     family: 'Zen Old Mincho',
@@ -41185,7 +41185,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/zenoldmincho/v13/tss0ApVaYytLwxTqcxfMyBveybb2iXk.ttf',
-    popularityRank: 271,
+    popularityRank: 277,
   ),
   WebFont(
     family: 'Zen Tokyo Zoo',
@@ -41198,7 +41198,7 @@ const webfontList = [
     },
     category: WebFontCategory.display,
     menu: 'https://fonts.gstatic.com/s/zentokyozoo/v8/NGSyv5ffC0J_BK6aFNtr6sRvwaxkQQ.ttf',
-    popularityRank: 1196,
+    popularityRank: 1205,
   ),
   WebFont(
     family: 'Zeyada',
@@ -41211,7 +41211,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/zeyada/v22/11hAGpPTxVPUbgZzNWyp.ttf',
-    popularityRank: 367,
+    popularityRank: 363,
   ),
   WebFont(
     family: 'Zhi Mang Xing',
@@ -41224,7 +41224,7 @@ const webfontList = [
     },
     category: WebFontCategory.handwriting,
     menu: 'https://fonts.gstatic.com/s/zhimangxing/v19/f0Xw0ey79sErYFtWQ9a2rq-g4aYneQ.ttf',
-    popularityRank: 986,
+    popularityRank: 970,
   ),
   WebFont(
     family: 'Zilla Slab',
@@ -41257,7 +41257,7 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/zillaslab/v12/dFa6ZfeM_74wlPZtksIFajw6-A.ttf',
-    popularityRank: 145,
+    popularityRank: 148,
   ),
   WebFont(
     family: 'Zilla Slab Highlight',
@@ -41271,6 +41271,6 @@ const webfontList = [
     },
     category: WebFontCategory.serif,
     menu: 'https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxitJaWQ.ttf',
-    popularityRank: 1220,
+    popularityRank: 1221,
   ),
 ];
