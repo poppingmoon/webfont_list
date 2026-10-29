@@ -43,70 +43,35 @@ void main() async {
   subsets.sort();
   final categories = {for (final item in items) item.category}.toList();
   categories.sort();
-  final source = [
-    '''
-    // Generated file. Do not edit.
-    //
-    // Source: webfonts.json
-    // To regenerate, run: `dart run tool/generate_metadatas.dart webfonts.json`
+  final source =
+      '''
+      // Generated file. Do not edit.
+      //
+      // To regenerate, run: `dart run tool/update_fonts.dart`
 
-    enum WebFontSubset {${subsets.join(',')}}
+      enum WebFontSubset {${subsets.join(',')}}
 
-    enum WebFontCategory {${categories.join(',')}}
-
-    class WebFont {
-      const WebFont({
-        required this.family,
-        required this.variants,
-        required this.subsets,
-        required this.version,
-        required this.lastModified,
-        required this.files,
-        required this.category,
-        required this.menu,
-        required this.popularityRank,
-      });
-
-      final String family;
-      final List<String> variants;
-      final List<WebFontSubset> subsets;
-      final String version;
-      final String lastModified;
-      final Map<String, String> files;
-      final WebFontCategory category;
-      final String menu;
-      final int popularityRank;
-    }
-
-    ''',
-    'const webfontList = [',
-    for (final item in items) ...[
-      'WebFont(',
-      "  family: '${item.family}',",
-      '  variants: [',
-      for (final variant in item.variants) "'$variant',",
-      '  ],',
-      '  subsets: [',
-      for (final subset in item.subsets) 'WebFontSubset.$subset,',
-      '  ],',
-      "  version: '${item.version}',",
-      "  lastModified: '${item.lastModified}',",
-      '  files: {',
-      for (final entry in item.files.entries)
-        "  '${entry.key}': '${entry.value}',",
-      '  },',
-      '  category: WebFontCategory.${item.category},',
-      "  menu: '${item.menu}',",
-      "  popularityRank: ${item.popularityRank},",
-      '),',
-    ],
-    '];',
-  ].join('\n');
-  File("lib/webfont_list.dart").writeAsStringSync(
-    DartFormatter(
-      languageVersion: DartFormatter.latestLanguageVersion,
-    ).format(source),
+      enum WebFontCategory {${categories.join(',')}}
+      ''';
+  File('lib/src/webfont_enums.dart').writeAsStringSync(
+    DartFormatter(languageVersion: DartFormatter.latestLanguageVersion)
+        .format(source),
   );
+  final fonts = [
+    for (final item in items)
+      {
+        'family': item.family,
+        'variants': item.variants,
+        'subsets': item.subsets,
+        'version': item.version,
+        'lastModified': item.lastModified,
+        'files': item.files,
+        'category': item.category,
+        'menu': item.menu,
+        'popularityRank': item.popularityRank,
+      },
+  ];
+  File('assets/webfont_list.json').writeAsStringSync(jsonEncode(fonts));
 }
 
 String _toCamelCase(String kebabCase) {

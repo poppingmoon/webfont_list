@@ -15,21 +15,34 @@ jobs:
     steps:
       - uses: actions/checkout@v7.0.1
 
-      - name: Install Dart
-        uses: dart-lang/setup-dart@v1.8.1
+      - name: Install Flutter
+        uses: subosito/flutter-action@v2.23.0
+        with:
+          channel: stable
+          cache: true
 
       - name: Get dependencies
-        run: dart pub get
+        run: flutter pub get
 
       - name: Run update script
         env:
           API_KEY: ${{ secrets.API_KEY }}
         run: dart run tool/update_fonts.dart
 
+      - parallel:
+        - name: Format
+          run: dart format --set-exit-if-changed .
+
+        - name: Analyze
+          run: flutter analyze
+
+        - name: Test
+          run: flutter test
+
       - name: Commit and push changes
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add .
-          git commit -m "Update webfont_list.dart"
+          git commit -m "Update webfont_list.json"
           git push
